@@ -1,0 +1,3440 @@
+Date;Region;Value
+2019-01-01;Russia;79920
+2019-01-01;Republic of Adygea;37453
+2019-01-01;Altai Republic;0
+2019-01-01;Altai Krai;45008
+2019-01-01;Amur Oblast;0
+2019-01-01;Arkhangelsk Oblast;82639
+2019-01-01;Astrakhan Oblast;65801
+2019-01-01;Belgorod Oblast;50656
+2019-01-01;Bryansk Oblast;35664
+2019-01-01;Vladimir Oblast;42764
+2019-01-01;Volgograd Oblast;49032
+2019-01-01;Voronezh Oblast;48929
+2019-01-01;Ivanovo Oblast;34500
+2019-01-01;Irkutsk Oblast;56746
+2019-01-01;Kaluga Oblast;60800
+2019-01-01;Kemerovo Oblast;39910
+2019-01-01;Kirov Oblast;38000
+2019-01-01;Krasnodar Krai;54274
+2019-01-01;Krasnoyarsk Krai;66000
+2019-01-01;Leningrad Oblast;83994
+2019-01-01;Lipetsk Oblast;67077
+2019-01-01;Republic of Mordovia;44826
+2019-01-01;Moscow;200763
+2019-01-01;Moscow Oblast;100565
+2019-01-01;Nizhny Novgorod Oblast;56600
+2019-01-01;Novosibirsk Oblast;71810
+2019-01-01;Orenburg Oblast;30099
+2019-01-01;Oryol Oblast;37850
+2019-01-01;Penza Oblast;54500
+2019-01-01;Perm Krai;51675
+2019-01-01;Primorsky Krai;94386
+2019-01-01;Republic of Bashkortostan;67808
+2019-01-01;Republic of Dagestan;0
+2019-01-01;Republic of Sakha (Yakutia);73967
+2019-01-01;Republic of North Ossetia–Alania;0
+2019-01-01;Republic of Tatarstan;54850
+2019-01-01;Republic of Khakassia;65000
+2019-01-01;Rostov Oblast;46985
+2019-01-01;Ryazan Oblast;43849
+2019-01-01;Samara Oblast;53462
+2019-01-01;City of Saint Petersburg;133484
+2019-01-01;Saratov Oblast;39291
+2019-01-01;Sakhalin Oblast;149555
+2019-01-01;Sverdlovsk Oblast;73583
+2019-01-01;Smolensk Oblast;41447
+2019-01-01;Stavropol Krai;37245
+2019-01-01;Tver Oblast;45565
+2019-01-01;Tomsk Oblast;0
+2019-01-01;Tula Oblast;59312
+2019-01-01;Tyumen Oblast;69199
+2019-01-01;Udmurt Republic;58219
+2019-01-01;Ulyanovsk Oblast;35391
+2019-01-01;Chelyabinsk Oblast;45438
+2019-01-01;Chuvash Republic — Chuvashia;44331
+2019-01-01;Yaroslavl Oblast;39931
+2019-02-01;Russia;75467
+2019-02-01;Republic of Adygea;41993
+2019-02-01;Altai Republic;0
+2019-02-01;Altai Krai;46255
+2019-02-01;Amur Oblast;0
+2019-02-01;Arkhangelsk Oblast;77585
+2019-02-01;Astrakhan Oblast;58479
+2019-02-01;Belgorod Oblast;49001
+2019-02-01;Bryansk Oblast;35424
+2019-02-01;Vladimir Oblast;40121
+2019-02-01;Volgograd Oblast;44496
+2019-02-01;Volgograd Oblast;45500
+2019-02-01;Voronezh Oblast;49716
+2019-02-01;Ivanovo Oblast;35000
+2019-02-01;Irkutsk Oblast;67448
+2019-02-01;Kaliningrad Oblast;44673
+2019-02-01;Kaluga Oblast;62262
+2019-02-01;Kemerovo Oblast;40392
+2019-02-01;Kirov Oblast;45000
+2019-02-01;Krasnodar Krai;54581
+2019-02-01;Krasnoyarsk Krai;69461
+2019-02-01;Leningrad Oblast;90530
+2019-02-01;Lipetsk Oblast;42000
+2019-02-01;Republic of Mordovia;50325
+2019-02-01;Moscow;204000
+2019-02-01;Moscow Oblast;103091
+2019-02-01;Nizhny Novgorod Oblast;41500
+2019-02-01;Novgorod Oblast;49560
+2019-02-01;Novosibirsk Oblast;70250
+2019-02-01;Oryol Oblast;37800
+2019-02-01;Perm Krai;51928
+2019-02-01;Primorsky Krai;110244
+2019-02-01;Republic of Bashkortostan;67700
+2019-02-01;Republic of Dagestan;0
+2019-02-01;Republic of Karelia;51865
+2019-02-01;Komi Republic;51166
+2019-02-01;Mari El Republic;39600
+2019-02-01;Republic of Sakha (Yakutia);74333
+2019-02-01;Republic of North Ossetia–Alania;0
+2019-02-01;Republic of Tatarstan;69446
+2019-02-01;Rostov Oblast;52025
+2019-02-01;Ryazan Oblast;44638
+2019-02-01;Samara Oblast;44453
+2019-02-01;City of Saint Petersburg;130833
+2019-02-01;Saratov Oblast;34597
+2019-02-01;Sakhalin Oblast;0
+2019-02-01;Sverdlovsk Oblast;69247
+2019-02-01;Smolensk Oblast;39528
+2019-02-01;Stavropol Krai;43500
+2019-02-01;Tver Oblast;47311
+2019-02-01;Tomsk Oblast;0
+2019-02-01;Tula Oblast;50915
+2019-02-01;Tyumen Oblast;70112
+2019-02-01;Udmurt Republic;65034
+2019-02-01;Ulyanovsk Oblast;37183
+2019-02-01;Khabarovsk Krai;70000
+2019-02-01;Khanty-Mansi Autonomous Okrug–Yugra;78192
+2019-02-01;Chelyabinsk Oblast;42672
+2019-02-01;Chuvash Republic — Chuvashia;39255
+2019-02-01;Yamalo-Nenets Autonomous Okrug;90000
+2019-02-01;Yaroslavl Oblast;57053
+2019-03-01;Russia;75250
+2019-03-01;Altai Republic;0
+2019-03-01;Altai Krai;40000
+2019-03-01;Amur Oblast;60500
+2019-03-01;Arkhangelsk Oblast;78064
+2019-03-01;Bryansk Oblast;44746
+2019-03-01;Vladimir Oblast;47000
+2019-03-01;Volgograd Oblast;44118
+2019-03-01;Vologda Oblast;46000
+2019-03-01;Voronezh Oblast;46627
+2019-03-01;Zabaykalsky Krai;64663
+2019-03-01;Ivanovo Oblast;34500
+2019-03-01;Irkutsk Oblast;49750
+2019-03-01;Kaliningrad Oblast;53588
+2019-03-01;Kaluga Oblast;57000
+2019-03-01;Kemerovo Oblast;40813
+2019-03-01;Kirov Oblast;45349
+2019-03-01;Kostroma Oblast;47500
+2019-03-01;Krasnodar Krai;51620
+2019-03-01;Krasnoyarsk Krai;70086
+2019-03-01;Kurgan Oblast;56050
+2019-03-01;Kursk Oblast;30538
+2019-03-01;Leningrad Oblast;90000
+2019-03-01;Lipetsk Oblast;65000
+2019-03-01;Republic of Mordovia;44402
+2019-03-01;Moscow;202813
+2019-03-01;Moscow Oblast;102900
+2019-03-01;Nizhny Novgorod Oblast;61615
+2019-03-01;Novgorod Oblast;44264
+2019-03-01;Novosibirsk Oblast;71720
+2019-03-01;Orenburg Oblast;39338
+2019-03-01;Oryol Oblast;39100
+2019-03-01;Penza Oblast;54001
+2019-03-01;Perm Krai;55000
+2019-03-01;Primorsky Krai;83980
+2019-03-01;Pskov Oblast;88479
+2019-03-01;Republic of Bashkortostan;57901
+2019-03-01;Republic of Dagestan;0
+2019-03-01;Komi Republic;47964
+2019-03-01;Mari El Republic;42504
+2019-03-01;Republic of Sakha (Yakutia);80750
+2019-03-01;Republic of North Ossetia–Alania;0
+2019-03-01;Republic of Tatarstan;69821
+2019-03-01;Rostov Oblast;49122
+2019-03-01;Ryazan Oblast;44470
+2019-03-01;Samara Oblast;50341
+2019-03-01;City of Saint Petersburg;133494
+2019-03-01;Saratov Oblast;33007
+2019-03-01;Sakhalin Oblast;0
+2019-03-01;Sverdlovsk Oblast;72891
+2019-03-01;Smolensk Oblast;43153
+2019-03-01;Stavropol Krai;39092
+2019-03-01;Tambov Oblast;73947
+2019-03-01;Tver Oblast;45523
+2019-03-01;Tomsk Oblast;0
+2019-03-01;Tula Oblast;55472
+2019-03-01;Tyumen Oblast;64200
+2019-03-01;Udmurt Republic;67812
+2019-03-01;Ulyanovsk Oblast;37700
+2019-03-01;Khabarovsk Krai;76337
+2019-03-01;Khanty-Mansi Autonomous Okrug–Yugra;84275
+2019-03-01;Chelyabinsk Oblast;38718
+2019-03-01;Chuvash Republic — Chuvashia;37500
+2019-03-01;Yaroslavl Oblast;69100
+2019-04-01;Russia;79550
+2019-04-01;Altai Republic;0
+2019-04-01;Altai Krai;43089
+2019-04-01;Amur Oblast;0
+2019-04-01;Arkhangelsk Oblast;79749
+2019-04-01;Astrakhan Oblast;54244
+2019-04-01;Belgorod Oblast;47524
+2019-04-01;Bryansk Oblast;38996
+2019-04-01;Vladimir Oblast;39750
+2019-04-01;Volgograd Oblast;41663
+2019-04-01;Vologda Oblast;43689
+2019-04-01;Voronezh Oblast;51821
+2019-04-01;Zabaykalsky Krai;67500
+2019-04-01;Ivanovo Oblast;38598
+2019-04-01;Irkutsk Oblast;50541
+2019-04-01;Kaliningrad Oblast;53341
+2019-04-01;Kaluga Oblast;61485
+2019-04-01;Kemerovo Oblast;41760
+2019-04-01;Kirov Oblast;36738
+2019-04-01;Krasnodar Krai;47832
+2019-04-01;Krasnoyarsk Krai;68773
+2019-04-01;Kurgan Oblast;46219
+2019-04-01;Leningrad Oblast;90996
+2019-04-01;Lipetsk Oblast;65250
+2019-04-01;Republic of Mordovia;47756
+2019-04-01;Moscow;196155
+2019-04-01;Moscow Oblast;98697
+2019-04-01;Nizhny Novgorod Oblast;66638
+2019-04-01;Novgorod Oblast;45209
+2019-04-01;Novosibirsk Oblast;70110
+2019-04-01;Orenburg Oblast;43525
+2019-04-01;Oryol Oblast;39522
+2019-04-01;Penza Oblast;52000
+2019-04-01;Perm Krai;52549
+2019-04-01;Primorsky Krai;75223
+2019-04-01;Republic of Bashkortostan;76000
+2019-04-01;Republic of Dagestan;0
+2019-04-01;Republic of Karelia;49260
+2019-04-01;Komi Republic;50715
+2019-04-01;Mari El Republic;50035
+2019-04-01;Republic of Sakha (Yakutia);68500
+2019-04-01;Republic of North Ossetia–Alania;0
+2019-04-01;Republic of Tatarstan;69760
+2019-04-01;Republic of Khakassia;58000
+2019-04-01;Rostov Oblast;52559
+2019-04-01;Ryazan Oblast;45090
+2019-04-01;Samara Oblast;53482
+2019-04-01;City of Saint Petersburg;131125
+2019-04-01;Sakhalin Oblast;0
+2019-04-01;Sverdlovsk Oblast;69914
+2019-04-01;Stavropol Krai;32395
+2019-04-01;Tambov Oblast;33158
+2019-04-01;Tver Oblast;47613
+2019-04-01;Tomsk Oblast;0
+2019-04-01;Tula Oblast;53987
+2019-04-01;Tyumen Oblast;56900
+2019-04-01;Udmurt Republic;63693
+2019-04-01;Ulyanovsk Oblast;45000
+2019-04-01;Khabarovsk Krai;85406
+2019-04-01;Khanty-Mansi Autonomous Okrug–Yugra;81881
+2019-04-01;Chelyabinsk Oblast;38474
+2019-04-01;Chuvash Republic — Chuvashia;41494
+2019-04-01;Yamalo-Nenets Autonomous Okrug;125171
+2019-04-01;Yaroslavl Oblast;51466
+2019-05-01;Russia;70111
+2019-05-01;Republic of Adygea;38500
+2019-05-01;Altai Republic;0
+2019-05-01;Altai Krai;49789
+2019-05-01;Amur Oblast;0
+2019-05-01;Arkhangelsk Oblast;77202
+2019-05-01;Astrakhan Oblast;57000
+2019-05-01;Belgorod Oblast;55000
+2019-05-01;Bryansk Oblast;34500
+2019-05-01;Vladimir Oblast;38113
+2019-05-01;Volgograd Oblast;50374
+2019-05-01;Vologda Oblast;46954
+2019-05-01;Voronezh Oblast;48100
+2019-05-01;Ivanovo Oblast;38867
+2019-05-01;Irkutsk Oblast;49971
+2019-05-01;Kaliningrad Oblast;51600
+2019-05-01;Kaluga Oblast;59853
+2019-05-01;Kemerovo Oblast;41317
+2019-05-01;Kirov Oblast;37200
+2019-05-01;Kostroma Oblast;39985
+2019-05-01;Krasnodar Krai;50931
+2019-05-01;Krasnoyarsk Krai;63571
+2019-05-01;Kursk Oblast;48766
+2019-05-01;Leningrad Oblast;88459
+2019-05-01;Lipetsk Oblast;56350
+2019-05-01;Republic of Mordovia;42428
+2019-05-01;Moscow;197575
+2019-05-01;Moscow Oblast;99207
+2019-05-01;Nizhny Novgorod Oblast;70500
+2019-05-01;Novosibirsk Oblast;69325
+2019-05-01;Omsk Oblast;52364
+2019-05-01;Orenburg Oblast;38457
+2019-05-01;Oryol Oblast;39804
+2019-05-01;Penza Oblast;53488
+2019-05-01;Perm Krai;58077
+2019-05-01;Primorsky Krai;80732
+2019-05-01;Pskov Oblast;39000
+2019-05-01;Republic of Bashkortostan;66286
+2019-05-01;Republic of Buryatia;42631
+2019-05-01;Republic of Dagestan;0
+2019-05-01;Republic of Karelia;55338
+2019-05-01;Komi Republic;59388
+2019-05-01;Mari El Republic;33000
+2019-05-01;Republic of Sakha (Yakutia);95864
+2019-05-01;Republic of North Ossetia–Alania;0
+2019-05-01;Republic of Tatarstan;68153
+2019-05-01;Republic of Khakassia;44532
+2019-05-01;Rostov Oblast;54724
+2019-05-01;Ryazan Oblast;45265
+2019-05-01;Samara Oblast;47504
+2019-05-01;City of Saint Petersburg;125672
+2019-05-01;Saratov Oblast;36741
+2019-05-01;Sakhalin Oblast;126831
+2019-05-01;Sverdlovsk Oblast;69883
+2019-05-01;Smolensk Oblast;46121
+2019-05-01;Stavropol Krai;43000
+2019-05-01;Tver Oblast;36182
+2019-05-01;Tomsk Oblast;0
+2019-05-01;Tula Oblast;62433
+2019-05-01;Tyumen Oblast;65910
+2019-05-01;Udmurt Republic;58878
+2019-05-01;Ulyanovsk Oblast;39000
+2019-05-01;Khabarovsk Krai;82226
+2019-05-01;Khanty-Mansi Autonomous Okrug–Yugra;77536
+2019-05-01;Chelyabinsk Oblast;54844
+2019-05-01;Chuvash Republic — Chuvashia;40745
+2019-05-01;Yaroslavl Oblast;45000
+2019-06-01;Russia;69000
+2019-06-01;Altai Republic;36902
+2019-06-01;Altai Krai;44994
+2019-06-01;Amur Oblast;0
+2019-06-01;Arkhangelsk Oblast;72679
+2019-06-01;Astrakhan Oblast;55683
+2019-06-01;Belgorod Oblast;45501
+2019-06-01;Bryansk Oblast;30500
+2019-06-01;Vladimir Oblast;38608
+2019-06-01;Volgograd Oblast;46875
+2019-06-01;Voronezh Oblast;52548
+2019-06-01;Zabaykalsky Krai;68145
+2019-06-01;Ivanovo Oblast;45067
+2019-06-01;Irkutsk Oblast;49107
+2019-06-01;Kaliningrad Oblast;54300
+2019-06-01;Kaluga Oblast;56889
+2019-06-01;Kemerovo Oblast;41118
+2019-06-01;Kostroma Oblast;45122
+2019-06-01;Krasnodar Krai;56656
+2019-06-01;Krasnoyarsk Krai;67232
+2019-06-01;Kurgan Oblast;41622
+2019-06-01;Kursk Oblast;40432
+2019-06-01;Leningrad Oblast;80995
+2019-06-01;Lipetsk Oblast;46500
+2019-06-01;Republic of Mordovia;43543
+2019-06-01;Moscow;201218
+2019-06-01;Moscow Oblast;94287
+2019-06-01;Nizhny Novgorod Oblast;67538
+2019-06-01;Novgorod Oblast;40183
+2019-06-01;Novosibirsk Oblast;71658
+2019-06-01;Orenburg Oblast;42151
+2019-06-01;Oryol Oblast;37983
+2019-06-01;Penza Oblast;45000
+2019-06-01;Perm Krai;59277
+2019-06-01;Primorsky Krai;81461
+2019-06-01;Pskov Oblast;38573
+2019-06-01;Republic of Bashkortostan;70235
+2019-06-01;Republic of Buryatia;44821
+2019-06-01;Republic of Dagestan;0
+2019-06-01;Republic of Karelia;56834
+2019-06-01;Komi Republic;54431
+2019-06-01;Mari El Republic;38494
+2019-06-01;Republic of Sakha (Yakutia);78000
+2019-06-01;Republic of North Ossetia–Alania;0
+2019-06-01;Republic of Tatarstan;66000
+2019-06-01;Rostov Oblast;53992
+2019-06-01;Ryazan Oblast;46000
+2019-06-01;Samara Oblast;46663
+2019-06-01;City of Saint Petersburg;129965
+2019-06-01;Saratov Oblast;36427
+2019-06-01;Sakhalin Oblast;109000
+2019-06-01;Sverdlovsk Oblast;69342
+2019-06-01;Smolensk Oblast;40161
+2019-06-01;Stavropol Krai;40387
+2019-06-01;Tambov Oblast;74028
+2019-06-01;Tver Oblast;45367
+2019-06-01;Tomsk Oblast;0
+2019-06-01;Tula Oblast;55625
+2019-06-01;Tyumen Oblast;67608
+2019-06-01;Udmurt Republic;63258
+2019-06-01;Ulyanovsk Oblast;40083
+2019-06-01;Khabarovsk Krai;76172
+2019-06-01;Khanty-Mansi Autonomous Okrug–Yugra;73564
+2019-06-01;Chelyabinsk Oblast;43668
+2019-06-01;Chuvash Republic — Chuvashia;43500
+2019-06-01;Yamalo-Nenets Autonomous Okrug;86300
+2019-06-01;Yaroslavl Oblast;47805
+2019-07-01;Russia;73022
+2019-07-01;Altai Republic;37000
+2019-07-01;Altai Krai;49055
+2019-07-01;Amur Oblast;0
+2019-07-01;Arkhangelsk Oblast;81978
+2019-07-01;Astrakhan Oblast;54240
+2019-07-01;Belgorod Oblast;45667
+2019-07-01;Bryansk Oblast;39766
+2019-07-01;Vladimir Oblast;39000
+2019-07-01;Volgograd Oblast;53324
+2019-07-01;Vologda Oblast;46000
+2019-07-01;Voronezh Oblast;54362
+2019-07-01;Ivanovo Oblast;44778
+2019-07-01;Irkutsk Oblast;62641
+2019-07-01;Kaliningrad Oblast;50599
+2019-07-01;Kaluga Oblast;53613
+2019-07-01;Kemerovo Oblast;41574
+2019-07-01;Kirov Oblast;42000
+2019-07-01;Kostroma Oblast;47611
+2019-07-01;Krasnodar Krai;54118
+2019-07-01;Krasnoyarsk Krai;67737
+2019-07-01;Kurgan Oblast;47182
+2019-07-01;Kursk Oblast;44000
+2019-07-01;Leningrad Oblast;85802
+2019-07-01;Lipetsk Oblast;47250
+2019-07-01;Republic of Mordovia;39511
+2019-07-01;Moscow;209347
+2019-07-01;Moscow Oblast;92482
+2019-07-01;Nizhny Novgorod Oblast;71959
+2019-07-01;Novgorod Oblast;61436
+2019-07-01;Novosibirsk Oblast;75583
+2019-07-01;Omsk Oblast;46000
+2019-07-01;Orenburg Oblast;39177
+2019-07-01;Oryol Oblast;38420
+2019-07-01;Penza Oblast;41902
+2019-07-01;Perm Krai;62600
+2019-07-01;Primorsky Krai;70000
+2019-07-01;Pskov Oblast;41190
+2019-07-01;Republic of Bashkortostan;57433
+2019-07-01;Republic of Buryatia;50822
+2019-07-01;Republic of Dagestan;0
+2019-07-01;Republic of Karelia;56037
+2019-07-01;Komi Republic;56579
+2019-07-01;Mari El Republic;49463
+2019-07-01;Republic of Sakha (Yakutia);71000
+2019-07-01;Republic of North Ossetia–Alania;0
+2019-07-01;Republic of Tatarstan;71800
+2019-07-01;Republic of Khakassia;47656
+2019-07-01;Rostov Oblast;52497
+2019-07-01;Ryazan Oblast;46496
+2019-07-01;Samara Oblast;45960
+2019-07-01;City of Saint Petersburg;128015
+2019-07-01;Saratov Oblast;34765
+2019-07-01;Sakhalin Oblast;0
+2019-07-01;Sverdlovsk Oblast;76335
+2019-07-01;Smolensk Oblast;38742
+2019-07-01;Stavropol Krai;34671
+2019-07-01;Tver Oblast;43866
+2019-07-01;Tomsk Oblast;58948
+2019-07-01;Tula Oblast;55250
+2019-07-01;Tyumen Oblast;64220
+2019-07-01;Udmurt Republic;61723
+2019-07-01;Ulyanovsk Oblast;40083
+2019-07-01;Khabarovsk Krai;86000
+2019-07-01;Khanty-Mansi Autonomous Okrug–Yugra;84563
+2019-07-01;Chelyabinsk Oblast;42045
+2019-07-01;Chuvash Republic — Chuvashia;49783
+2019-07-01;Yaroslavl Oblast;49435
+2019-08-01;Russia;75758
+2019-08-01;Altai Republic;0
+2019-08-01;Altai Krai;45227
+2019-08-01;Amur Oblast;0
+2019-08-01;Arkhangelsk Oblast;85090
+2019-08-01;Astrakhan Oblast;48340
+2019-08-01;Belgorod Oblast;51334
+2019-08-01;Bryansk Oblast;40000
+2019-08-01;Vladimir Oblast;36502
+2019-08-01;Volgograd Oblast;55873
+2019-08-01;Vologda Oblast;45710
+2019-08-01;Voronezh Oblast;53000
+2019-08-01;Ivanovo Oblast;42860
+2019-08-01;Irkutsk Oblast;44404
+2019-08-01;Kaliningrad Oblast;50220
+2019-08-01;Kaluga Oblast;51487
+2019-08-01;Kemerovo Oblast;42400
+2019-08-01;Kirov Oblast;45900
+2019-08-01;Kostroma Oblast;51250
+2019-08-01;Krasnodar Krai;56284
+2019-08-01;Krasnoyarsk Krai;65538
+2019-08-01;Kurgan Oblast;42225
+2019-08-01;Kursk Oblast;47000
+2019-08-01;Leningrad Oblast;92267
+2019-08-01;Lipetsk Oblast;48500
+2019-08-01;Republic of Mordovia;41875
+2019-08-01;Moscow;212266
+2019-08-01;Moscow Oblast;95390
+2019-08-01;Nizhny Novgorod Oblast;75667
+2019-08-01;Novgorod Oblast;53706
+2019-08-01;Novosibirsk Oblast;74528
+2019-08-01;Omsk Oblast;46000
+2019-08-01;Orenburg Oblast;36920
+2019-08-01;Penza Oblast;41761
+2019-08-01;Perm Krai;61297
+2019-08-01;Primorsky Krai;99564
+2019-08-01;Pskov Oblast;38679
+2019-08-01;Republic of Bashkortostan;70350
+2019-08-01;Republic of Buryatia;47467
+2019-08-01;Republic of Dagestan;0
+2019-08-01;Republic of Karelia;52498
+2019-08-01;Komi Republic;56147
+2019-08-01;Mari El Republic;49931
+2019-08-01;Republic of Sakha (Yakutia);80011
+2019-08-01;Republic of North Ossetia–Alania;0
+2019-08-01;Republic of Tatarstan;66631
+2019-08-01;Rostov Oblast;57709
+2019-08-01;Ryazan Oblast;46307
+2019-08-01;Samara Oblast;46685
+2019-08-01;City of Saint Petersburg;128821
+2019-08-01;Saratov Oblast;31715
+2019-08-01;Sakhalin Oblast;0
+2019-08-01;Sverdlovsk Oblast;74313
+2019-08-01;Smolensk Oblast;43990
+2019-08-01;Stavropol Krai;44000
+2019-08-01;Tambov Oblast;33096
+2019-08-01;Tver Oblast;62492
+2019-08-01;Tomsk Oblast;0
+2019-08-01;Tula Oblast;58999
+2019-08-01;Tyumen Oblast;65951
+2019-08-01;Udmurt Republic;61126
+2019-08-01;Ulyanovsk Oblast;40965
+2019-08-01;Khabarovsk Krai;99875
+2019-08-01;Khanty-Mansi Autonomous Okrug–Yugra;82387
+2019-08-01;Chelyabinsk Oblast;47213
+2019-08-01;Chuvash Republic — Chuvashia;45400
+2019-08-01;Yamalo-Nenets Autonomous Okrug;107675
+2019-08-01;Yaroslavl Oblast;48971
+2019-09-01;Russia;70463
+2019-09-01;Altai Republic;0
+2019-09-01;Altai Krai;46750
+2019-09-01;Amur Oblast;62723
+2019-09-01;Arkhangelsk Oblast;55183
+2019-09-01;Astrakhan Oblast;72586
+2019-09-01;Belgorod Oblast;53001
+2019-09-01;Bryansk Oblast;30700
+2019-09-01;Vladimir Oblast;42564
+2019-09-01;Volgograd Oblast;51123
+2019-09-01;Vologda Oblast;45000
+2019-09-01;Voronezh Oblast;49086
+2019-09-01;Ivanovo Oblast;45514
+2019-09-01;Irkutsk Oblast;51386
+2019-09-01;Kaliningrad Oblast;68416
+2019-09-01;Kaluga Oblast;54050
+2019-09-01;Kemerovo Oblast;44408
+2019-09-01;Kirov Oblast;44951
+2019-09-01;Krasnodar Krai;55740
+2019-09-01;Krasnoyarsk Krai;60000
+2019-09-01;Kurgan Oblast;43587
+2019-09-01;Kursk Oblast;55109
+2019-09-01;Leningrad Oblast;90124
+2019-09-01;Lipetsk Oblast;42000
+2019-09-01;Republic of Mordovia;42105
+2019-09-01;Moscow;215297
+2019-09-01;Moscow Oblast;92187
+2019-09-01;Nizhny Novgorod Oblast;66492
+2019-09-01;Novosibirsk Oblast;73849
+2019-09-01;Omsk Oblast;46500
+2019-09-01;Orenburg Oblast;36996
+2019-09-01;Oryol Oblast;43265
+2019-09-01;Penza Oblast;42208
+2019-09-01;Perm Krai;65085
+2019-09-01;Primorsky Krai;91258
+2019-09-01;Pskov Oblast;37169
+2019-09-01;Republic of Bashkortostan;72648
+2019-09-01;Republic of Buryatia;50612
+2019-09-01;Republic of Dagestan;0
+2019-09-01;Republic of Karelia;53531
+2019-09-01;Komi Republic;52023
+2019-09-01;Mari El Republic;38258
+2019-09-01;Republic of North Ossetia–Alania;0
+2019-09-01;Republic of Tatarstan;84256
+2019-09-01;Rostov Oblast;53965
+2019-09-01;Ryazan Oblast;45980
+2019-09-01;Samara Oblast;51000
+2019-09-01;City of Saint Petersburg;132787
+2019-09-01;Saratov Oblast;35542
+2019-09-01;Sakhalin Oblast;0
+2019-09-01;Sverdlovsk Oblast;75809
+2019-09-01;Smolensk Oblast;41601
+2019-09-01;Tambov Oblast;74028
+2019-09-01;Tver Oblast;47241
+2019-09-01;Tomsk Oblast;60004
+2019-09-01;Tula Oblast;58980
+2019-09-01;Tyumen Oblast;62884
+2019-09-01;Udmurt Republic;63406
+2019-09-01;Ulyanovsk Oblast;42521
+2019-09-01;Khabarovsk Krai;90000
+2019-09-01;Khanty-Mansi Autonomous Okrug–Yugra;84920
+2019-09-01;Chelyabinsk Oblast;41573
+2019-09-01;Chuvash Republic — Chuvashia;53000
+2019-09-01;Yamalo-Nenets Autonomous Okrug;97118
+2019-09-01;Yaroslavl Oblast;45000
+2019-10-01;Russia;74433
+2019-10-01;Republic of Adygea;42030
+2019-10-01;Altai Republic;0
+2019-10-01;Altai Krai;43561
+2019-10-01;Amur Oblast;84320
+2019-10-01;Arkhangelsk Oblast;81154
+2019-10-01;Astrakhan Oblast;72443
+2019-10-01;Belgorod Oblast;54962
+2019-10-01;Bryansk Oblast;34250
+2019-10-01;Vladimir Oblast;44707
+2019-10-01;Volgograd Oblast;57800
+2019-10-01;Vologda Oblast;46199
+2019-10-01;Voronezh Oblast;49631
+2019-10-01;Ivanovo Oblast;43067
+2019-10-01;Irkutsk Oblast;49667
+2019-10-01;Kaliningrad Oblast;58142
+2019-10-01;Kaluga Oblast;58603
+2019-10-01;Kemerovo Oblast;47000
+2019-10-01;Kirov Oblast;46283
+2019-10-01;Kostroma Oblast;49771
+2019-10-01;Krasnodar Krai;58994
+2019-10-01;Krasnoyarsk Krai;61954
+2019-10-01;Kurgan Oblast;37238
+2019-10-01;Kursk Oblast;70000
+2019-10-01;Leningrad Oblast;94026
+2019-10-01;Lipetsk Oblast;45654
+2019-10-01;Republic of Mordovia;36636
+2019-10-01;Moscow;212840
+2019-10-01;Moscow Oblast;103398
+2019-10-01;Nizhny Novgorod Oblast;79333
+2019-10-01;Novosibirsk Oblast;74227
+2019-10-01;Orenburg Oblast;45000
+2019-10-01;Oryol Oblast;45400
+2019-10-01;Penza Oblast;43613
+2019-10-01;Perm Krai;62461
+2019-10-01;Primorsky Krai;92571
+2019-10-01;Pskov Oblast;38534
+2019-10-01;Republic of Bashkortostan;62000
+2019-10-01;Republic of Dagestan;0
+2019-10-01;Republic of Karelia;54443
+2019-10-01;Komi Republic;54107
+2019-10-01;Republic of North Ossetia–Alania;0
+2019-10-01;Republic of Tatarstan;84789
+2019-10-01;Rostov Oblast;50787
+2019-10-01;Ryazan Oblast;45265
+2019-10-01;Samara Oblast;52024
+2019-10-01;City of Saint Petersburg;127678
+2019-10-01;Sakhalin Oblast;0
+2019-10-01;Sverdlovsk Oblast;73832
+2019-10-01;Smolensk Oblast;42209
+2019-10-01;Stavropol Krai;38000
+2019-10-01;Tver Oblast;51611
+2019-10-01;Tomsk Oblast;0
+2019-10-01;Tula Oblast;56976
+2019-10-01;Tyumen Oblast;68593
+2019-10-01;Udmurt Republic;60365
+2019-10-01;Ulyanovsk Oblast;41006
+2019-10-01;Khabarovsk Krai;81117
+2019-10-01;Khanty-Mansi Autonomous Okrug–Yugra;89037
+2019-10-01;Chelyabinsk Oblast;41573
+2019-10-01;Chuvash Republic — Chuvashia;45000
+2019-10-01;Yamalo-Nenets Autonomous Okrug;107988
+2019-10-01;Yaroslavl Oblast;58755
+2019-11-01;Russia;78122
+2019-11-01;Republic of Adygea;38730
+2019-11-01;Altai Republic;0
+2019-11-01;Altai Krai;51090
+2019-11-01;Amur Oblast;0
+2019-11-01;Arkhangelsk Oblast;84771
+2019-11-01;Astrakhan Oblast;59400
+2019-11-01;Belgorod Oblast;53810
+2019-11-01;Bryansk Oblast;36571
+2019-11-01;Vladimir Oblast;40179
+2019-11-01;Volgograd Oblast;57873
+2019-11-01;Vologda Oblast;46831
+2019-11-01;Voronezh Oblast;50000
+2019-11-01;Zabaykalsky Krai;59675
+2019-11-01;Irkutsk Oblast;53336
+2019-11-01;Kaliningrad Oblast;54192
+2019-11-01;Kaluga Oblast;58308
+2019-11-01;Kemerovo Oblast;48319
+2019-11-01;Kirov Oblast;47512
+2019-11-01;Kostroma Oblast;46812
+2019-11-01;Krasnodar Krai;52372
+2019-11-01;Krasnoyarsk Krai;65519
+2019-11-01;Kurgan Oblast;48510
+2019-11-01;Kursk Oblast;46879
+2019-11-01;Leningrad Oblast;90544
+2019-11-01;Lipetsk Oblast;45967
+2019-11-01;Republic of Mordovia;42754
+2019-11-01;Moscow;210386
+2019-11-01;Moscow Oblast;100000
+2019-11-01;Nizhny Novgorod Oblast;77718
+2019-11-01;Novgorod Oblast;54311
+2019-11-01;Novosibirsk Oblast;67273
+2019-11-01;Omsk Oblast;50254
+2019-11-01;Orenburg Oblast;37644
+2019-11-01;Penza Oblast;43412
+2019-11-01;Perm Krai;63165
+2019-11-01;Primorsky Krai;89608
+2019-11-01;Pskov Oblast;39016
+2019-11-01;Republic of Bashkortostan;65003
+2019-11-01;Republic of Buryatia;56526
+2019-11-01;Republic of Dagestan;0
+2019-11-01;Republic of Karelia;55522
+2019-11-01;Komi Republic;54125
+2019-11-01;Mari El Republic;49833
+2019-11-01;Republic of Sakha (Yakutia);82397
+2019-11-01;Republic of North Ossetia–Alania;0
+2019-11-01;Republic of Tatarstan;79938
+2019-11-01;Republic of Khakassia;43029
+2019-11-01;Rostov Oblast;55173
+2019-11-01;Ryazan Oblast;47023
+2019-11-01;Samara Oblast;46263
+2019-11-01;City of Saint Petersburg;130950
+2019-11-01;Saratov Oblast;34400
+2019-11-01;Sakhalin Oblast;0
+2019-11-01;Sverdlovsk Oblast;77714
+2019-11-01;Smolensk Oblast;52517
+2019-11-01;Stavropol Krai;45259
+2019-11-01;Tver Oblast;48313
+2019-11-01;Tomsk Oblast;0
+2019-11-01;Tula Oblast;53167
+2019-11-01;Tyumen Oblast;72894
+2019-11-01;Udmurt Republic;63607
+2019-11-01;Ulyanovsk Oblast;41887
+2019-11-01;Khabarovsk Krai;80000
+2019-11-01;Khanty-Mansi Autonomous Okrug–Yugra;86779
+2019-11-01;Chelyabinsk Oblast;46801
+2019-11-01;Chuvash Republic — Chuvashia;47000
+2019-11-01;Yamalo-Nenets Autonomous Okrug;0
+2019-11-01;Yaroslavl Oblast;55210
+2019-12-01;Russia;79944
+2019-12-01;Altai Republic;0
+2019-12-01;Altai Krai;46588
+2019-12-01;Amur Oblast;0
+2019-12-01;Arkhangelsk Oblast;75826
+2019-12-01;Astrakhan Oblast;48201
+2019-12-01;Belgorod Oblast;49798
+2019-12-01;Bryansk Oblast;36855
+2019-12-01;Vladimir Oblast;35739
+2019-12-01;Volgograd Oblast;56644
+2019-12-01;Vologda Oblast;45819
+2019-12-01;Voronezh Oblast;62997
+2019-12-01;Zabaykalsky Krai;63197
+2019-12-01;Irkutsk Oblast;55207
+2019-12-01;Kaliningrad Oblast;56033
+2019-12-01;Kaluga Oblast;59776
+2019-12-01;Kemerovo Oblast;43667
+2019-12-01;Kirov Oblast;51770
+2019-12-01;Kostroma Oblast;55469
+2019-12-01;Krasnodar Krai;53990
+2019-12-01;Krasnoyarsk Krai;67476
+2019-12-01;Kurgan Oblast;48824
+2019-12-01;Kursk Oblast;52196
+2019-12-01;Leningrad Oblast;92696
+2019-12-01;Lipetsk Oblast;39498
+2019-12-01;Republic of Mordovia;42763
+2019-12-01;Moscow;209934
+2019-12-01;Moscow Oblast;103731
+2019-12-01;Nizhny Novgorod Oblast;71975
+2019-12-01;Novosibirsk Oblast;70859
+2019-12-01;Omsk Oblast;46747
+2019-12-01;Orenburg Oblast;41089
+2019-12-01;Oryol Oblast;43625
+2019-12-01;Penza Oblast;42391
+2019-12-01;Perm Krai;63275
+2019-12-01;Primorsky Krai;97469
+2019-12-01;Pskov Oblast;37971
+2019-12-01;Republic of Bashkortostan;70188
+2019-12-01;Republic of Dagestan;0
+2019-12-01;Republic of Karelia;56552
+2019-12-01;Komi Republic;46993
+2019-12-01;Mari El Republic;43000
+2019-12-01;Republic of Sakha (Yakutia);74998
+2019-12-01;Republic of North Ossetia–Alania;0
+2019-12-01;Republic of Tatarstan;84179
+2019-12-01;Rostov Oblast;52140
+2019-12-01;Ryazan Oblast;45586
+2019-12-01;Samara Oblast;47875
+2019-12-01;City of Saint Petersburg;132222
+2019-12-01;Saratov Oblast;39215
+2019-12-01;Sakhalin Oblast;0
+2019-12-01;Sverdlovsk Oblast;77750
+2019-12-01;Smolensk Oblast;40010
+2019-12-01;Stavropol Krai;37993
+2019-12-01;Tver Oblast;50025
+2019-12-01;Tomsk Oblast;60928
+2019-12-01;Tula Oblast;58000
+2019-12-01;Tyumen Oblast;72229
+2019-12-01;Udmurt Republic;61075
+2019-12-01;Ulyanovsk Oblast;41875
+2019-12-01;Khanty-Mansi Autonomous Okrug–Yugra;86582
+2019-12-01;Chelyabinsk Oblast;39500
+2019-12-01;Chuvash Republic — Chuvashia;49667
+2019-12-01;Yamalo-Nenets Autonomous Okrug;0
+2019-12-01;Yaroslavl Oblast;63761
+2020-01-01;Russia;81494
+2020-01-01;Republic of Adygea;42447
+2020-01-01;Altai Republic;0
+2020-01-01;Altai Krai;44750
+2020-01-01;Amur Oblast;0
+2020-01-01;Arkhangelsk Oblast;95314
+2020-01-01;Belgorod Oblast;55999
+2020-01-01;Bryansk Oblast;37000
+2020-01-01;Vladimir Oblast;46933
+2020-01-01;Volgograd Oblast;54000
+2020-01-01;Vologda Oblast;46233
+2020-01-01;Voronezh Oblast;50333
+2020-01-01;Zabaykalsky Krai;55000
+2020-01-01;Ivanovo Oblast;50000
+2020-01-01;Irkutsk Oblast;66968
+2020-01-01;Kaluga Oblast;62282
+2020-01-01;Kemerovo Oblast;44908
+2020-01-01;Kirov Oblast;45694
+2020-01-01;Kostroma Oblast;51220
+2020-01-01;Krasnodar Krai;54020
+2020-01-01;Krasnoyarsk Krai;67647
+2020-01-01;Kurgan Oblast;36785
+2020-01-01;Kursk Oblast;46500
+2020-01-01;Leningrad Oblast;96800
+2020-01-01;Lipetsk Oblast;65800
+2020-01-01;Republic of Mordovia;43555
+2020-01-01;Moscow;213538
+2020-01-01;Moscow Oblast;114313
+2020-01-01;Nizhny Novgorod Oblast;64279
+2020-01-01;Novgorod Oblast;42354
+2020-01-01;Novosibirsk Oblast;70978
+2020-01-01;Omsk Oblast;50873
+2020-01-01;Oryol Oblast;39400
+2020-01-01;Penza Oblast;45233
+2020-01-01;Perm Krai;66768
+2020-01-01;Primorsky Krai;84000
+2020-01-01;Republic of Bashkortostan;68364
+2020-01-01;Republic of Buryatia;60000
+2020-01-01;Republic of Dagestan;0
+2020-01-01;Republic of Karelia;48611
+2020-01-01;Komi Republic;43256
+2020-01-01;Republic of Sakha (Yakutia);90104
+2020-01-01;Republic of North Ossetia–Alania;0
+2020-01-01;Republic of Tatarstan;77167
+2020-01-01;Rostov Oblast;55500
+2020-01-01;Ryazan Oblast;45043
+2020-01-01;Samara Oblast;51081
+2020-01-01;City of Saint Petersburg;135826
+2020-01-01;Saratov Oblast;38462
+2020-01-01;Sakhalin Oblast;0
+2020-01-01;Sverdlovsk Oblast;83637
+2020-01-01;Smolensk Oblast;42000
+2020-01-01;Stavropol Krai;42673
+2020-01-01;Tver Oblast;55289
+2020-01-01;Tomsk Oblast;0
+2020-01-01;Tula Oblast;83998
+2020-01-01;Tyumen Oblast;72209
+2020-01-01;Udmurt Republic;59813
+2020-01-01;Ulyanovsk Oblast;42152
+2020-01-01;Khabarovsk Krai;81000
+2020-01-01;Khanty-Mansi Autonomous Okrug–Yugra;83311
+2020-01-01;Chelyabinsk Oblast;47851
+2020-01-01;Chuvash Republic — Chuvashia;48523
+2020-01-01;Yamalo-Nenets Autonomous Okrug;100065
+2020-01-01;Yaroslavl Oblast;60528
+2020-02-01;Russia;74350
+2020-02-01;Altai Republic;0
+2020-02-01;Altai Krai;47330
+2020-02-01;Amur Oblast;0
+2020-02-01;Arkhangelsk Oblast;73765
+2020-02-01;Astrakhan Oblast;47609
+2020-02-01;Belgorod Oblast;51411
+2020-02-01;Bryansk Oblast;38687
+2020-02-01;Vladimir Oblast;45329
+2020-02-01;Volgograd Oblast;59062
+2020-02-01;Vologda Oblast;50000
+2020-02-01;Voronezh Oblast;58071
+2020-02-01;Zabaykalsky Krai;0
+2020-02-01;Irkutsk Oblast;45201
+2020-02-01;Kaliningrad Oblast;55500
+2020-02-01;Kaluga Oblast;57550
+2020-02-01;Kemerovo Oblast;46885
+2020-02-01;Kirov Oblast;50882
+2020-02-01;Kostroma Oblast;50775
+2020-02-01;Krasnodar Krai;54596
+2020-02-01;Krasnoyarsk Krai;64946
+2020-02-01;Kurgan Oblast;33009
+2020-02-01;Kursk Oblast;30656
+2020-02-01;Leningrad Oblast;87744
+2020-02-01;Lipetsk Oblast;46796
+2020-02-01;Republic of Mordovia;43272
+2020-02-01;Moscow;222226
+2020-02-01;Moscow Oblast;102737
+2020-02-01;Nizhny Novgorod Oblast;70173
+2020-02-01;Novgorod Oblast;45530
+2020-02-01;Novosibirsk Oblast;75774
+2020-02-01;Omsk Oblast;50900
+2020-02-01;Orenburg Oblast;37619
+2020-02-01;Oryol Oblast;42975
+2020-02-01;Penza Oblast;41465
+2020-02-01;Perm Krai;65800
+2020-02-01;Primorsky Krai;110501
+2020-02-01;Pskov Oblast;39638
+2020-02-01;Republic of Bashkortostan;69266
+2020-02-01;Republic of Buryatia;60500
+2020-02-01;Republic of Dagestan;0
+2020-02-01;Republic of Karelia;54513
+2020-02-01;Komi Republic;54499
+2020-02-01;Mari El Republic;45507
+2020-02-01;Republic of Sakha (Yakutia);94000
+2020-02-01;Republic of North Ossetia–Alania;0
+2020-02-01;Republic of Tatarstan;80100
+2020-02-01;Republic of Khakassia;48885
+2020-02-01;Rostov Oblast;58199
+2020-02-01;Ryazan Oblast;42951
+2020-02-01;Samara Oblast;50861
+2020-02-01;City of Saint Petersburg;136687
+2020-02-01;Saratov Oblast;36753
+2020-02-01;Sakhalin Oblast;0
+2020-02-01;Sverdlovsk Oblast;78431
+2020-02-01;Smolensk Oblast;38156
+2020-02-01;Stavropol Krai;44891
+2020-02-01;Tambov Oblast;33723
+2020-02-01;Tver Oblast;49750
+2020-02-01;Tomsk Oblast;0
+2020-02-01;Tula Oblast;55379
+2020-02-01;Tyumen Oblast;69407
+2020-02-01;Udmurt Republic;59295
+2020-02-01;Ulyanovsk Oblast;42155
+2020-02-01;Khabarovsk Krai;100036
+2020-02-01;Khanty-Mansi Autonomous Okrug–Yugra;78798
+2020-02-01;Chelyabinsk Oblast;45296
+2020-02-01;Chuvash Republic — Chuvashia;45614
+2020-02-01;Yamalo-Nenets Autonomous Okrug;125842
+2020-02-01;Yaroslavl Oblast;51220
+2020-03-01;Russia;72930
+2020-03-01;Republic of Adygea;43245
+2020-03-01;Altai Republic;0
+2020-03-01;Altai Krai;47659
+2020-03-01;Amur Oblast;0
+2020-03-01;Arkhangelsk Oblast;82760
+2020-03-01;Astrakhan Oblast;52055
+2020-03-01;Belgorod Oblast;47046
+2020-03-01;Bryansk Oblast;46339
+2020-03-01;Vladimir Oblast;41799
+2020-03-01;Volgograd Oblast;47001
+2020-03-01;Vologda Oblast;49997
+2020-03-01;Voronezh Oblast;54961
+2020-03-01;Zabaykalsky Krai;0
+2020-03-01;Ivanovo Oblast;46342
+2020-03-01;Irkutsk Oblast;62508
+2020-03-01;Kaliningrad Oblast;57617
+2020-03-01;Kaluga Oblast;63854
+2020-03-01;Kemerovo Oblast;43590
+2020-03-01;Kirov Oblast;46600
+2020-03-01;Kostroma Oblast;50105
+2020-03-01;Krasnodar Krai;57478
+2020-03-01;Krasnoyarsk Krai;63073
+2020-03-01;Kursk Oblast;63003
+2020-03-01;Leningrad Oblast;88900
+2020-03-01;Lipetsk Oblast;47297
+2020-03-01;Republic of Mordovia;43700
+2020-03-01;Moscow;225439
+2020-03-01;Moscow Oblast;108674
+2020-03-01;Nizhny Novgorod Oblast;73150
+2020-03-01;Novgorod Oblast;45743
+2020-03-01;Novosibirsk Oblast;81223
+2020-03-01;Orenburg Oblast;37457
+2020-03-01;Oryol Oblast;41534
+2020-03-01;Penza Oblast;42264
+2020-03-01;Perm Krai;63726
+2020-03-01;Primorsky Krai;118313
+2020-03-01;Pskov Oblast;37881
+2020-03-01;Republic of Bashkortostan;77566
+2020-03-01;Republic of Buryatia;43031
+2020-03-01;Republic of Dagestan;0
+2020-03-01;Republic of Karelia;62166
+2020-03-01;Komi Republic;49703
+2020-03-01;Mari El Republic;41000
+2020-03-01;Republic of Sakha (Yakutia);75297
+2020-03-01;Republic of North Ossetia–Alania;0
+2020-03-01;Republic of Tatarstan;83650
+2020-03-01;Rostov Oblast;58650
+2020-03-01;Ryazan Oblast;49485
+2020-03-01;Samara Oblast;51922
+2020-03-01;City of Saint Petersburg;143819
+2020-03-01;Saratov Oblast;36839
+2020-03-01;Sakhalin Oblast;0
+2020-03-01;Sverdlovsk Oblast;75000
+2020-03-01;Smolensk Oblast;35779
+2020-03-01;Stavropol Krai;43500
+2020-03-01;Tambov Oblast;59498
+2020-03-01;Tver Oblast;47000
+2020-03-01;Tomsk Oblast;0
+2020-03-01;Tula Oblast;57594
+2020-03-01;Tyumen Oblast;72024
+2020-03-01;Udmurt Republic;60067
+2020-03-01;Ulyanovsk Oblast;44775
+2020-03-01;Khabarovsk Krai;117340
+2020-03-01;Khanty-Mansi Autonomous Okrug–Yugra;83999
+2020-03-01;Chelyabinsk Oblast;42250
+2020-03-01;Chuvash Republic — Chuvashia;39841
+2020-03-01;Yamalo-Nenets Autonomous Okrug;0
+2020-03-01;Yaroslavl Oblast;46359
+2020-04-01;Russia;67755
+2020-04-01;Republic of Adygea;42070
+2020-04-01;Altai Republic;0
+2020-04-01;Altai Krai;47300
+2020-04-01;Amur Oblast;70250
+2020-04-01;Arkhangelsk Oblast;65000
+2020-04-01;Astrakhan Oblast;57999
+2020-04-01;Belgorod Oblast;55175
+2020-04-01;Bryansk Oblast;42757
+2020-04-01;Vladimir Oblast;44000
+2020-04-01;Volgograd Oblast;44313
+2020-04-01;Vologda Oblast;44735
+2020-04-01;Voronezh Oblast;53738
+2020-04-01;Zabaykalsky Krai;0
+2020-04-01;Ivanovo Oblast;43072
+2020-04-01;Irkutsk Oblast;58567
+2020-04-01;Kaliningrad Oblast;60335
+2020-04-01;Kaluga Oblast;64886
+2020-04-01;Kemerovo Oblast;47327
+2020-04-01;Kirov Oblast;46103
+2020-04-01;Kostroma Oblast;51730
+2020-04-01;Krasnodar Krai;57385
+2020-04-01;Krasnoyarsk Krai;62295
+2020-04-01;Kursk Oblast;57299
+2020-04-01;Leningrad Oblast;87228
+2020-04-01;Lipetsk Oblast;47447
+2020-04-01;Republic of Mordovia;44000
+2020-04-01;Moscow;216766
+2020-04-01;Moscow Oblast;104765
+2020-04-01;Nizhny Novgorod Oblast;69590
+2020-04-01;Novgorod Oblast;49154
+2020-04-01;Novosibirsk Oblast;76823
+2020-04-01;Omsk Oblast;50978
+2020-04-01;Orenburg Oblast;37625
+2020-04-01;Oryol Oblast;43630
+2020-04-01;Penza Oblast;45139
+2020-04-01;Perm Krai;64500
+2020-04-01;Primorsky Krai;113943
+2020-04-01;Pskov Oblast;37250
+2020-04-01;Republic of Bashkortostan;70700
+2020-04-01;Republic of Buryatia;49321
+2020-04-01;Republic of Dagestan;0
+2020-04-01;Republic of Karelia;56120
+2020-04-01;Komi Republic;53256
+2020-04-01;Mari El Republic;43001
+2020-04-01;Republic of Sakha (Yakutia);94212
+2020-04-01;Republic of North Ossetia–Alania;0
+2020-04-01;Republic of Tatarstan;82000
+2020-04-01;Rostov Oblast;55527
+2020-04-01;Ryazan Oblast;46000
+2020-04-01;Samara Oblast;54708
+2020-04-01;City of Saint Petersburg;141207
+2020-04-01;Saratov Oblast;38854
+2020-04-01;Sakhalin Oblast;0
+2020-04-01;Sverdlovsk Oblast;79743
+2020-04-01;Smolensk Oblast;35054
+2020-04-01;Stavropol Krai;43844
+2020-04-01;Tver Oblast;48000
+2020-04-01;Tomsk Oblast;0
+2020-04-01;Tula Oblast;59878
+2020-04-01;Tyumen Oblast;71104
+2020-04-01;Udmurt Republic;60583
+2020-04-01;Ulyanovsk Oblast;44954
+2020-04-01;Khabarovsk Krai;90178
+2020-04-01;Khanty-Mansi Autonomous Okrug–Yugra;75858
+2020-04-01;Chelyabinsk Oblast;51225
+2020-04-01;Chuvash Republic — Chuvashia;44950
+2020-04-01;Yamalo-Nenets Autonomous Okrug;0
+2020-04-01;Yaroslavl Oblast;46784
+2020-05-01;Russia;70635
+2020-05-01;Republic of Adygea;44077
+2020-05-01;Altai Republic;45000
+2020-05-01;Altai Krai;46000
+2020-05-01;Amur Oblast;55000
+2020-05-01;Arkhangelsk Oblast;70769
+2020-05-01;Astrakhan Oblast;67029
+2020-05-01;Belgorod Oblast;55061
+2020-05-01;Bryansk Oblast;41500
+2020-05-01;Vladimir Oblast;44055
+2020-05-01;Volgograd Oblast;52664
+2020-05-01;Vologda Oblast;46448
+2020-05-01;Voronezh Oblast;56000
+2020-05-01;Zabaykalsky Krai;0
+2020-05-01;Ivanovo Oblast;42626
+2020-05-01;Irkutsk Oblast;68921
+2020-05-01;Kaliningrad Oblast;66769
+2020-05-01;Kaluga Oblast;62083
+2020-05-01;Kemerovo Oblast;47542
+2020-05-01;Kirov Oblast;46362
+2020-05-01;Kostroma Oblast;52805
+2020-05-01;Krasnodar Krai;56775
+2020-05-01;Krasnoyarsk Krai;71000
+2020-05-01;Kursk Oblast;59972
+2020-05-01;Leningrad Oblast;91697
+2020-05-01;Lipetsk Oblast;45000
+2020-05-01;Republic of Mordovia;44000
+2020-05-01;Moscow;222500
+2020-05-01;Moscow Oblast;103719
+2020-05-01;Nizhny Novgorod Oblast;67936
+2020-05-01;Novgorod Oblast;54146
+2020-05-01;Novosibirsk Oblast;73818
+2020-05-01;Omsk Oblast;52709
+2020-05-01;Orenburg Oblast;43948
+2020-05-01;Oryol Oblast;45100
+2020-05-01;Penza Oblast;46024
+2020-05-01;Perm Krai;65686
+2020-05-01;Primorsky Krai;109800
+2020-05-01;Pskov Oblast;39000
+2020-05-01;Republic of Bashkortostan;73670
+2020-05-01;Republic of Buryatia;0
+2020-05-01;Republic of Dagestan;0
+2020-05-01;Republic of Karelia;61206
+2020-05-01;Komi Republic;55017
+2020-05-01;Mari El Republic;43553
+2020-05-01;Republic of Sakha (Yakutia);98500
+2020-05-01;Republic of North Ossetia–Alania;0
+2020-05-01;Republic of Tatarstan;79029
+2020-05-01;Republic of Khakassia;57040
+2020-05-01;Rostov Oblast;58120
+2020-05-01;Ryazan Oblast;47500
+2020-05-01;Samara Oblast;51910
+2020-05-01;City of Saint Petersburg;137724
+2020-05-01;Saratov Oblast;39118
+2020-05-01;Sakhalin Oblast;91246
+2020-05-01;Sverdlovsk Oblast;83803
+2020-05-01;Smolensk Oblast;46209
+2020-05-01;Stavropol Krai;40215
+2020-05-01;Tambov Oblast;46553
+2020-05-01;Tver Oblast;53187
+2020-05-01;Tomsk Oblast;0
+2020-05-01;Tula Oblast;57394
+2020-05-01;Tyumen Oblast;71470
+2020-05-01;Udmurt Republic;59810
+2020-05-01;Ulyanovsk Oblast;43322
+2020-05-01;Khabarovsk Krai;97500
+2020-05-01;Khanty-Mansi Autonomous Okrug–Yugra;79585
+2020-05-01;Chelyabinsk Oblast;49500
+2020-05-01;Chuvash Republic — Chuvashia;46368
+2020-05-01;Yamalo-Nenets Autonomous Okrug;0
+2020-05-01;Yaroslavl Oblast;51333
+2020-06-01;Russia;74167
+2020-06-01;Republic of Adygea;42852
+2020-06-01;Altai Republic;0
+2020-06-01;Altai Krai;50121
+2020-06-01;Amur Oblast;0
+2020-06-01;Arkhangelsk Oblast;66900
+2020-06-01;Astrakhan Oblast;62900
+2020-06-01;Belgorod Oblast;49498
+2020-06-01;Bryansk Oblast;43715
+2020-06-01;Vladimir Oblast;43036
+2020-06-01;Volgograd Oblast;50609
+2020-06-01;Vologda Oblast;47188
+2020-06-01;Voronezh Oblast;47500
+2020-06-01;Zabaykalsky Krai;0
+2020-06-01;Ivanovo Oblast;49747
+2020-06-01;Irkutsk Oblast;66885
+2020-06-01;Kaliningrad Oblast;66854
+2020-06-01;Kaluga Oblast;60788
+2020-06-01;Kemerovo Oblast;47020
+2020-06-01;Kirov Oblast;47089
+2020-06-01;Kostroma Oblast;56602
+2020-06-01;Krasnodar Krai;60395
+2020-06-01;Krasnoyarsk Krai;66760
+2020-06-01;Kursk Oblast;73214
+2020-06-01;Leningrad Oblast;89704
+2020-06-01;Lipetsk Oblast;46000
+2020-06-01;Moscow;220754
+2020-06-01;Moscow Oblast;109117
+2020-06-01;Nizhny Novgorod Oblast;69129
+2020-06-01;Novgorod Oblast;49700
+2020-06-01;Novosibirsk Oblast;78466
+2020-06-01;Omsk Oblast;54245
+2020-06-01;Orenburg Oblast;45476
+2020-06-01;Penza Oblast;53706
+2020-06-01;Perm Krai;65800
+2020-06-01;Primorsky Krai;103750
+2020-06-01;Pskov Oblast;38427
+2020-06-01;Republic of Bashkortostan;78500
+2020-06-01;Republic of Buryatia;0
+2020-06-01;Republic of Dagestan;0
+2020-06-01;Republic of Karelia;51716
+2020-06-01;Komi Republic;57310
+2020-06-01;Mari El Republic;39067
+2020-06-01;Republic of Sakha (Yakutia);100333
+2020-06-01;Republic of North Ossetia–Alania;0
+2020-06-01;Republic of Tatarstan;80872
+2020-06-01;Republic of Khakassia;57500
+2020-06-01;Rostov Oblast;53265
+2020-06-01;Ryazan Oblast;47485
+2020-06-01;Samara Oblast;65857
+2020-06-01;City of Saint Petersburg;140743
+2020-06-01;Saratov Oblast;38455
+2020-06-01;Sakhalin Oblast;159683
+2020-06-01;Sverdlovsk Oblast;80237
+2020-06-01;Smolensk Oblast;42414
+2020-06-01;Stavropol Krai;44789
+2020-06-01;Tambov Oblast;52122
+2020-06-01;Tver Oblast;51333
+2020-06-01;Tomsk Oblast;0
+2020-06-01;Tula Oblast;61166
+2020-06-01;Tyumen Oblast;69285
+2020-06-01;Udmurt Republic;58653
+2020-06-01;Ulyanovsk Oblast;47967
+2020-06-01;Khabarovsk Krai;90443
+2020-06-01;Khanty-Mansi Autonomous Okrug–Yugra;91611
+2020-06-01;Chelyabinsk Oblast;52375
+2020-06-01;Chuvash Republic — Chuvashia;48555
+2020-06-01;Yamalo-Nenets Autonomous Okrug;0
+2020-06-01;Yaroslavl Oblast;51930
+2020-07-01;Russia;77955
+2020-07-01;Altai Republic;0
+2020-07-01;Altai Krai;50533
+2020-07-01;Amur Oblast;0
+2020-07-01;Arkhangelsk Oblast;85081
+2020-07-01;Astrakhan Oblast;74982
+2020-07-01;Belgorod Oblast;56740
+2020-07-01;Bryansk Oblast;41725
+2020-07-01;Vladimir Oblast;44221
+2020-07-01;Volgograd Oblast;52571
+2020-07-01;Vologda Oblast;49559
+2020-07-01;Voronezh Oblast;49000
+2020-07-01;Zabaykalsky Krai;70770
+2020-07-01;Irkutsk Oblast;75500
+2020-07-01;Kaliningrad Oblast;60628
+2020-07-01;Kaluga Oblast;54683
+2020-07-01;Kemerovo Oblast;45450
+2020-07-01;Kirov Oblast;48750
+2020-07-01;Krasnodar Krai;59595
+2020-07-01;Krasnoyarsk Krai;68730
+2020-07-01;Kursk Oblast;52543
+2020-07-01;Leningrad Oblast;97005
+2020-07-01;Lipetsk Oblast;50353
+2020-07-01;Republic of Mordovia;51799
+2020-07-01;Moscow;227328
+2020-07-01;Moscow Oblast;110617
+2020-07-01;Nizhny Novgorod Oblast;70950
+2020-07-01;Novgorod Oblast;48196
+2020-07-01;Novosibirsk Oblast;80072
+2020-07-01;Omsk Oblast;49878
+2020-07-01;Orenburg Oblast;39322
+2020-07-01;Oryol Oblast;46328
+2020-07-01;Penza Oblast;43656
+2020-07-01;Perm Krai;63449
+2020-07-01;Primorsky Krai;111541
+2020-07-01;Pskov Oblast;39000
+2020-07-01;Republic of Bashkortostan;80857
+2020-07-01;Republic of Buryatia;0
+2020-07-01;Republic of Dagestan;0
+2020-07-01;Republic of Karelia;55525
+2020-07-01;Komi Republic;60586
+2020-07-01;Mari El Republic;44000
+2020-07-01;Republic of Sakha (Yakutia);100000
+2020-07-01;Republic of North Ossetia–Alania;0
+2020-07-01;Republic of Tatarstan;85321
+2020-07-01;Republic of Khakassia;0
+2020-07-01;Rostov Oblast;57836
+2020-07-01;Ryazan Oblast;50000
+2020-07-01;Samara Oblast;49393
+2020-07-01;City of Saint Petersburg;142175
+2020-07-01;Saratov Oblast;36773
+2020-07-01;Sakhalin Oblast;0
+2020-07-01;Sverdlovsk Oblast;82008
+2020-07-01;Smolensk Oblast;42393
+2020-07-01;Stavropol Krai;47549
+2020-07-01;Tambov Oblast;60200
+2020-07-01;Tver Oblast;57237
+2020-07-01;Tomsk Oblast;79922
+2020-07-01;Tula Oblast;61970
+2020-07-01;Tyumen Oblast;73940
+2020-07-01;Udmurt Republic;61136
+2020-07-01;Ulyanovsk Oblast;45391
+2020-07-01;Khabarovsk Krai;89462
+2020-07-01;Khanty-Mansi Autonomous Okrug–Yugra;91349
+2020-07-01;Chelyabinsk Oblast;62935
+2020-07-01;Chuvash Republic — Chuvashia;53216
+2020-07-01;Yamalo-Nenets Autonomous Okrug;0
+2020-07-01;Yaroslavl Oblast;51086
+2020-08-01;Russia;80000
+2020-08-01;Republic of Adygea;40189
+2020-08-01;Altai Republic;0
+2020-08-01;Altai Krai;51093
+2020-08-01;Amur Oblast;0
+2020-08-01;Arkhangelsk Oblast;91232
+2020-08-01;Astrakhan Oblast;73645
+2020-08-01;Belgorod Oblast;65165
+2020-08-01;Bryansk Oblast;42529
+2020-08-01;Vladimir Oblast;46000
+2020-08-01;Volgograd Oblast;53150
+2020-08-01;Vologda Oblast;50334
+2020-08-01;Voronezh Oblast;52833
+2020-08-01;Zabaykalsky Krai;0
+2020-08-01;Irkutsk Oblast;72134
+2020-08-01;Kaliningrad Oblast;67167
+2020-08-01;Kaluga Oblast;61903
+2020-08-01;Kemerovo Oblast;45550
+2020-08-01;Kirov Oblast;48000
+2020-08-01;Kostroma Oblast;54858
+2020-08-01;Krasnodar Krai;62780
+2020-08-01;Krasnoyarsk Krai;65848
+2020-08-01;Kurgan Oblast;37748
+2020-08-01;Kursk Oblast;63538
+2020-08-01;Leningrad Oblast;99000
+2020-08-01;Lipetsk Oblast;45000
+2020-08-01;Republic of Mordovia;31065
+2020-08-01;Moscow;235435
+2020-08-01;Moscow Oblast;114010
+2020-08-01;Nizhny Novgorod Oblast;82013
+2020-08-01;Novgorod Oblast;46992
+2020-08-01;Novosibirsk Oblast;81601
+2020-08-01;Omsk Oblast;52633
+2020-08-01;Orenburg Oblast;39810
+2020-08-01;Oryol Oblast;61062
+2020-08-01;Penza Oblast;46524
+2020-08-01;Perm Krai;67988
+2020-08-01;Primorsky Krai;102938
+2020-08-01;Pskov Oblast;39000
+2020-08-01;Republic of Bashkortostan;70297
+2020-08-01;Republic of Buryatia;0
+2020-08-01;Republic of Dagestan;0
+2020-08-01;Republic of Karelia;54001
+2020-08-01;Komi Republic;58556
+2020-08-01;Mari El Republic;42476
+2020-08-01;Republic of North Ossetia–Alania;0
+2020-08-01;Republic of Tatarstan;79901
+2020-08-01;Republic of Khakassia;57333
+2020-08-01;Rostov Oblast;58663
+2020-08-01;Ryazan Oblast;48667
+2020-08-01;Samara Oblast;47639
+2020-08-01;City of Saint Petersburg;144942
+2020-08-01;Saratov Oblast;40095
+2020-08-01;Sakhalin Oblast;0
+2020-08-01;Sverdlovsk Oblast;81411
+2020-08-01;Smolensk Oblast;44863
+2020-08-01;Stavropol Krai;46059
+2020-08-01;Tambov Oblast;76649
+2020-08-01;Tver Oblast;57455
+2020-08-01;Tomsk Oblast;0
+2020-08-01;Tula Oblast;58770
+2020-08-01;Tyumen Oblast;70832
+2020-08-01;Udmurt Republic;62023
+2020-08-01;Ulyanovsk Oblast;44667
+2020-08-01;Khabarovsk Krai;100000
+2020-08-01;Khanty-Mansi Autonomous Okrug–Yugra;78805
+2020-08-01;Chelyabinsk Oblast;45911
+2020-08-01;Chuvash Republic — Chuvashia;49400
+2020-08-01;Yamalo-Nenets Autonomous Okrug;113618
+2020-08-01;Yaroslavl Oblast;50671
+2020-09-01;Russia;80000
+2020-09-01;Republic of Adygea;41556
+2020-09-01;Altai Republic;0
+2020-09-01;Altai Krai;52583
+2020-09-01;Amur Oblast;85896
+2020-09-01;Arkhangelsk Oblast;77000
+2020-09-01;Astrakhan Oblast;72746
+2020-09-01;Belgorod Oblast;62264
+2020-09-01;Bryansk Oblast;44000
+2020-09-01;Vladimir Oblast;51850
+2020-09-01;Volgograd Oblast;52099
+2020-09-01;Vologda Oblast;49326
+2020-09-01;Voronezh Oblast;54641
+2020-09-01;Zabaykalsky Krai;0
+2020-09-01;Irkutsk Oblast;69373
+2020-09-01;Kaliningrad Oblast;81022
+2020-09-01;Kaluga Oblast;66406
+2020-09-01;Kemerovo Oblast;48669
+2020-09-01;Kirov Oblast;48937
+2020-09-01;Kostroma Oblast;59900
+2020-09-01;Krasnodar Krai;64068
+2020-09-01;Krasnoyarsk Krai;66000
+2020-09-01;Kurgan Oblast;38659
+2020-09-01;Kursk Oblast;53025
+2020-09-01;Leningrad Oblast;95893
+2020-09-01;Lipetsk Oblast;45000
+2020-09-01;Republic of Mordovia;46000
+2020-09-01;Moscow;228470
+2020-09-01;Moscow Oblast;119181
+2020-09-01;Nizhny Novgorod Oblast;82950
+2020-09-01;Novgorod Oblast;54778
+2020-09-01;Novosibirsk Oblast;77925
+2020-09-01;Omsk Oblast;56002
+2020-09-01;Orenburg Oblast;42035
+2020-09-01;Oryol Oblast;47813
+2020-09-01;Penza Oblast;50501
+2020-09-01;Perm Krai;72679
+2020-09-01;Primorsky Krai;109464
+2020-09-01;Pskov Oblast;40971
+2020-09-01;Republic of Bashkortostan;79675
+2020-09-01;Republic of Buryatia;49000
+2020-09-01;Republic of Dagestan;0
+2020-09-01;Republic of Karelia;57617
+2020-09-01;Komi Republic;62102
+2020-09-01;Mari El Republic;41426
+2020-09-01;Republic of North Ossetia–Alania;0
+2020-09-01;Republic of Tatarstan;89415
+2020-09-01;Republic of Khakassia;0
+2020-09-01;Rostov Oblast;58538
+2020-09-01;Ryazan Oblast;52353
+2020-09-01;Samara Oblast;52439
+2020-09-01;City of Saint Petersburg;150541
+2020-09-01;Saratov Oblast;38610
+2020-09-01;Sakhalin Oblast;0
+2020-09-01;Sverdlovsk Oblast;83359
+2020-09-01;Smolensk Oblast;38550
+2020-09-01;Stavropol Krai;48000
+2020-09-01;Tambov Oblast;85000
+2020-09-01;Tver Oblast;57376
+2020-09-01;Tomsk Oblast;46664
+2020-09-01;Tula Oblast;65513
+2020-09-01;Tyumen Oblast;74863
+2020-09-01;Udmurt Republic;62025
+2020-09-01;Ulyanovsk Oblast;48167
+2020-09-01;Khabarovsk Krai;101862
+2020-09-01;Khanty-Mansi Autonomous Okrug–Yugra;88630
+2020-09-01;Chelyabinsk Oblast;57000
+2020-09-01;Chuvash Republic — Chuvashia;47470
+2020-09-01;Yamalo-Nenets Autonomous Okrug;110840
+2020-09-01;Yaroslavl Oblast;52199
+2020-10-01;Russia;79600
+2020-10-01;Republic of Adygea;45491
+2020-10-01;Altai Republic;0
+2020-10-01;Altai Krai;48000
+2020-10-01;Amur Oblast;0
+2020-10-01;Arkhangelsk Oblast;86193
+2020-10-01;Astrakhan Oblast;70697
+2020-10-01;Belgorod Oblast;58003
+2020-10-01;Bryansk Oblast;46901
+2020-10-01;Vladimir Oblast;48269
+2020-10-01;Volgograd Oblast;54000
+2020-10-01;Vologda Oblast;50939
+2020-10-01;Voronezh Oblast;55846
+2020-10-01;Zabaykalsky Krai;0
+2020-10-01;Ivanovo Oblast;39426
+2020-10-01;Irkutsk Oblast;73734
+2020-10-01;Kaliningrad Oblast;63125
+2020-10-01;Kaluga Oblast;70977
+2020-10-01;Kemerovo Oblast;50619
+2020-10-01;Kirov Oblast;51445
+2020-10-01;Kostroma Oblast;54199
+2020-10-01;Krasnodar Krai;62286
+2020-10-01;Krasnoyarsk Krai;76942
+2020-10-01;Kurgan Oblast;38482
+2020-10-01;Kursk Oblast;65205
+2020-10-01;Leningrad Oblast;105667
+2020-10-01;Lipetsk Oblast;50060
+2020-10-01;Republic of Mordovia;47509
+2020-10-01;Moscow;247969
+2020-10-01;Moscow Oblast;117005
+2020-10-01;Nizhny Novgorod Oblast;81195
+2020-10-01;Novgorod Oblast;54343
+2020-10-01;Novosibirsk Oblast;76311
+2020-10-01;Omsk Oblast;56674
+2020-10-01;Orenburg Oblast;38837
+2020-10-01;Oryol Oblast;50024
+2020-10-01;Penza Oblast;52229
+2020-10-01;Perm Krai;68830
+2020-10-01;Primorsky Krai;122778
+2020-10-01;Pskov Oblast;41219
+2020-10-01;Republic of Bashkortostan;80036
+2020-10-01;Republic of Buryatia;58035
+2020-10-01;Republic of Dagestan;0
+2020-10-01;Republic of Karelia;62985
+2020-10-01;Komi Republic;58944
+2020-10-01;Mari El Republic;48000
+2020-10-01;Republic of Sakha (Yakutia);106633
+2020-10-01;Republic of North Ossetia–Alania;0
+2020-10-01;Republic of Tatarstan;91170
+2020-10-01;Republic of Khakassia;58000
+2020-10-01;Rostov Oblast;56330
+2020-10-01;Ryazan Oblast;51803
+2020-10-01;Samara Oblast;53669
+2020-10-01;City of Saint Petersburg;164738
+2020-10-01;Saratov Oblast;43625
+2020-10-01;Sakhalin Oblast;0
+2020-10-01;Sverdlovsk Oblast;86573
+2020-10-01;Smolensk Oblast;45511
+2020-10-01;Stavropol Krai;45549
+2020-10-01;Tambov Oblast;56914
+2020-10-01;Tver Oblast;55560
+2020-10-01;Tomsk Oblast;0
+2020-10-01;Tula Oblast;63333
+2020-10-01;Tyumen Oblast;77093
+2020-10-01;Udmurt Republic;65500
+2020-10-01;Ulyanovsk Oblast;50317
+2020-10-01;Khabarovsk Krai;100427
+2020-10-01;Khanty-Mansi Autonomous Okrug–Yugra;84748
+2020-10-01;Chelyabinsk Oblast;51574
+2020-10-01;Chuvash Republic — Chuvashia;46691
+2020-10-01;Yamalo-Nenets Autonomous Okrug;0
+2020-10-01;Yaroslavl Oblast;51044
+2020-11-01;Russia;82837
+2020-11-01;Republic of Adygea;46212
+2020-11-01;Altai Republic;0
+2020-11-01;Altai Krai;50131
+2020-11-01;Amur Oblast;0
+2020-11-01;Arkhangelsk Oblast;74593
+2020-11-01;Astrakhan Oblast;59151
+2020-11-01;Belgorod Oblast;79498
+2020-11-01;Bryansk Oblast;43250
+2020-11-01;Vladimir Oblast;48406
+2020-11-01;Volgograd Oblast;55244
+2020-11-01;Vologda Oblast;55007
+2020-11-01;Voronezh Oblast;53000
+2020-11-01;Zabaykalsky Krai;81244
+2020-11-01;Ivanovo Oblast;47010
+2020-11-01;Irkutsk Oblast;57357
+2020-11-01;Kaliningrad Oblast;77827
+2020-11-01;Kaluga Oblast;69679
+2020-11-01;Kemerovo Oblast;54788
+2020-11-01;Kirov Oblast;54200
+2020-11-01;Kostroma Oblast;60600
+2020-11-01;Krasnodar Krai;63058
+2020-11-01;Krasnoyarsk Krai;72401
+2020-11-01;Kurgan Oblast;0
+2020-11-01;Kursk Oblast;63000
+2020-11-01;Leningrad Oblast;105667
+2020-11-01;Lipetsk Oblast;50329
+2020-11-01;Republic of Mordovia;50620
+2020-11-01;Moscow;238832
+2020-11-01;Moscow Oblast;127034
+2020-11-01;Nizhny Novgorod Oblast;95872
+2020-11-01;Novgorod Oblast;57966
+2020-11-01;Novosibirsk Oblast;80412
+2020-11-01;Omsk Oblast;66197
+2020-11-01;Orenburg Oblast;38875
+2020-11-01;Oryol Oblast;47892
+2020-11-01;Penza Oblast;56426
+2020-11-01;Perm Krai;69344
+2020-11-01;Primorsky Krai;102304
+2020-11-01;Pskov Oblast;71118
+2020-11-01;Republic of Bashkortostan;72314
+2020-11-01;Republic of Buryatia;0
+2020-11-01;Republic of Dagestan;56228
+2020-11-01;Republic of Karelia;58912
+2020-11-01;Komi Republic;65049
+2020-11-01;Mari El Republic;48948
+2020-11-01;Republic of Sakha (Yakutia);97834
+2020-11-01;Republic of North Ossetia–Alania;0
+2020-11-01;Republic of Tatarstan;90752
+2020-11-01;Republic of Khakassia;70253
+2020-11-01;Rostov Oblast;62829
+2020-11-01;Ryazan Oblast;50754
+2020-11-01;Samara Oblast;52049
+2020-11-01;City of Saint Petersburg;165000
+2020-11-01;Saratov Oblast;41752
+2020-11-01;Sakhalin Oblast;126965
+2020-11-01;Sverdlovsk Oblast;89269
+2020-11-01;Smolensk Oblast;41092
+2020-11-01;Stavropol Krai;43453
+2020-11-01;Tambov Oblast;55000
+2020-11-01;Tver Oblast;52187
+2020-11-01;Tomsk Oblast;0
+2020-11-01;Tula Oblast;69000
+2020-11-01;Tyumen Oblast;78301
+2020-11-01;Udmurt Republic;66699
+2020-11-01;Ulyanovsk Oblast;49911
+2020-11-01;Khabarovsk Krai;97599
+2020-11-01;Khanty-Mansi Autonomous Okrug–Yugra;86150
+2020-11-01;Chelyabinsk Oblast;52371
+2020-11-01;Chuvash Republic — Chuvashia;44846
+2020-11-01;Yamalo-Nenets Autonomous Okrug;109657
+2020-11-01;Yaroslavl Oblast;53851
+2020-12-01;Russia;88727
+2020-12-01;Republic of Adygea;48570
+2020-12-01;Altai Republic;0
+2020-12-01;Altai Krai;57898
+2020-12-01;Amur Oblast;70035
+2020-12-01;Arkhangelsk Oblast;99701
+2020-12-01;Astrakhan Oblast;80032
+2020-12-01;Belgorod Oblast;60305
+2020-12-01;Bryansk Oblast;56083
+2020-12-01;Vladimir Oblast;52325
+2020-12-01;Volgograd Oblast;55165
+2020-12-01;Vologda Oblast;57481
+2020-12-01;Voronezh Oblast;56720
+2020-12-01;Zabaykalsky Krai;83193
+2020-12-01;Ivanovo Oblast;50530
+2020-12-01;Irkutsk Oblast;80846
+2020-12-01;Kaliningrad Oblast;89025
+2020-12-01;Kaluga Oblast;70694
+2020-12-01;Kemerovo Oblast;56000
+2020-12-01;Kirov Oblast;51040
+2020-12-01;Kostroma Oblast;56097
+2020-12-01;Krasnodar Krai;65813
+2020-12-01;Krasnoyarsk Krai;68865
+2020-12-01;Kurgan Oblast;64342
+2020-12-01;Kursk Oblast;57480
+2020-12-01;Leningrad Oblast;106240
+2020-12-01;Lipetsk Oblast;54250
+2020-12-01;Republic of Mordovia;50609
+2020-12-01;Moscow;245683
+2020-12-01;Moscow Oblast;126737
+2020-12-01;Nizhny Novgorod Oblast;88177
+2020-12-01;Novgorod Oblast;49898
+2020-12-01;Novosibirsk Oblast;81559
+2020-12-01;Omsk Oblast;72370
+2020-12-01;Orenburg Oblast;44500
+2020-12-01;Oryol Oblast;49200
+2020-12-01;Penza Oblast;60935
+2020-12-01;Perm Krai;78109
+2020-12-01;Primorsky Krai;119619
+2020-12-01;Pskov Oblast;46631
+2020-12-01;Republic of Bashkortostan;78846
+2020-12-01;Republic of Buryatia;0
+2020-12-01;Republic of Dagestan;0
+2020-12-01;Republic of Karelia;67666
+2020-12-01;Komi Republic;64122
+2020-12-01;Mari El Republic;49987
+2020-12-01;Republic of Sakha (Yakutia);111288
+2020-12-01;Republic of North Ossetia–Alania;0
+2020-12-01;Republic of Tatarstan;99818
+2020-12-01;Republic of Khakassia;73000
+2020-12-01;Rostov Oblast;58241
+2020-12-01;Ryazan Oblast;57637
+2020-12-01;Samara Oblast;55208
+2020-12-01;City of Saint Petersburg;163573
+2020-12-01;Saratov Oblast;44166
+2020-12-01;Sakhalin Oblast;138636
+2020-12-01;Sverdlovsk Oblast;86247
+2020-12-01;Smolensk Oblast;58463
+2020-12-01;Stavropol Krai;42180
+2020-12-01;Tambov Oblast;67875
+2020-12-01;Tver Oblast;52282
+2020-12-01;Tomsk Oblast;0
+2020-12-01;Tula Oblast;69227
+2020-12-01;Tyumen Oblast;83808
+2020-12-01;Udmurt Republic;68537
+2020-12-01;Ulyanovsk Oblast;52235
+2020-12-01;Khabarovsk Krai;95733
+2020-12-01;Khanty-Mansi Autonomous Okrug–Yugra;83042
+2020-12-01;Chelyabinsk Oblast;55834
+2020-12-01;Chuvash Republic — Chuvashia;51132
+2020-12-01;Yamalo-Nenets Autonomous Okrug;117668
+2020-12-01;Yaroslavl Oblast;53918
+2021-01-01;Russia;87312
+2021-01-01;Republic of Adygea;51771
+2021-01-01;Altai Republic;53000
+2021-01-01;Altai Krai;62500
+2021-01-01;Amur Oblast;0
+2021-01-01;Arkhangelsk Oblast;81000
+2021-01-01;Astrakhan Oblast;58000
+2021-01-01;Belgorod Oblast;58000
+2021-01-01;Bryansk Oblast;54000
+2021-01-01;Vladimir Oblast;50500
+2021-01-01;Volgograd Oblast;48833
+2021-01-01;Vologda Oblast;54852
+2021-01-01;Voronezh Oblast;55281
+2021-01-01;Zabaykalsky Krai;85000
+2021-01-01;Ivanovo Oblast;63500
+2021-01-01;Irkutsk Oblast;78710
+2021-01-01;Kaliningrad Oblast;93000
+2021-01-01;Kaluga Oblast;62275
+2021-01-01;Kemerovo Oblast;57353
+2021-01-01;Kirov Oblast;58050
+2021-01-01;Kostroma Oblast;64634
+2021-01-01;Krasnodar Krai;70000
+2021-01-01;Krasnoyarsk Krai;89064
+2021-01-01;Kurgan Oblast;0
+2021-01-01;Kursk Oblast;58000
+2021-01-01;Leningrad Oblast;104229
+2021-01-01;Lipetsk Oblast;48002
+2021-01-01;Republic of Mordovia;52688
+2021-01-01;Moscow;249054
+2021-01-01;Moscow Oblast;136590
+2021-01-01;Nizhny Novgorod Oblast;94706
+2021-01-01;Novgorod Oblast;61794
+2021-01-01;Novosibirsk Oblast;80617
+2021-01-01;Omsk Oblast;57929
+2021-01-01;Orenburg Oblast;43444
+2021-01-01;Oryol Oblast;54752
+2021-01-01;Penza Oblast;50000
+2021-01-01;Perm Krai;67952
+2021-01-01;Primorsky Krai;116687
+2021-01-01;Pskov Oblast;43736
+2021-01-01;Republic of Bashkortostan;75000
+2021-01-01;Republic of Buryatia;50750
+2021-01-01;Republic of Dagestan;56266
+2021-01-01;Republic of Karelia;78416
+2021-01-01;Komi Republic;67627
+2021-01-01;Mari El Republic;51902
+2021-01-01;Republic of Sakha (Yakutia);105000
+2021-01-01;Republic of North Ossetia–Alania;42000
+2021-01-01;Republic of Tatarstan;96755
+2021-01-01;Republic of Khakassia;68667
+2021-01-01;Rostov Oblast;66000
+2021-01-01;Ryazan Oblast;56817
+2021-01-01;Samara Oblast;49894
+2021-01-01;City of Saint Petersburg;165559
+2021-01-01;Saratov Oblast;43976
+2021-01-01;Sakhalin Oblast;0
+2021-01-01;Sverdlovsk Oblast;82930
+2021-01-01;Smolensk Oblast;61648
+2021-01-01;Stavropol Krai;46176
+2021-01-01;Tambov Oblast;43000
+2021-01-01;Tver Oblast;54931
+2021-01-01;Tomsk Oblast;79300
+2021-01-01;Tula Oblast;65592
+2021-01-01;Tyumen Oblast;79262
+2021-01-01;Udmurt Republic;68106
+2021-01-01;Ulyanovsk Oblast;53308
+2021-01-01;Khabarovsk Krai;132855
+2021-01-01;Khanty-Mansi Autonomous Okrug–Yugra;86856
+2021-01-01;Chelyabinsk Oblast;58898
+2021-01-01;Chuvash Republic — Chuvashia;56500
+2021-01-01;Yamalo-Nenets Autonomous Okrug;0
+2021-01-01;Yaroslavl Oblast;61392
+2021-02-01;Russia;92180
+2021-02-01;Republic of Adygea;62709
+2021-02-01;Altai Republic;0
+2021-02-01;Altai Krai;62000
+2021-02-01;Amur Oblast;0
+2021-02-01;Arkhangelsk Oblast;96009
+2021-02-01;Astrakhan Oblast;66943
+2021-02-01;Belgorod Oblast;59013
+2021-02-01;Bryansk Oblast;52901
+2021-02-01;Vladimir Oblast;44199
+2021-02-01;Volgograd Oblast;55313
+2021-02-01;Vologda Oblast;46000
+2021-02-01;Voronezh Oblast;65679
+2021-02-01;Zabaykalsky Krai;84739
+2021-02-01;Ivanovo Oblast;47873
+2021-02-01;Irkutsk Oblast;82868
+2021-02-01;Kaliningrad Oblast;97560
+2021-02-01;Kaluga Oblast;76250
+2021-02-01;Kemerovo Oblast;58435
+2021-02-01;Kirov Oblast;55659
+2021-02-01;Kostroma Oblast;65217
+2021-02-01;Krasnodar Krai;73900
+2021-02-01;Krasnoyarsk Krai;81661
+2021-02-01;Kurgan Oblast;57871
+2021-02-01;Kursk Oblast;61214
+2021-02-01;Leningrad Oblast;109040
+2021-02-01;Lipetsk Oblast;53000
+2021-02-01;Republic of Mordovia;51586
+2021-02-01;Moscow;260000
+2021-02-01;Moscow Oblast;136248
+2021-02-01;Nizhny Novgorod Oblast;96336
+2021-02-01;Novgorod Oblast;55420
+2021-02-01;Novosibirsk Oblast;86566
+2021-02-01;Omsk Oblast;0
+2021-02-01;Orenburg Oblast;45150
+2021-02-01;Oryol Oblast;53285
+2021-02-01;Penza Oblast;56755
+2021-02-01;Perm Krai;71378
+2021-02-01;Primorsky Krai;126547
+2021-02-01;Pskov Oblast;42136
+2021-02-01;Republic of Bashkortostan;83017
+2021-02-01;Republic of Buryatia;49707
+2021-02-01;Republic of Dagestan;0
+2021-02-01;Republic of Karelia;92716
+2021-02-01;Komi Republic;69214
+2021-02-01;Mari El Republic;42817
+2021-02-01;Republic of Sakha (Yakutia);105000
+2021-02-01;Republic of North Ossetia–Alania;0
+2021-02-01;Republic of Tatarstan;111908
+2021-02-01;Republic of Khakassia;0
+2021-02-01;Rostov Oblast;66457
+2021-02-01;Ryazan Oblast;59472
+2021-02-01;Samara Oblast;52399
+2021-02-01;City of Saint Petersburg;168346
+2021-02-01;Saratov Oblast;43463
+2021-02-01;Sakhalin Oblast;0
+2021-02-01;Sverdlovsk Oblast;92095
+2021-02-01;Smolensk Oblast;55423
+2021-02-01;Stavropol Krai;45000
+2021-02-01;Tambov Oblast;47800
+2021-02-01;Tver Oblast;57400
+2021-02-01;Tomsk Oblast;0
+2021-02-01;Tula Oblast;73309
+2021-02-01;Tyumen Oblast;79528
+2021-02-01;Udmurt Republic;69732
+2021-02-01;Ulyanovsk Oblast;52963
+2021-02-01;Khabarovsk Krai;95430
+2021-02-01;Khanty-Mansi Autonomous Okrug–Yugra;84160
+2021-02-01;Chelyabinsk Oblast;60297
+2021-02-01;Chuvash Republic — Chuvashia;55975
+2021-02-01;Yamalo-Nenets Autonomous Okrug;82002
+2021-02-01;Yaroslavl Oblast;69188
+2021-03-01;Russia;89972
+2021-03-01;Republic of Adygea;58840
+2021-03-01;Altai Republic;0
+2021-03-01;Altai Krai;63000
+2021-03-01;Amur Oblast;0
+2021-03-01;Arkhangelsk Oblast;86839
+2021-03-01;Astrakhan Oblast;60829
+2021-03-01;Belgorod Oblast;64584
+2021-03-01;Bryansk Oblast;58667
+2021-03-01;Vladimir Oblast;51300
+2021-03-01;Volgograd Oblast;56000
+2021-03-01;Vologda Oblast;54000
+2021-03-01;Voronezh Oblast;62250
+2021-03-01;Zabaykalsky Krai;0
+2021-03-01;Ivanovo Oblast;48851
+2021-03-01;Irkutsk Oblast;96893
+2021-03-01;Kaliningrad Oblast;90370
+2021-03-01;Kaluga Oblast;80006
+2021-03-01;Kemerovo Oblast;57623
+2021-03-01;Kirov Oblast;54773
+2021-03-01;Kostroma Oblast;65776
+2021-03-01;Krasnodar Krai;68525
+2021-03-01;Krasnoyarsk Krai;80929
+2021-03-01;Kurgan Oblast;43080
+2021-03-01;Kursk Oblast;64982
+2021-03-01;Leningrad Oblast;118000
+2021-03-01;Lipetsk Oblast;54392
+2021-03-01;Republic of Mordovia;51468
+2021-03-01;Moscow;261840
+2021-03-01;Moscow Oblast;140821
+2021-03-01;Nizhny Novgorod Oblast;95780
+2021-03-01;Novgorod Oblast;56258
+2021-03-01;Novosibirsk Oblast;89033
+2021-03-01;Omsk Oblast;64900
+2021-03-01;Orenburg Oblast;44938
+2021-03-01;Oryol Oblast;61089
+2021-03-01;Penza Oblast;57194
+2021-03-01;Perm Krai;75675
+2021-03-01;Primorsky Krai;131464
+2021-03-01;Pskov Oblast;46772
+2021-03-01;Republic of Bashkortostan;81140
+2021-03-01;Republic of Buryatia;69840
+2021-03-01;Republic of Dagestan;0
+2021-03-01;Republic of Karelia;83004
+2021-03-01;Komi Republic;63581
+2021-03-01;Mari El Republic;46809
+2021-03-01;Republic of Sakha (Yakutia);94596
+2021-03-01;Republic of North Ossetia–Alania;0
+2021-03-01;Republic of Tatarstan;89986
+2021-03-01;Republic of Khakassia;69383
+2021-03-01;Rostov Oblast;66292
+2021-03-01;Ryazan Oblast;54570
+2021-03-01;Samara Oblast;52000
+2021-03-01;City of Saint Petersburg;181123
+2021-03-01;Saratov Oblast;45734
+2021-03-01;Sakhalin Oblast;0
+2021-03-01;Sverdlovsk Oblast;85771
+2021-03-01;Smolensk Oblast;45993
+2021-03-01;Stavropol Krai;45781
+2021-03-01;Tambov Oblast;37611
+2021-03-01;Tver Oblast;59702
+2021-03-01;Tomsk Oblast;0
+2021-03-01;Tula Oblast;72920
+2021-03-01;Tyumen Oblast;82777
+2021-03-01;Udmurt Republic;66045
+2021-03-01;Ulyanovsk Oblast;49746
+2021-03-01;Khabarovsk Krai;117749
+2021-03-01;Khanty-Mansi Autonomous Okrug–Yugra;95059
+2021-03-01;Chelyabinsk Oblast;52189
+2021-03-01;Chuvash Republic — Chuvashia;61807
+2021-03-01;Yamalo-Nenets Autonomous Okrug;0
+2021-03-01;Yaroslavl Oblast;61761
+2021-04-01;Russia;91975
+2021-04-01;Republic of Adygea;65000
+2021-04-01;Altai Republic;0
+2021-04-01;Altai Krai;55855
+2021-04-01;Amur Oblast;0
+2021-04-01;Arkhangelsk Oblast;88827
+2021-04-01;Astrakhan Oblast;72070
+2021-04-01;Belgorod Oblast;80000
+2021-04-01;Bryansk Oblast;44905
+2021-04-01;Vladimir Oblast;54017
+2021-04-01;Volgograd Oblast;60859
+2021-04-01;Vologda Oblast;54870
+2021-04-01;Voronezh Oblast;65544
+2021-04-01;Zabaykalsky Krai;66713
+2021-04-01;Ivanovo Oblast;50700
+2021-04-01;Irkutsk Oblast;100259
+2021-04-01;Kaliningrad Oblast;93750
+2021-04-01;Kaluga Oblast;81204
+2021-04-01;Kemerovo Oblast;58500
+2021-04-01;Kirov Oblast;59357
+2021-04-01;Kostroma Oblast;68225
+2021-04-01;Krasnodar Krai;84835
+2021-04-01;Krasnoyarsk Krai;85000
+2021-04-01;Kurgan Oblast;39775
+2021-04-01;Kursk Oblast;64892
+2021-04-01;Leningrad Oblast;121905
+2021-04-01;Lipetsk Oblast;51815
+2021-04-01;Republic of Mordovia;51626
+2021-04-01;Moscow;272195
+2021-04-01;Moscow Oblast;143726
+2021-04-01;Nizhny Novgorod Oblast;92925
+2021-04-01;Novgorod Oblast;53043
+2021-04-01;Novosibirsk Oblast;90035
+2021-04-01;Omsk Oblast;75618
+2021-04-01;Orenburg Oblast;45194
+2021-04-01;Oryol Oblast;62675
+2021-04-01;Penza Oblast;63896
+2021-04-01;Perm Krai;72494
+2021-04-01;Primorsky Krai;133645
+2021-04-01;Pskov Oblast;45423
+2021-04-01;Republic of Bashkortostan;78719
+2021-04-01;Republic of Buryatia;68581
+2021-04-01;Republic of Dagestan;56024
+2021-04-01;Republic of Karelia;57048
+2021-04-01;Komi Republic;62436
+2021-04-01;Mari El Republic;44121
+2021-04-01;Republic of Sakha (Yakutia);112500
+2021-04-01;Republic of North Ossetia–Alania;0
+2021-04-01;Republic of Tatarstan;106000
+2021-04-01;Republic of Khakassia;42000
+2021-04-01;Rostov Oblast;64150
+2021-04-01;Ryazan Oblast;57197
+2021-04-01;Samara Oblast;55889
+2021-04-01;City of Saint Petersburg;184000
+2021-04-01;Saratov Oblast;45644
+2021-04-01;Sakhalin Oblast;0
+2021-04-01;Sverdlovsk Oblast;92068
+2021-04-01;Smolensk Oblast;53345
+2021-04-01;Stavropol Krai;45000
+2021-04-01;Tambov Oblast;47284
+2021-04-01;Tver Oblast;59625
+2021-04-01;Tomsk Oblast;0
+2021-04-01;Tula Oblast;70988
+2021-04-01;Tyumen Oblast;84737
+2021-04-01;Udmurt Republic;69143
+2021-04-01;Ulyanovsk Oblast;51656
+2021-04-01;Khabarovsk Krai;115000
+2021-04-01;Khanty-Mansi Autonomous Okrug–Yugra;109436
+2021-04-01;Chelyabinsk Oblast;53517
+2021-04-01;Chuvash Republic — Chuvashia;64013
+2021-04-01;Yamalo-Nenets Autonomous Okrug;0
+2021-04-01;Yaroslavl Oblast;62696
+2021-05-01;Russia;95250
+2021-05-01;Republic of Adygea;67393
+2021-05-01;Altai Republic;0
+2021-05-01;Altai Krai;58696
+2021-05-01;Amur Oblast;0
+2021-05-01;Arkhangelsk Oblast;99387
+2021-05-01;Astrakhan Oblast;75776
+2021-05-01;Belgorod Oblast;69945
+2021-05-01;Bryansk Oblast;52278
+2021-05-01;Vladimir Oblast;51588
+2021-05-01;Volgograd Oblast;59515
+2021-05-01;Vologda Oblast;56550
+2021-05-01;Voronezh Oblast;62333
+2021-05-01;Zabaykalsky Krai;69907
+2021-05-01;Ivanovo Oblast;50833
+2021-05-01;Irkutsk Oblast;105477
+2021-05-01;Kaliningrad Oblast;85210
+2021-05-01;Kaluga Oblast;79947
+2021-05-01;Kemerovo Oblast;59000
+2021-05-01;Kirov Oblast;58367
+2021-05-01;Kostroma Oblast;60652
+2021-05-01;Krasnodar Krai;94250
+2021-05-01;Krasnoyarsk Krai;98735
+2021-05-01;Kurgan Oblast;51316
+2021-05-01;Kursk Oblast;64730
+2021-05-01;Leningrad Oblast;125378
+2021-05-01;Lipetsk Oblast;51857
+2021-05-01;Republic of Mordovia;52499
+2021-05-01;Moscow;283979
+2021-05-01;Moscow Oblast;140775
+2021-05-01;Nizhny Novgorod Oblast;93922
+2021-05-01;Novgorod Oblast;55875
+2021-05-01;Novosibirsk Oblast;97505
+2021-05-01;Omsk Oblast;69118
+2021-05-01;Orenburg Oblast;43463
+2021-05-01;Oryol Oblast;62400
+2021-05-01;Penza Oblast;68105
+2021-05-01;Perm Krai;74000
+2021-05-01;Primorsky Krai;145421
+2021-05-01;Pskov Oblast;47092
+2021-05-01;Republic of Bashkortostan;91375
+2021-05-01;Republic of Buryatia;68000
+2021-05-01;Republic of Dagestan;0
+2021-05-01;Republic of Karelia;78913
+2021-05-01;Komi Republic;63085
+2021-05-01;Mari El Republic;45250
+2021-05-01;Republic of Sakha (Yakutia);105000
+2021-05-01;Republic of North Ossetia–Alania;60455
+2021-05-01;Republic of Tatarstan;92185
+2021-05-01;Republic of Khakassia;42000
+2021-05-01;Rostov Oblast;67884
+2021-05-01;Ryazan Oblast;61107
+2021-05-01;Samara Oblast;55960
+2021-05-01;City of Saint Petersburg;175539
+2021-05-01;Saratov Oblast;47086
+2021-05-01;Sakhalin Oblast;110503
+2021-05-01;Sverdlovsk Oblast;94342
+2021-05-01;Smolensk Oblast;47010
+2021-05-01;Stavropol Krai;47000
+2021-05-01;Tambov Oblast;47500
+2021-05-01;Tver Oblast;73129
+2021-05-01;Tomsk Oblast;0
+2021-05-01;Tula Oblast;74720
+2021-05-01;Tyumen Oblast;89630
+2021-05-01;Udmurt Republic;67300
+2021-05-01;Ulyanovsk Oblast;54730
+2021-05-01;Khabarovsk Krai;103750
+2021-05-01;Khanty-Mansi Autonomous Okrug–Yugra;97823
+2021-05-01;Chelyabinsk Oblast;54641
+2021-05-01;Chuvash Republic — Chuvashia;62037
+2021-05-01;Yamalo-Nenets Autonomous Okrug;121037
+2021-05-01;Yaroslavl Oblast;65021
+2021-06-01;Russia;98165
+2021-06-01;Republic of Adygea;87851
+2021-06-01;Altai Republic;0
+2021-06-01;Altai Krai;66279
+2021-06-01;Amur Oblast;0
+2021-06-01;Arkhangelsk Oblast;88932
+2021-06-01;Astrakhan Oblast;110588
+2021-06-01;Belgorod Oblast;72474
+2021-06-01;Bryansk Oblast;54442
+2021-06-01;Vladimir Oblast;53000
+2021-06-01;Volgograd Oblast;66389
+2021-06-01;Vologda Oblast;56566
+2021-06-01;Voronezh Oblast;69000
+2021-06-01;Zabaykalsky Krai;70407
+2021-06-01;Ivanovo Oblast;46645
+2021-06-01;Irkutsk Oblast;107755
+2021-06-01;Kaliningrad Oblast;85471
+2021-06-01;Kaluga Oblast;84194
+2021-06-01;Kemerovo Oblast;65000
+2021-06-01;Kirov Oblast;52000
+2021-06-01;Kostroma Oblast;73607
+2021-06-01;Krasnodar Krai;112944
+2021-06-01;Krasnoyarsk Krai;91250
+2021-06-01;Kurgan Oblast;52500
+2021-06-01;Kursk Oblast;65364
+2021-06-01;Leningrad Oblast;121521
+2021-06-01;Lipetsk Oblast;60594
+2021-06-01;Republic of Mordovia;51971
+2021-06-01;Moscow;283780
+2021-06-01;Moscow Oblast;146534
+2021-06-01;Nizhny Novgorod Oblast;98537
+2021-06-01;Novgorod Oblast;57401
+2021-06-01;Novosibirsk Oblast;105582
+2021-06-01;Omsk Oblast;74246
+2021-06-01;Orenburg Oblast;54058
+2021-06-01;Oryol Oblast;63943
+2021-06-01;Penza Oblast;60372
+2021-06-01;Perm Krai;75667
+2021-06-01;Primorsky Krai;136771
+2021-06-01;Pskov Oblast;51713
+2021-06-01;Republic of Bashkortostan;87525
+2021-06-01;Republic of Buryatia;68643
+2021-06-01;Republic of Dagestan;0
+2021-06-01;Republic of Karelia;75326
+2021-06-01;Komi Republic;70326
+2021-06-01;Mari El Republic;41284
+2021-06-01;Republic of Sakha (Yakutia);104807
+2021-06-01;Republic of North Ossetia–Alania;0
+2021-06-01;Republic of Tatarstan;89749
+2021-06-01;Republic of Khakassia;62787
+2021-06-01;Rostov Oblast;72916
+2021-06-01;Ryazan Oblast;60942
+2021-06-01;Samara Oblast;58000
+2021-06-01;City of Saint Petersburg;179313
+2021-06-01;Saratov Oblast;46164
+2021-06-01;Sakhalin Oblast;146250
+2021-06-01;Sverdlovsk Oblast;94359
+2021-06-01;Smolensk Oblast;47608
+2021-06-01;Stavropol Krai;48399
+2021-06-01;Tambov Oblast;0
+2021-06-01;Tver Oblast;70963
+2021-06-01;Tomsk Oblast;0
+2021-06-01;Tula Oblast;75159
+2021-06-01;Tyumen Oblast;90685
+2021-06-01;Udmurt Republic;69760
+2021-06-01;Ulyanovsk Oblast;54392
+2021-06-01;Khabarovsk Krai;109037
+2021-06-01;Khanty-Mansi Autonomous Okrug–Yugra;96818
+2021-06-01;Chelyabinsk Oblast;62500
+2021-06-01;Chuvash Republic — Chuvashia;63030
+2021-06-01;Yamalo-Nenets Autonomous Okrug;0
+2021-06-01;Yaroslavl Oblast;63000
+2021-07-01;Russia;101670
+2021-07-01;Republic of Adygea;86696
+2021-07-01;Altai Republic;0
+2021-07-01;Altai Krai;64602
+2021-07-01;Amur Oblast;62000
+2021-07-01;Arkhangelsk Oblast;96877
+2021-07-01;Astrakhan Oblast;79515
+2021-07-01;Belgorod Oblast;81979
+2021-07-01;Bryansk Oblast;66132
+2021-07-01;Vladimir Oblast;51725
+2021-07-01;Volgograd Oblast;65780
+2021-07-01;Vologda Oblast;60000
+2021-07-01;Voronezh Oblast;69500
+2021-07-01;Zabaykalsky Krai;68810
+2021-07-01;Ivanovo Oblast;53000
+2021-07-01;Irkutsk Oblast;109500
+2021-07-01;Kaliningrad Oblast;93373
+2021-07-01;Kaluga Oblast;83356
+2021-07-01;Kemerovo Oblast;0
+2021-07-01;Kirov Oblast;59977
+2021-07-01;Kostroma Oblast;71044
+2021-07-01;Krasnodar Krai;123228
+2021-07-01;Krasnoyarsk Krai;79218
+2021-07-01;Kurgan Oblast;49831
+2021-07-01;Kursk Oblast;67333
+2021-07-01;Leningrad Oblast;122002
+2021-07-01;Lipetsk Oblast;54200
+2021-07-01;Republic of Mordovia;56000
+2021-07-01;Moscow;300000
+2021-07-01;Moscow Oblast;144916
+2021-07-01;Nizhny Novgorod Oblast;101745
+2021-07-01;Novgorod Oblast;61429
+2021-07-01;Novosibirsk Oblast;97260
+2021-07-01;Omsk Oblast;69032
+2021-07-01;Orenburg Oblast;49714
+2021-07-01;Oryol Oblast;63000
+2021-07-01;Penza Oblast;63908
+2021-07-01;Perm Krai;73981
+2021-07-01;Primorsky Krai;153333
+2021-07-01;Pskov Oblast;52812
+2021-07-01;Republic of Bashkortostan;85674
+2021-07-01;Republic of Buryatia;73391
+2021-07-01;Republic of Dagestan;63985
+2021-07-01;Republic of Karelia;68551
+2021-07-01;Komi Republic;65077
+2021-07-01;Mari El Republic;45499
+2021-07-01;Republic of Sakha (Yakutia);130000
+2021-07-01;Republic of North Ossetia–Alania;43200
+2021-07-01;Republic of Tatarstan;108793
+2021-07-01;Republic of Khakassia;0
+2021-07-01;Rostov Oblast;76049
+2021-07-01;Ryazan Oblast;61220
+2021-07-01;Samara Oblast;65132
+2021-07-01;City of Saint Petersburg;176011
+2021-07-01;Saratov Oblast;45671
+2021-07-01;Sakhalin Oblast;163519
+2021-07-01;Sverdlovsk Oblast;91224
+2021-07-01;Smolensk Oblast;0
+2021-07-01;Stavropol Krai;51000
+2021-07-01;Tambov Oblast;42500
+2021-07-01;Tver Oblast;66683
+2021-07-01;Tomsk Oblast;92404
+2021-07-01;Tula Oblast;78047
+2021-07-01;Tyumen Oblast;90367
+2021-07-01;Udmurt Republic;71704
+2021-07-01;Ulyanovsk Oblast;53531
+2021-07-01;Khabarovsk Krai;91807
+2021-07-01;Khanty-Mansi Autonomous Okrug–Yugra;97489
+2021-07-01;Chelyabinsk Oblast;67933
+2021-07-01;Chuvash Republic — Chuvashia;59033
+2021-07-01;Yamalo-Nenets Autonomous Okrug;0
+2021-07-01;Yaroslavl Oblast;68972
+2021-08-01;Russia;102336
+2021-08-01;Republic of Adygea;97794
+2021-08-01;Altai Krai;68648
+2021-08-01;Amur Oblast;115000
+2021-08-01;Arkhangelsk Oblast;93297
+2021-08-01;Astrakhan Oblast;72430
+2021-08-01;Belgorod Oblast;69736
+2021-08-01;Bryansk Oblast;56526
+2021-08-01;Vladimir Oblast;65000
+2021-08-01;Volgograd Oblast;61591
+2021-08-01;Vologda Oblast;59957
+2021-08-01;Voronezh Oblast;75730
+2021-08-01;Zabaykalsky Krai;81660
+2021-08-01;Ivanovo Oblast;49000
+2021-08-01;Irkutsk Oblast;94597
+2021-08-01;Kaliningrad Oblast;81155
+2021-08-01;Kaluga Oblast;71373
+2021-08-01;Kemerovo Oblast;61833
+2021-08-01;Kirov Oblast;58899
+2021-08-01;Kostroma Oblast;65536
+2021-08-01;Krasnodar Krai;121661
+2021-08-01;Krasnoyarsk Krai;88812
+2021-08-01;Kurgan Oblast;47400
+2021-08-01;Kursk Oblast;69768
+2021-08-01;Leningrad Oblast;121721
+2021-08-01;Lipetsk Oblast;63583
+2021-08-01;Republic of Mordovia;54606
+2021-08-01;Moscow;308599
+2021-08-01;Moscow Oblast;146958
+2021-08-01;Nizhny Novgorod Oblast;100606
+2021-08-01;Novgorod Oblast;60859
+2021-08-01;Novosibirsk Oblast;93859
+2021-08-01;Omsk Oblast;69426
+2021-08-01;Orenburg Oblast;47846
+2021-08-01;Oryol Oblast;62848
+2021-08-01;Penza Oblast;62615
+2021-08-01;Perm Krai;78005
+2021-08-01;Primorsky Krai;115400
+2021-08-01;Pskov Oblast;48533
+2021-08-01;Republic of Bashkortostan;91701
+2021-08-01;Republic of Buryatia;69250
+2021-08-01;Republic of Karelia;81782
+2021-08-01;Komi Republic;77717
+2021-08-01;Mari El Republic;57000
+2021-08-01;Republic of Sakha (Yakutia);102424
+2021-08-01;Republic of North Ossetia–Alania;41176
+2021-08-01;Republic of Tatarstan;124519
+2021-08-01;Rostov Oblast;77525
+2021-08-01;Ryazan Oblast;61489
+2021-08-01;Samara Oblast;65714
+2021-08-01;City of Saint Petersburg;186350
+2021-08-01;Saratov Oblast;47476
+2021-08-01;Sverdlovsk Oblast;96018
+2021-08-01;Smolensk Oblast;46547
+2021-08-01;Stavropol Krai;55055
+2021-08-01;Tambov Oblast;55000
+2021-08-01;Tver Oblast;69150
+2021-08-01;Tomsk Oblast;104696
+2021-08-01;Tula Oblast;74039
+2021-08-01;Tyumen Oblast;86766
+2021-08-01;Udmurt Republic;75032
+2021-08-01;Ulyanovsk Oblast;55695
+2021-08-01;Khabarovsk Krai;98163
+2021-08-01;Khanty-Mansi Autonomous Okrug–Yugra;96922
+2021-08-01;Chelyabinsk Oblast;56949
+2021-08-01;Chuvash Republic — Chuvashia;60653
+2021-08-01;Yaroslavl Oblast;67596
+2021-09-01;Russia;106159
+2021-09-01;Republic of Adygea;87436
+2021-09-01;Altai Krai;62113
+2021-09-01;Amur Oblast;148057
+2021-09-01;Arkhangelsk Oblast;99583
+2021-09-01;Astrakhan Oblast;89361
+2021-09-01;Belgorod Oblast;73743
+2021-09-01;Bryansk Oblast;64326
+2021-09-01;Vladimir Oblast;65000
+2021-09-01;Volgograd Oblast;61012
+2021-09-01;Vologda Oblast;63090
+2021-09-01;Voronezh Oblast;74767
+2021-09-01;Zabaykalsky Krai;68365
+2021-09-01;Ivanovo Oblast;57652
+2021-09-01;Irkutsk Oblast;86155
+2021-09-01;Kaliningrad Oblast;85182
+2021-09-01;Kaluga Oblast;84391
+2021-09-01;Kemerovo Oblast;62500
+2021-09-01;Kirov Oblast;68250
+2021-09-01;Kostroma Oblast;69175
+2021-09-01;Krasnodar Krai;121447
+2021-09-01;Krasnoyarsk Krai;85000
+2021-09-01;Kurgan Oblast;47773
+2021-09-01;Kursk Oblast;66583
+2021-09-01;Leningrad Oblast;124684
+2021-09-01;Lipetsk Oblast;65498
+2021-09-01;Republic of Mordovia;56000
+2021-09-01;Moscow;316872
+2021-09-01;Moscow Oblast;148629
+2021-09-01;Nizhny Novgorod Oblast;98780
+2021-09-01;Novgorod Oblast;59034
+2021-09-01;Novosibirsk Oblast;98645
+2021-09-01;Omsk Oblast;68074
+2021-09-01;Orenburg Oblast;50324
+2021-09-01;Oryol Oblast;61806
+2021-09-01;Penza Oblast;64464
+2021-09-01;Perm Krai;84595
+2021-09-01;Primorsky Krai;134782
+2021-09-01;Pskov Oblast;53500
+2021-09-01;Republic of Bashkortostan;97822
+2021-09-01;Republic of Buryatia;65000
+2021-09-01;Republic of Karelia;71561
+2021-09-01;Komi Republic;73713
+2021-09-01;Mari El Republic;53602
+2021-09-01;Republic of Sakha (Yakutia);112500
+2021-09-01;Republic of North Ossetia–Alania;45444
+2021-09-01;Republic of Tatarstan;103465
+2021-09-01;Republic of Khakassia;43000
+2021-09-01;Rostov Oblast;83200
+2021-09-01;Ryazan Oblast;66944
+2021-09-01;Samara Oblast;60344
+2021-09-01;City of Saint Petersburg;202989
+2021-09-01;Saratov Oblast;53227
+2021-09-01;Sakhalin Oblast;164134
+2021-09-01;Sverdlovsk Oblast;96605
+2021-09-01;Smolensk Oblast;50808
+2021-09-01;Stavropol Krai;60658
+2021-09-01;Tambov Oblast;52355
+2021-09-01;Tver Oblast;71717
+2021-09-01;Tomsk Oblast;116030
+2021-09-01;Tula Oblast;73326
+2021-09-01;Tyumen Oblast;90199
+2021-09-01;Udmurt Republic;74956
+2021-09-01;Ulyanovsk Oblast;61492
+2021-09-01;Khabarovsk Krai;88202
+2021-09-01;Khanty-Mansi Autonomous Okrug–Yugra;103996
+2021-09-01;Chelyabinsk Oblast;62127
+2021-09-01;Chuvash Republic — Chuvashia;67250
+2021-09-01;Yamalo-Nenets Autonomous Okrug;142113
+2021-09-01;Yaroslavl Oblast;71500
+2021-10-01;Russia;102878
+2021-10-01;Republic of Adygea;88356
+2021-10-01;Altai Krai;67091
+2021-10-01;Amur Oblast;110000
+2021-10-01;Arkhangelsk Oblast;99320
+2021-10-01;Astrakhan Oblast;78000
+2021-10-01;Belgorod Oblast;82751
+2021-10-01;Bryansk Oblast;61810
+2021-10-01;Vladimir Oblast;58078
+2021-10-01;Vologda Oblast;63376
+2021-10-01;Volgograd Oblast;69183
+2021-10-01;Voronezh Oblast;70000
+2021-10-01;Zabaykalsky Krai;87091
+2021-10-01;Ivanovo Oblast;66142
+2021-10-01;Irkutsk Oblast;94915
+2021-10-01;Kaliningrad Oblast;89429
+2021-10-01;Kaluga Oblast;85785
+2021-10-01;Kemerovo Oblast;58549
+2021-10-01;Kirov Oblast;68518
+2021-10-01;Kostroma Oblast;68730
+2021-10-01;Krasnodar Krai;137363
+2021-10-01;Krasnoyarsk Krai;85000
+2021-10-01;Kurgan Oblast;47400
+2021-10-01;Kursk Oblast;71938
+2021-10-01;Leningrad Oblast;124000
+2021-10-01;Lipetsk Oblast;67042
+2021-10-01;Republic of Mordovia;57000
+2021-10-01;Moscow;300000
+2021-10-01;Moscow Oblast;150606
+2021-10-01;Nizhny Novgorod Oblast;108744
+2021-10-01;Novgorod Oblast;61460
+2021-10-01;Novosibirsk Oblast;97356
+2021-10-01;Orenburg Oblast;51622
+2021-10-01;Oryol Oblast;60000
+2021-10-01;Penza Oblast;64000
+2021-10-01;Perm Krai;87167
+2021-10-01;Primorsky Krai;126250
+2021-10-01;Republic of Bashkortostan;94646
+2021-10-01;Republic of Kalmykia;47818
+2021-10-01;Republic of Karelia;93789
+2021-10-01;Komi Republic;79993
+2021-10-01;Mari El Republic;50148
+2021-10-01;Republic of North Ossetia–Alania;45000
+2021-10-01;Republic of Tatarstan;99079
+2021-10-01;Republic of Khakassia;70000
+2021-10-01;Rostov Oblast;81358
+2021-10-01;Ryazan Oblast;69766
+2021-10-01;Samara Oblast;65338
+2021-10-01;City of Saint Petersburg;206327
+2021-10-01;Saratov Oblast;46502
+2021-10-01;Sakhalin Oblast;163115
+2021-10-01;Sverdlovsk Oblast;92969
+2021-10-01;Smolensk Oblast;50800
+2021-10-01;Stavropol Krai;63157
+2021-10-01;Tambov Oblast;57580
+2021-10-01;Tver Oblast;79313
+2021-10-01;Tomsk Oblast;89347
+2021-10-01;Tula Oblast;78242
+2021-10-01;Tyumen Oblast;92357
+2021-10-01;Udmurt Republic;72791
+2021-10-01;Ulyanovsk Oblast;60028
+2021-10-01;Khabarovsk Krai;114856
+2021-10-01;Khanty-Mansi Autonomous Okrug–Yugra;108412
+2021-10-01;Chelyabinsk Oblast;56104
+2021-10-01;Chuvash Republic — Chuvashia;58615
+2021-10-01;Yaroslavl Oblast;69292
+2021-11-01;Russia;107036
+2021-11-01;Republic of Adygea;80000
+2021-11-01;Altai Krai;72000
+2021-11-01;Arkhangelsk Oblast;100719
+2021-11-01;Astrakhan Oblast;85000
+2021-11-01;Belgorod Oblast;75606
+2021-11-01;Bryansk Oblast;68458
+2021-11-01;Vladimir Oblast;63500
+2021-11-01;Volgograd Oblast;65417
+2021-11-01;Vologda Oblast;69534
+2021-11-01;Voronezh Oblast;65883
+2021-11-01;Zabaykalsky Krai;78488
+2021-11-01;Ivanovo Oblast;64023
+2021-11-01;Irkutsk Oblast;94917
+2021-11-01;Kaliningrad Oblast;99167
+2021-11-01;Kaluga Oblast;93500
+2021-11-01;Kemerovo Oblast;71344
+2021-11-01;Kirov Oblast;66383
+2021-11-01;Kostroma Oblast;73399
+2021-11-01;Krasnodar Krai;134367
+2021-11-01;Krasnoyarsk Krai;85083
+2021-11-01;Kurgan Oblast;53550
+2021-11-01;Kursk Oblast;76227
+2021-11-01;Leningrad Oblast;124159
+2021-11-01;Lipetsk Oblast;73186
+2021-11-01;Republic of Mordovia;50997
+2021-11-01;Moscow;310300
+2021-11-01;Moscow Oblast;152468
+2021-11-01;Nizhny Novgorod Oblast;100274
+2021-11-01;Novgorod Oblast;65115
+2021-11-01;Novosibirsk Oblast;105558
+2021-11-01;Omsk Oblast;77227
+2021-11-01;Orenburg Oblast;56490
+2021-11-01;Oryol Oblast;64885
+2021-11-01;Penza Oblast;64802
+2021-11-01;Perm Krai;86976
+2021-11-01;Primorsky Krai;149588
+2021-11-01;Pskov Oblast;58712
+2021-11-01;Republic of Bashkortostan;103454
+2021-11-01;Republic of Buryatia;67000
+2021-11-01;Republic of Dagestan;62000
+2021-11-01;Republic of Karelia;71864
+2021-11-01;Komi Republic;79786
+2021-11-01;Mari El Republic;45923
+2021-11-01;Republic of Sakha (Yakutia);119423
+2021-11-01;Republic of North Ossetia–Alania;62169
+2021-11-01;Republic of Tatarstan;90582
+2021-11-01;Republic of Khakassia;67796
+2021-11-01;Rostov Oblast;86700
+2021-11-01;Ryazan Oblast;70000
+2021-11-01;Samara Oblast;65830
+2021-11-01;City of Saint Petersburg;215380
+2021-11-01;Saratov Oblast;59838
+2021-11-01;Sakhalin Oblast;164388
+2021-11-01;Sverdlovsk Oblast;104473
+2021-11-01;Smolensk Oblast;44907
+2021-11-01;Stavropol Krai;58543
+2021-11-01;Tambov Oblast;59753
+2021-11-01;Tver Oblast;79600
+2021-11-01;Tomsk Oblast;81047
+2021-11-01;Tula Oblast;82187
+2021-11-01;Tyumen Oblast;94350
+2021-11-01;Udmurt Republic;73000
+2021-11-01;Ulyanovsk Oblast;61535
+2021-11-01;Khabarovsk Krai;121694
+2021-11-01;Khanty-Mansi Autonomous Okrug–Yugra;93266
+2021-11-01;Chelyabinsk Oblast;64469
+2021-11-01;Chuvash Republic — Chuvashia;79438
+2021-11-01;Yaroslavl Oblast;70217
+2021-12-01;Russia;111020
+2021-12-01;Republic of Adygea;87000
+2021-12-01;Altai Republic;70137
+2021-12-01;Altai Krai;76305
+2021-12-01;Amur Oblast;120000
+2021-12-01;Arkhangelsk Oblast;109009
+2021-12-01;Astrakhan Oblast;99583
+2021-12-01;Belgorod Oblast;75339
+2021-12-01;Bryansk Oblast;83485
+2021-12-01;Vladimir Oblast;63374
+2021-12-01;Volgograd Oblast;72243
+2021-12-01;Vologda Oblast;79521
+2021-12-01;Voronezh Oblast;77700
+2021-12-01;Zabaykalsky Krai;94728
+2021-12-01;Ivanovo Oblast;58333
+2021-12-01;Irkutsk Oblast;92276
+2021-12-01;Kaliningrad Oblast;104756
+2021-12-01;Kaluga Oblast;87340
+2021-12-01;Kemerovo Oblast;72370
+2021-12-01;Kirov Oblast;72250
+2021-12-01;Kostroma Oblast;74509
+2021-12-01;Krasnodar Krai;117964
+2021-12-01;Krasnoyarsk Krai;86400
+2021-12-01;Kurgan Oblast;67000
+2021-12-01;Kursk Oblast;74009
+2021-12-01;Leningrad Oblast;125240
+2021-12-01;Lipetsk Oblast;76106
+2021-12-01;Republic of Mordovia;57881
+2021-12-01;Moscow;298079
+2021-12-01;Moscow Oblast;159939
+2021-12-01;Nizhny Novgorod Oblast;116719
+2021-12-01;Novgorod Oblast;66581
+2021-12-01;Novosibirsk Oblast;109069
+2021-12-01;Orenburg Oblast;55979
+2021-12-01;Oryol Oblast;65395
+2021-12-01;Penza Oblast;64273
+2021-12-01;Perm Krai;92588
+2021-12-01;Primorsky Krai;164875
+2021-12-01;Pskov Oblast;59899
+2021-12-01;Republic of Bashkortostan;97384
+2021-12-01;Republic of Buryatia;71000
+2021-12-01;Republic of Karelia;98155
+2021-12-01;Komi Republic;78392
+2021-12-01;Mari El Republic;52736
+2021-12-01;Republic of Sakha (Yakutia);105000
+2021-12-01;Republic of North Ossetia–Alania;58750
+2021-12-01;Republic of Tatarstan;82819
+2021-12-01;Republic of Khakassia;44000
+2021-12-01;Rostov Oblast;77000
+2021-12-01;Ryazan Oblast;76550
+2021-12-01;Samara Oblast;68586
+2021-12-01;City of Saint Petersburg;223456
+2021-12-01;Saratov Oblast;53838
+2021-12-01;Sakhalin Oblast;160000
+2021-12-01;Sverdlovsk Oblast;106365
+2021-12-01;Smolensk Oblast;52358
+2021-12-01;Stavropol Krai;65424
+2021-12-01;Tambov Oblast;48157
+2021-12-01;Tver Oblast;86166
+2021-12-01;Tomsk Oblast;81135
+2021-12-01;Tula Oblast;84493
+2021-12-01;Tyumen Oblast;98435
+2021-12-01;Udmurt Republic;77643
+2021-12-01;Ulyanovsk Oblast;68654
+2021-12-01;Khabarovsk Krai;125103
+2021-12-01;Khanty-Mansi Autonomous Okrug–Yugra;94760
+2021-12-01;Chelyabinsk Oblast;61874
+2021-12-01;Chuvash Republic — Chuvashia;80000
+2021-12-01;Yaroslavl Oblast;76406
+2022-01-01;Russia;115383
+2022-01-01;Republic of Adygea;110570
+2022-01-01;Altai Republic;70137
+2022-01-01;Altai Krai;77014
+2022-01-01;Amur Oblast;123981
+2022-01-01;Arkhangelsk Oblast;103583
+2022-01-01;Astrakhan Oblast;96529
+2022-01-01;Belgorod Oblast;87998
+2022-01-01;Bryansk Oblast;85313
+2022-01-01;Vladimir Oblast;82726
+2022-01-01;Volgograd Oblast;66030
+2022-01-01;Vologda Oblast;65270
+2022-01-01;Voronezh Oblast;71611
+2022-01-01;Zabaykalsky Krai;92918
+2022-01-01;Irkutsk Oblast;102140
+2022-01-01;Kaliningrad Oblast;148398
+2022-01-01;Kaluga Oblast;99288
+2022-01-01;Kemerovo Oblast;69591
+2022-01-01;Kirov Oblast;67961
+2022-01-01;Kostroma Oblast;75217
+2022-01-01;Krasnodar Krai;121925
+2022-01-01;Krasnoyarsk Krai;92317
+2022-01-01;Kurgan Oblast;51193
+2022-01-01;Kursk Oblast;79271
+2022-01-01;Leningrad Oblast;130869
+2022-01-01;Lipetsk Oblast;78895
+2022-01-01;Republic of Mordovia;61680
+2022-01-01;Moscow;312394
+2022-01-01;Moscow Oblast;167745
+2022-01-01;Nizhny Novgorod Oblast;111586
+2022-01-01;Novgorod Oblast;65121
+2022-01-01;Novosibirsk Oblast;109642
+2022-01-01;Omsk Oblast;84764
+2022-01-01;Orenburg Oblast;70558
+2022-01-01;Oryol Oblast;63732
+2022-01-01;Penza Oblast;66900
+2022-01-01;Perm Krai;100500
+2022-01-01;Primorsky Krai;144184
+2022-01-01;Republic of Bashkortostan;115002
+2022-01-01;Republic of Buryatia;67000
+2022-01-01;Republic of Karelia;100021
+2022-01-01;Komi Republic;88012
+2022-01-01;Mari El Republic;45888
+2022-01-01;Republic of Sakha (Yakutia);120000
+2022-01-01;Republic of North Ossetia–Alania;54103
+2022-01-01;Republic of Tatarstan;136325
+2022-01-01;Republic of Khakassia;45000
+2022-01-01;Rostov Oblast;92242
+2022-01-01;Ryazan Oblast;73356
+2022-01-01;Samara Oblast;60347
+2022-01-01;City of Saint Petersburg;216271
+2022-01-01;Saratov Oblast;51975
+2022-01-01;Sakhalin Oblast;173125
+2022-01-01;Sverdlovsk Oblast;102692
+2022-01-01;Smolensk Oblast;54144
+2022-01-01;Stavropol Krai;66415
+2022-01-01;Tambov Oblast;76108
+2022-01-01;Tver Oblast;89566
+2022-01-01;Tula Oblast;82019
+2022-01-01;Tyumen Oblast;93933
+2022-01-01;Udmurt Republic;70873
+2022-01-01;Ulyanovsk Oblast;67766
+2022-01-01;Khabarovsk Krai;105417
+2022-01-01;Khanty-Mansi Autonomous Okrug–Yugra;102852
+2022-01-01;Chelyabinsk Oblast;69508
+2022-01-01;Chuvash Republic — Chuvashia;82000
+2022-01-01;Yamalo-Nenets Autonomous Okrug;93696
+2022-01-01;Yaroslavl Oblast;79671
+2022-02-01;Russia;116365
+2022-02-01;Republic of Adygea;105985
+2022-02-01;Altai Republic;85730
+2022-02-01;Altai Krai;82919
+2022-02-01;Amur Oblast;124284
+2022-02-01;Arkhangelsk Oblast;110128
+2022-02-01;Astrakhan Oblast;68873
+2022-02-01;Belgorod Oblast;84132
+2022-02-01;Bryansk Oblast;65000
+2022-02-01;Vladimir Oblast;79075
+2022-02-01;Volgograd Oblast;71980
+2022-02-01;Vologda Oblast;69757
+2022-02-01;Voronezh Oblast;76500
+2022-02-01;Zabaykalsky Krai;97307
+2022-02-01;Irkutsk Oblast;100913
+2022-02-01;Kabardino-Balkarian Republic;81083
+2022-02-01;Kaliningrad Oblast;142249
+2022-02-01;Kaluga Oblast;94713
+2022-02-01;Kemerovo Oblast;72571
+2022-02-01;Kirov Oblast;77000
+2022-02-01;Kostroma Oblast;86250
+2022-02-01;Krasnodar Krai;126600
+2022-02-01;Krasnoyarsk Krai;85835
+2022-02-01;Kurgan Oblast;53617
+2022-02-01;Kursk Oblast;88982
+2022-02-01;Leningrad Oblast;143128
+2022-02-01;Lipetsk Oblast;85068
+2022-02-01;Republic of Mordovia;61919
+2022-02-01;Moscow;320528
+2022-02-01;Moscow Oblast;169400
+2022-02-01;Nizhny Novgorod Oblast;116231
+2022-02-01;Novgorod Oblast;69645
+2022-02-01;Novosibirsk Oblast;122276
+2022-02-01;Omsk Oblast;88443
+2022-02-01;Orenburg Oblast;66176
+2022-02-01;Oryol Oblast;70260
+2022-02-01;Penza Oblast;70889
+2022-02-01;Perm Krai;101000
+2022-02-01;Primorsky Krai;148642
+2022-02-01;Republic of Bashkortostan;111095
+2022-02-01;Republic of Karelia;95251
+2022-02-01;Komi Republic;85231
+2022-02-01;Mari El Republic;46751
+2022-02-01;Republic of Sakha (Yakutia);118275
+2022-02-01;Republic of North Ossetia–Alania;52385
+2022-02-01;Republic of Tatarstan;116722
+2022-02-01;Republic of Khakassia;70440
+2022-02-01;Rostov Oblast;94538
+2022-02-01;Ryazan Oblast;84250
+2022-02-01;Samara Oblast;77205
+2022-02-01;City of Saint Petersburg;243312
+2022-02-01;Saratov Oblast;69500
+2022-02-01;Sakhalin Oblast;145506
+2022-02-01;Sverdlovsk Oblast;104743
+2022-02-01;Smolensk Oblast;53134
+2022-02-01;Stavropol Krai;77539
+2022-02-01;Tambov Oblast;57464
+2022-02-01;Tver Oblast;92461
+2022-02-01;Tomsk Oblast;86798
+2022-02-01;Tula Oblast;87967
+2022-02-01;Tyumen Oblast;99768
+2022-02-01;Udmurt Republic;81193
+2022-02-01;Ulyanovsk Oblast;74167
+2022-02-01;Khabarovsk Krai;107802
+2022-02-01;Khanty-Mansi Autonomous Okrug–Yugra;114486
+2022-02-01;Chelyabinsk Oblast;62795
+2022-02-01;Chuvash Republic — Chuvashia;79292
+2022-02-01;Yaroslavl Oblast;73747
+2022-03-01;Russia;124371
+2022-03-01;Republic of Adygea;93350
+2022-03-01;Altai Republic;89500
+2022-03-01;Altai Krai;97000
+2022-03-01;Amur Oblast;138319
+2022-03-01;Arkhangelsk Oblast;110096
+2022-03-01;Astrakhan Oblast;82162
+2022-03-01;Belgorod Oblast;85000
+2022-03-01;Bryansk Oblast;93971
+2022-03-01;Vladimir Oblast;82197
+2022-03-01;Volgograd Oblast;86079
+2022-03-01;Vologda Oblast;70593
+2022-03-01;Voronezh Oblast;85800
+2022-03-01;Zabaykalsky Krai;128411
+2022-03-01;Ivanovo Oblast;76236
+2022-03-01;Irkutsk Oblast;106168
+2022-03-01;Kaliningrad Oblast;132508
+2022-03-01;Kaluga Oblast;109400
+2022-03-01;Kemerovo Oblast;81708
+2022-03-01;Kirov Oblast;84976
+2022-03-01;Kostroma Oblast;82571
+2022-03-01;Krasnodar Krai;126504
+2022-03-01;Krasnoyarsk Krai;94833
+2022-03-01;Kurgan Oblast;61986
+2022-03-01;Kursk Oblast;92837
+2022-03-01;Leningrad Oblast;150000
+2022-03-01;Lipetsk Oblast;81337
+2022-03-01;Republic of Mordovia;70536
+2022-03-01;Moscow;323292
+2022-03-01;Moscow Oblast;172439
+2022-03-01;Nizhny Novgorod Oblast;118742
+2022-03-01;Novgorod Oblast;81212
+2022-03-01;Novosibirsk Oblast;122415
+2022-03-01;Omsk Oblast;92347
+2022-03-01;Orenburg Oblast;83561
+2022-03-01;Oryol Oblast;72500
+2022-03-01;Penza Oblast;85250
+2022-03-01;Perm Krai;108940
+2022-03-01;Primorsky Krai;142000
+2022-03-01;Pskov Oblast;77241
+2022-03-01;Republic of Bashkortostan;108620
+2022-03-01;Republic of Buryatia;70778
+2022-03-01;Republic of Karelia;108908
+2022-03-01;Komi Republic;93500
+2022-03-01;Mari El Republic;45499
+2022-03-01;Republic of North Ossetia–Alania;61500
+2022-03-01;Republic of Tatarstan;124648
+2022-03-01;Republic of Tuva;101000
+2022-03-01;Republic of Khakassia;56224
+2022-03-01;Rostov Oblast;114029
+2022-03-01;Ryazan Oblast;90000
+2022-03-01;Samara Oblast;86837
+2022-03-01;City of Saint Petersburg;256836
+2022-03-01;Saratov Oblast;72813
+2022-03-01;Sakhalin Oblast;153009
+2022-03-01;Sverdlovsk Oblast;112554
+2022-03-01;Smolensk Oblast;57119
+2022-03-01;Stavropol Krai;87229
+2022-03-01;Tambov Oblast;81875
+2022-03-01;Tver Oblast;102678
+2022-03-01;Tomsk Oblast;128314
+2022-03-01;Tula Oblast;90720
+2022-03-01;Tyumen Oblast;110608
+2022-03-01;Udmurt Republic;82760
+2022-03-01;Ulyanovsk Oblast;76120
+2022-03-01;Khabarovsk Krai;113950
+2022-03-01;Khanty-Mansi Autonomous Okrug–Yugra;113712
+2022-03-01;Chelyabinsk Oblast;83000
+2022-03-01;Chuvash Republic — Chuvashia;72547
+2022-03-01;Yaroslavl Oblast;87390
+2022-04-01;Russia;129627
+2022-04-01;Republic of Adygea;131000
+2022-04-01;Altai Krai;92068
+2022-04-01;Amur Oblast;128079
+2022-04-01;Arkhangelsk Oblast;122593
+2022-04-01;Astrakhan Oblast;86000
+2022-04-01;Belgorod Oblast;85750
+2022-04-01;Bryansk Oblast;68316
+2022-04-01;Vladimir Oblast;75236
+2022-04-01;Volgograd Oblast;75251
+2022-04-01;Vologda Oblast;78147
+2022-04-01;Voronezh Oblast;85600
+2022-04-01;Zabaykalsky Krai;135714
+2022-04-01;Irkutsk Oblast;102758
+2022-04-01;Kaliningrad Oblast;124000
+2022-04-01;Kaluga Oblast;102787
+2022-04-01;Kemerovo Oblast;83693
+2022-04-01;Kirov Oblast;81684
+2022-04-01;Kostroma Oblast;92000
+2022-04-01;Krasnodar Krai;124381
+2022-04-01;Krasnoyarsk Krai;111688
+2022-04-01;Kursk Oblast;73164
+2022-04-01;Leningrad Oblast;155966
+2022-04-01;Lipetsk Oblast;76189
+2022-04-01;Republic of Mordovia;72117
+2022-04-01;Moscow;328201
+2022-04-01;Moscow Oblast;172648
+2022-04-01;Nizhny Novgorod Oblast;129000
+2022-04-01;Novgorod Oblast;85128
+2022-04-01;Novosibirsk Oblast;118570
+2022-04-01;Omsk Oblast;91027
+2022-04-01;Orenburg Oblast;61909
+2022-04-01;Oryol Oblast;75240
+2022-04-01;Penza Oblast;82383
+2022-04-01;Perm Krai;116000
+2022-04-01;Primorsky Krai;160000
+2022-04-01;Pskov Oblast;77402
+2022-04-01;Republic of Bashkortostan;132191
+2022-04-01;Republic of Buryatia;72032
+2022-04-01;Republic of Karelia;117575
+2022-04-01;Komi Republic;94448
+2022-04-01;Mari El Republic;63061
+2022-04-01;Republic of Sakha (Yakutia);129185
+2022-04-01;Republic of North Ossetia–Alania;65000
+2022-04-01;Republic of Tatarstan;136351
+2022-04-01;Republic of Tuva;101000
+2022-04-01;Republic of Khakassia;84450
+2022-04-01;Rostov Oblast;119167
+2022-04-01;Ryazan Oblast;81368
+2022-04-01;Samara Oblast;100562
+2022-04-01;City of Saint Petersburg;243428
+2022-04-01;Saratov Oblast;70000
+2022-04-01;Sakhalin Oblast;160000
+2022-04-01;Sverdlovsk Oblast;114469
+2022-04-01;Smolensk Oblast;55012
+2022-04-01;Stavropol Krai;80000
+2022-04-01;Tambov Oblast;71614
+2022-04-01;Tver Oblast;95864
+2022-04-01;Tomsk Oblast;132563
+2022-04-01;Tula Oblast;97570
+2022-04-01;Tyumen Oblast;113243
+2022-04-01;Udmurt Republic;87005
+2022-04-01;Ulyanovsk Oblast;74547
+2022-04-01;Khabarovsk Krai;122882
+2022-04-01;Khanty-Mansi Autonomous Okrug–Yugra;113344
+2022-04-01;Chelyabinsk Oblast;77159
+2022-04-01;Chuvash Republic — Chuvashia;84695
+2022-04-01;Yaroslavl Oblast;104745
+2022-05-01;Russia;124417
+2022-05-01;Republic of Adygea;116476
+2022-05-01;Altai Krai;92040
+2022-05-01;Arkhangelsk Oblast;112928
+2022-05-01;Astrakhan Oblast;86231
+2022-05-01;Belgorod Oblast;90000
+2022-05-01;Bryansk Oblast;78000
+2022-05-01;Vladimir Oblast;75022
+2022-05-01;Volgograd Oblast;77589
+2022-05-01;Vologda Oblast;73792
+2022-05-01;Voronezh Oblast;82000
+2022-05-01;Zabaykalsky Krai;134917
+2022-05-01;Ivanovo Oblast;70612
+2022-05-01;Irkutsk Oblast;121821
+2022-05-01;Kaliningrad Oblast;128272
+2022-05-01;Kaluga Oblast;122800
+2022-05-01;Kemerovo Oblast;92084
+2022-05-01;Kirov Oblast;88490
+2022-05-01;Kostroma Oblast;82114
+2022-05-01;Krasnodar Krai;132833
+2022-05-01;Krasnoyarsk Krai;108458
+2022-05-01;Kurgan Oblast;53000
+2022-05-01;Kursk Oblast;82500
+2022-05-01;Leningrad Oblast;149259
+2022-05-01;Lipetsk Oblast;89477
+2022-05-01;Republic of Mordovia;74923
+2022-05-01;Moscow;333534
+2022-05-01;Moscow Oblast;170851
+2022-05-01;Nizhny Novgorod Oblast;135332
+2022-05-01;Novgorod Oblast;90737
+2022-05-01;Novosibirsk Oblast;129295
+2022-05-01;Omsk Oblast;99567
+2022-05-01;Orenburg Oblast;61263
+2022-05-01;Oryol Oblast;76637
+2022-05-01;Penza Oblast;77177
+2022-05-01;Perm Krai;105307
+2022-05-01;Primorsky Krai;147281
+2022-05-01;Pskov Oblast;72630
+2022-05-01;Republic of Bashkortostan;108000
+2022-05-01;Republic of Buryatia;85000
+2022-05-01;Republic of Kalmykia;62000
+2022-05-01;Republic of Karelia;105604
+2022-05-01;Mari El Republic;65000
+2022-05-01;Republic of Sakha (Yakutia);127019
+2022-05-01;Republic of North Ossetia–Alania;52000
+2022-05-01;Republic of Tatarstan;125285
+2022-05-01;Republic of Tuva;101000
+2022-05-01;Republic of Khakassia;82008
+2022-05-01;Rostov Oblast;108152
+2022-05-01;Ryazan Oblast;92398
+2022-05-01;Samara Oblast;90793
+2022-05-01;City of Saint Petersburg;230000
+2022-05-01;Saratov Oblast;75641
+2022-05-01;Sakhalin Oblast;141355
+2022-05-01;Sverdlovsk Oblast;114492
+2022-05-01;Smolensk Oblast;57073
+2022-05-01;Stavropol Krai;84400
+2022-05-01;Tambov Oblast;72000
+2022-05-01;Tver Oblast;95477
+2022-05-01;Tomsk Oblast;89000
+2022-05-01;Tula Oblast;96277
+2022-05-01;Tyumen Oblast;111497
+2022-05-01;Udmurt Republic;85429
+2022-05-01;Ulyanovsk Oblast;79861
+2022-05-01;Khabarovsk Krai;133235
+2022-05-01;Khanty-Mansi Autonomous Okrug–Yugra;110824
+2022-05-01;Chelyabinsk Oblast;76756
+2022-05-01;Chuvash Republic — Chuvashia;78170
+2022-05-01;Yaroslavl Oblast;79114
+2022-06-01;Russia;124741
+2022-06-01;Republic of Adygea;77505
+2022-06-01;Altai Krai;97950
+2022-06-01;Amur Oblast;100000
+2022-06-01;Arkhangelsk Oblast;112715
+2022-06-01;Astrakhan Oblast;105636
+2022-06-01;Belgorod Oblast;96012
+2022-06-01;Bryansk Oblast;78667
+2022-06-01;Vladimir Oblast;76663
+2022-06-01;Volgograd Oblast;80685
+2022-06-01;Vologda Oblast;80836
+2022-06-01;Voronezh Oblast;86000
+2022-06-01;Zabaykalsky Krai;143808
+2022-06-01;Ivanovo Oblast;77680
+2022-06-01;Irkutsk Oblast;132269
+2022-06-01;Kabardino-Balkarian Republic;83889
+2022-06-01;Kaliningrad Oblast;132994
+2022-06-01;Kaluga Oblast;98527
+2022-06-01;Kemerovo Oblast;84313
+2022-06-01;Kirov Oblast;85762
+2022-06-01;Kostroma Oblast;78453
+2022-06-01;Krasnodar Krai;131010
+2022-06-01;Krasnoyarsk Krai;85529
+2022-06-01;Kurgan Oblast;53000
+2022-06-01;Kursk Oblast;92182
+2022-06-01;Leningrad Oblast;149724
+2022-06-01;Lipetsk Oblast;72000
+2022-06-01;Republic of Mordovia;72137
+2022-06-01;Moscow;323563
+2022-06-01;Moscow Oblast;178208
+2022-06-01;Nizhny Novgorod Oblast;131625
+2022-06-01;Novgorod Oblast;83944
+2022-06-01;Novosibirsk Oblast;124636
+2022-06-01;Omsk Oblast;102699
+2022-06-01;Orenburg Oblast;62246
+2022-06-01;Oryol Oblast;76320
+2022-06-01;Penza Oblast;78042
+2022-06-01;Perm Krai;109000
+2022-06-01;Primorsky Krai;163707
+2022-06-01;Pskov Oblast;66105
+2022-06-01;Republic of Bashkortostan;98500
+2022-06-01;Republic of Buryatia;75852
+2022-06-01;Republic of Kalmykia;53230
+2022-06-01;Republic of Karelia;108000
+2022-06-01;Komi Republic;92615
+2022-06-01;Mari El Republic;67217
+2022-06-01;Republic of Sakha (Yakutia);129954
+2022-06-01;Republic of Tatarstan;139350
+2022-06-01;Republic of Tuva;130059
+2022-06-01;Republic of Khakassia;78575
+2022-06-01;Rostov Oblast;100724
+2022-06-01;Ryazan Oblast;95867
+2022-06-01;Samara Oblast;90402
+2022-06-01;City of Saint Petersburg;240885
+2022-06-01;Saratov Oblast;74456
+2022-06-01;Sakhalin Oblast;160000
+2022-06-01;Sverdlovsk Oblast;112485
+2022-06-01;Smolensk Oblast;61684
+2022-06-01;Stavropol Krai;86462
+2022-06-01;Tambov Oblast;69604
+2022-06-01;Tver Oblast;98961
+2022-06-01;Tomsk Oblast;93314
+2022-06-01;Tula Oblast;93620
+2022-06-01;Tyumen Oblast;115534
+2022-06-01;Udmurt Republic;90222
+2022-06-01;Ulyanovsk Oblast;80771
+2022-06-01;Khabarovsk Krai;126522
+2022-06-01;Khanty-Mansi Autonomous Okrug–Yugra;116381
+2022-06-01;Chelyabinsk Oblast;80728
+2022-06-01;Chuvash Republic — Chuvashia;78583
+2022-06-01;Yamalo-Nenets Autonomous Okrug;146150
+2022-06-01;Yaroslavl Oblast;81687
+2022-07-01;Russia;119669
+2022-07-01;Republic of Adygea;84074
+2022-07-01;Altai Krai;95000
+2022-07-01;Amur Oblast;119962
+2022-07-01;Arkhangelsk Oblast;109744
+2022-07-01;Astrakhan Oblast;101138
+2022-07-01;Belgorod Oblast;92986
+2022-07-01;Bryansk Oblast;79716
+2022-07-01;Vladimir Oblast;78914
+2022-07-01;Volgograd Oblast;81709
+2022-07-01;Vologda Oblast;85872
+2022-07-01;Voronezh Oblast;85000
+2022-07-01;Zabaykalsky Krai;139993
+2022-07-01;Ivanovo Oblast;71945
+2022-07-01;Irkutsk Oblast;112396
+2022-07-01;Kaliningrad Oblast;126772
+2022-07-01;Kaluga Oblast;114517
+2022-07-01;Kemerovo Oblast;84500
+2022-07-01;Kirov Oblast;85764
+2022-07-01;Kostroma Oblast;84201
+2022-07-01;Krasnodar Krai;128870
+2022-07-01;Krasnoyarsk Krai;105000
+2022-07-01;Kurgan Oblast;58000
+2022-07-01;Kursk Oblast;82068
+2022-07-01;Leningrad Oblast;147000
+2022-07-01;Lipetsk Oblast;88500
+2022-07-01;Republic of Mordovia;72556
+2022-07-01;Moscow;338851
+2022-07-01;Moscow Oblast;169381
+2022-07-01;Nizhny Novgorod Oblast;140208
+2022-07-01;Novgorod Oblast;79177
+2022-07-01;Novosibirsk Oblast;127147
+2022-07-01;Omsk Oblast;102574
+2022-07-01;Orenburg Oblast;63462
+2022-07-01;Oryol Oblast;72506
+2022-07-01;Penza Oblast;82429
+2022-07-01;Perm Krai;115285
+2022-07-01;Primorsky Krai;147134
+2022-07-01;Pskov Oblast;63000
+2022-07-01;Republic of Bashkortostan;112665
+2022-07-01;Republic of Buryatia;100000
+2022-07-01;Republic of Dagestan;69711
+2022-07-01;Republic of Kalmykia;60464
+2022-07-01;Republic of Karelia;88431
+2022-07-01;Komi Republic;98372
+2022-07-01;Mari El Republic;61487
+2022-07-01;Republic of Sakha (Yakutia);134327
+2022-07-01;Republic of North Ossetia–Alania;62500
+2022-07-01;Republic of Tatarstan;140525
+2022-07-01;Republic of Tuva;132911
+2022-07-01;Republic of Khakassia;78754
+2022-07-01;Rostov Oblast;100000
+2022-07-01;Ryazan Oblast;87502
+2022-07-01;Samara Oblast;96277
+2022-07-01;City of Saint Petersburg;235651
+2022-07-01;Saratov Oblast;71892
+2022-07-01;Sakhalin Oblast;157771
+2022-07-01;Sverdlovsk Oblast;108112
+2022-07-01;Smolensk Oblast;61887
+2022-07-01;Stavropol Krai;93035
+2022-07-01;Tambov Oblast;71500
+2022-07-01;Tver Oblast;93333
+2022-07-01;Tomsk Oblast;92500
+2022-07-01;Tula Oblast;96970
+2022-07-01;Tyumen Oblast;112263
+2022-07-01;Udmurt Republic;81191
+2022-07-01;Ulyanovsk Oblast;78639
+2022-07-01;Khabarovsk Krai;125627
+2022-07-01;Khanty-Mansi Autonomous Okrug–Yugra;145123
+2022-07-01;Chelyabinsk Oblast;78853
+2022-07-01;Chuvash Republic — Chuvashia;77454
+2022-07-01;Yamalo-Nenets Autonomous Okrug;146150
+2022-07-01;Yaroslavl Oblast;81395
+2022-08-01;Russia;122863
+2022-08-01;Republic of Adygea;102195
+2022-08-01;Altai Republic;90261
+2022-08-01;Altai Krai;96153
+2022-08-01;Arkhangelsk Oblast;110599
+2022-08-01;Astrakhan Oblast;113326
+2022-08-01;Belgorod Oblast;89796
+2022-08-01;Bryansk Oblast;79318
+2022-08-01;Vladimir Oblast;76915
+2022-08-01;Volgograd Oblast;88845
+2022-08-01;Vologda Oblast;76551
+2022-08-01;Voronezh Oblast;89545
+2022-08-01;Zabaykalsky Krai;137130
+2022-08-01;Ivanovo Oblast;68524
+2022-08-01;Irkutsk Oblast;112453
+2022-08-01;Kaliningrad Oblast;143326
+2022-08-01;Kaluga Oblast;102075
+2022-08-01;Kemerovo Oblast;87375
+2022-08-01;Kirov Oblast;83579
+2022-08-01;Kostroma Oblast;80640
+2022-08-01;Krasnodar Krai;125516
+2022-08-01;Krasnoyarsk Krai;102434
+2022-08-01;Kurgan Oblast;53870
+2022-08-01;Kursk Oblast;106732
+2022-08-01;Leningrad Oblast;151368
+2022-08-01;Lipetsk Oblast;84337
+2022-08-01;Republic of Mordovia;71511
+2022-08-01;Moscow;319686
+2022-08-01;Moscow Oblast;176995
+2022-08-01;Nizhny Novgorod Oblast;128726
+2022-08-01;Novgorod Oblast;79136
+2022-08-01;Novosibirsk Oblast;135960
+2022-08-01;Omsk Oblast;104739
+2022-08-01;Orenburg Oblast;67067
+2022-08-01;Oryol Oblast;75617
+2022-08-01;Penza Oblast;82336
+2022-08-01;Perm Krai;117607
+2022-08-01;Primorsky Krai;143572
+2022-08-01;Pskov Oblast;71000
+2022-08-01;Republic of Bashkortostan;112158
+2022-08-01;Republic of Buryatia;85000
+2022-08-01;Republic of Dagestan;73072
+2022-08-01;Republic of Kalmykia;62000
+2022-08-01;Republic of Karelia;105500
+2022-08-01;Komi Republic;94424
+2022-08-01;Mari El Republic;64145
+2022-08-01;Republic of Sakha (Yakutia);133705
+2022-08-01;Republic of North Ossetia–Alania;63000
+2022-08-01;Republic of Tatarstan;148029
+2022-08-01;Republic of Tuva;116000
+2022-08-01;Republic of Khakassia;77623
+2022-08-01;Rostov Oblast;103356
+2022-08-01;Ryazan Oblast;91554
+2022-08-01;Samara Oblast;89495
+2022-08-01;City of Saint Petersburg;252444
+2022-08-01;Saratov Oblast;67963
+2022-08-01;Sakhalin Oblast;155529
+2022-08-01;Sverdlovsk Oblast;116656
+2022-08-01;Smolensk Oblast;56007
+2022-08-01;Stavropol Krai;90082
+2022-08-01;Tambov Oblast;67857
+2022-08-01;Tver Oblast;94623
+2022-08-01;Tomsk Oblast;87655
+2022-08-01;Tula Oblast;98755
+2022-08-01;Tyumen Oblast;106924
+2022-08-01;Udmurt Republic;89319
+2022-08-01;Ulyanovsk Oblast;77612
+2022-08-01;Khabarovsk Krai;128557
+2022-08-01;Khanty-Mansi Autonomous Okrug–Yugra;112743
+2022-08-01;Chelyabinsk Oblast;78514
+2022-08-01;Chuvash Republic — Chuvashia;86100
+2022-08-01;Yaroslavl Oblast;82686
+2022-09-01;Russia;126778
+2022-09-01;Republic of Adygea;103877
+2022-09-01;Altai Republic;91000
+2022-09-01;Altai Krai;100393
+2022-09-01;Amur Oblast;141397
+2022-09-01;Arkhangelsk Oblast;107741
+2022-09-01;Astrakhan Oblast;93076
+2022-09-01;Belgorod Oblast;88461
+2022-09-01;Bryansk Oblast;75000
+2022-09-01;Vladimir Oblast;76069
+2022-09-01;Volgograd Oblast;93068
+2022-09-01;Vologda Oblast;90032
+2022-09-01;Voronezh Oblast;94000
+2022-09-01;Zabaykalsky Krai;129913
+2022-09-01;Ivanovo Oblast;75690
+2022-09-01;Irkutsk Oblast;104765
+2022-09-01;Kaliningrad Oblast;122025
+2022-09-01;Kaluga Oblast;111725
+2022-09-01;Kemerovo Oblast;88096
+2022-09-01;Kirov Oblast;88733
+2022-09-01;Kostroma Oblast;82364
+2022-09-01;Krasnodar Krai;128884
+2022-09-01;Krasnoyarsk Krai;97231
+2022-09-01;Kurgan Oblast;60294
+2022-09-01;Kursk Oblast;85147
+2022-09-01;Leningrad Oblast;146351
+2022-09-01;Lipetsk Oblast;95828
+2022-09-01;Republic of Mordovia;72570
+2022-09-01;Moscow;320643
+2022-09-01;Moscow Oblast;180139
+2022-09-01;Nizhny Novgorod Oblast;131966
+2022-09-01;Novgorod Oblast;81786
+2022-09-01;Novosibirsk Oblast;129513
+2022-09-01;Omsk Oblast;105183
+2022-09-01;Orenburg Oblast;66939
+2022-09-01;Oryol Oblast;75471
+2022-09-01;Penza Oblast;81385
+2022-09-01;Perm Krai;121182
+2022-09-01;Primorsky Krai;144457
+2022-09-01;Pskov Oblast;71862
+2022-09-01;Republic of Bashkortostan;120178
+2022-09-01;Republic of Buryatia;80214
+2022-09-01;Republic of Kalmykia;61418
+2022-09-01;Republic of Karelia;110000
+2022-09-01;Komi Republic;95723
+2022-09-01;Mari El Republic;63824
+2022-09-01;Republic of Sakha (Yakutia);136796
+2022-09-01;Republic of North Ossetia–Alania;65000
+2022-09-01;Republic of Tatarstan;147875
+2022-09-01;Republic of Tuva;131259
+2022-09-01;Republic of Khakassia;86468
+2022-09-01;Rostov Oblast;113213
+2022-09-01;Ryazan Oblast;88359
+2022-09-01;Samara Oblast;92284
+2022-09-01;City of Saint Petersburg;256898
+2022-09-01;Saratov Oblast;72373
+2022-09-01;Sakhalin Oblast;165538
+2022-09-01;Sverdlovsk Oblast;112400
+2022-09-01;Smolensk Oblast;55972
+2022-09-01;Stavropol Krai;85800
+2022-09-01;Tambov Oblast;72163
+2022-09-01;Tver Oblast;98547
+2022-09-01;Tomsk Oblast;114075
+2022-09-01;Tula Oblast;94170
+2022-09-01;Tyumen Oblast;121173
+2022-09-01;Udmurt Republic;87778
+2022-09-01;Ulyanovsk Oblast;76021
+2022-09-01;Khabarovsk Krai;128111
+2022-09-01;Khanty-Mansi Autonomous Okrug–Yugra;124451
+2022-09-01;Chelyabinsk Oblast;87809
+2022-09-01;Chuvash Republic — Chuvashia;78606
+2022-09-01;Yaroslavl Oblast;93372
+2022-10-01;Russia;124759
+2022-10-01;Republic of Adygea;103055
+2022-10-01;Altai Republic;93333
+2022-10-01;Altai Krai;95437
+2022-10-01;Arkhangelsk Oblast;114237
+2022-10-01;Astrakhan Oblast;99919
+2022-10-01;Belgorod Oblast;101477
+2022-10-01;Bryansk Oblast;89500
+2022-10-01;Vladimir Oblast;83200
+2022-10-01;Volgograd Oblast;81548
+2022-10-01;Vologda Oblast;82565
+2022-10-01;Voronezh Oblast;95625
+2022-10-01;Zabaykalsky Krai;153611
+2022-10-01;Ivanovo Oblast;88000
+2022-10-01;Irkutsk Oblast;129821
+2022-10-01;Kaliningrad Oblast;147383
+2022-10-01;Kaluga Oblast;107167
+2022-10-01;Kemerovo Oblast;90476
+2022-10-01;Kirov Oblast;85500
+2022-10-01;Kostroma Oblast;83619
+2022-10-01;Krasnodar Krai;136000
+2022-10-01;Krasnoyarsk Krai;109105
+2022-10-01;Kurgan Oblast;61462
+2022-10-01;Kursk Oblast;130000
+2022-10-01;Leningrad Oblast;146382
+2022-10-01;Lipetsk Oblast;83815
+2022-10-01;Republic of Mordovia;71826
+2022-10-01;Moscow;304425
+2022-10-01;Moscow Oblast;174294
+2022-10-01;Nizhny Novgorod Oblast;133000
+2022-10-01;Novgorod Oblast;90873
+2022-10-01;Novosibirsk Oblast;129798
+2022-10-01;Omsk Oblast;94887
+2022-10-01;Orenburg Oblast;61647
+2022-10-01;Oryol Oblast;77804
+2022-10-01;Penza Oblast;81418
+2022-10-01;Perm Krai;112541
+2022-10-01;Primorsky Krai;137716
+2022-10-01;Pskov Oblast;66345
+2022-10-01;Republic of Bashkortostan;102941
+2022-10-01;Republic of Buryatia;86828
+2022-10-01;Republic of Dagestan;80448
+2022-10-01;Republic of Karelia;112069
+2022-10-01;Komi Republic;92651
+2022-10-01;Mari El Republic;66333
+2022-10-01;Republic of Sakha (Yakutia);140814
+2022-10-01;Republic of North Ossetia–Alania;63429
+2022-10-01;Republic of Tatarstan;118332
+2022-10-01;Republic of Tuva;154075
+2022-10-01;Republic of Khakassia;82390
+2022-10-01;Rostov Oblast;98422
+2022-10-01;Ryazan Oblast;85470
+2022-10-01;Samara Oblast;88466
+2022-10-01;City of Saint Petersburg;251741
+2022-10-01;Saratov Oblast;73329
+2022-10-01;Sakhalin Oblast;156133
+2022-10-01;Sverdlovsk Oblast;113858
+2022-10-01;Smolensk Oblast;62266
+2022-10-01;Stavropol Krai;90776
+2022-10-01;Tambov Oblast;75250
+2022-10-01;Tver Oblast;92442
+2022-10-01;Tomsk Oblast;103662
+2022-10-01;Tula Oblast;83776
+2022-10-01;Tyumen Oblast;116735
+2022-10-01;Udmurt Republic;90606
+2022-10-01;Ulyanovsk Oblast;83845
+2022-10-01;Khabarovsk Krai;120273
+2022-10-01;Khanty-Mansi Autonomous Okrug–Yugra;116773
+2022-10-01;Chelyabinsk Oblast;84125
+2022-10-01;Chuvash Republic — Chuvashia;89994
+2022-10-01;Yaroslavl Oblast;83496
+2022-11-01;Russia;122453
+2022-11-01;Republic of Adygea;85943
+2022-11-01;Altai Republic;90550
+2022-11-01;Altai Krai;95151
+2022-11-01;Amur Oblast;136028
+2022-11-01;Arkhangelsk Oblast;115758
+2022-11-01;Astrakhan Oblast;108783
+2022-11-01;Belgorod Oblast;103492
+2022-11-01;Bryansk Oblast;87454
+2022-11-01;Vladimir Oblast;85310
+2022-11-01;Volgograd Oblast;88221
+2022-11-01;Vologda Oblast;80935
+2022-11-01;Voronezh Oblast;96062
+2022-11-01;Zabaykalsky Krai;148596
+2022-11-01;Ivanovo Oblast;84000
+2022-11-01;Irkutsk Oblast;104843
+2022-11-01;Kaliningrad Oblast;112585
+2022-11-01;Kaluga Oblast;104133
+2022-11-01;Kemerovo Oblast;93920
+2022-11-01;Kirov Oblast;87941
+2022-11-01;Kostroma Oblast;83583
+2022-11-01;Krasnodar Krai;133293
+2022-11-01;Krasnoyarsk Krai;120000
+2022-11-01;Kurgan Oblast;69483
+2022-11-01;Leningrad Oblast;141390
+2022-11-01;Lipetsk Oblast;90900
+2022-11-01;Republic of Mordovia;72443
+2022-11-01;Moscow;309269
+2022-11-01;Moscow Oblast;181801
+2022-11-01;Nizhny Novgorod Oblast;131696
+2022-11-01;Novgorod Oblast;88262
+2022-11-01;Novosibirsk Oblast;125261
+2022-11-01;Omsk Oblast;100811
+2022-11-01;Orenburg Oblast;68654
+2022-11-01;Oryol Oblast;74928
+2022-11-01;Penza Oblast;83684
+2022-11-01;Perm Krai;118741
+2022-11-01;Primorsky Krai;145800
+2022-11-01;Pskov Oblast;76663
+2022-11-01;Republic of Bashkortostan;122274
+2022-11-01;Republic of Buryatia;77238
+2022-11-01;Republic of Karelia;109529
+2022-11-01;Mari El Republic;65943
+2022-11-01;Republic of Sakha (Yakutia);140801
+2022-11-01;Republic of North Ossetia–Alania;70053
+2022-11-01;Republic of Tatarstan;141939
+2022-11-01;Republic of Tuva;113909
+2022-11-01;Republic of Khakassia;83168
+2022-11-01;Rostov Oblast;106882
+2022-11-01;Ryazan Oblast;89564
+2022-11-01;Samara Oblast;94476
+2022-11-01;City of Saint Petersburg;236471
+2022-11-01;Saratov Oblast;73386
+2022-11-01;Sakhalin Oblast;158209
+2022-11-01;Sverdlovsk Oblast;114111
+2022-11-01;Smolensk Oblast;59349
+2022-11-01;Stavropol Krai;93097
+2022-11-01;Tambov Oblast;70479
+2022-11-01;Tver Oblast;82541
+2022-11-01;Tomsk Oblast;114807
+2022-11-01;Tula Oblast;90926
+2022-11-01;Tyumen Oblast;114208
+2022-11-01;Udmurt Republic;88528
+2022-11-01;Ulyanovsk Oblast;85000
+2022-11-01;Khabarovsk Krai;131144
+2022-11-01;Khanty-Mansi Autonomous Okrug–Yugra;113298
+2022-11-01;Chelyabinsk Oblast;93155
+2022-11-01;Chuvash Republic — Chuvashia;91000
+2022-11-01;Yamalo-Nenets Autonomous Okrug;150440
+2022-11-01;Yaroslavl Oblast;88066
+2022-12-01;Russia;128812
+2022-12-01;Republic of Adygea;103333
+2022-12-01;Altai Republic;99000
+2022-12-01;Altai Krai;93645
+2022-12-01;Amur Oblast;115018
+2022-12-01;Arkhangelsk Oblast;129074
+2022-12-01;Astrakhan Oblast;111104
+2022-12-01;Belgorod Oblast;90167
+2022-12-01;Bryansk Oblast;91600
+2022-12-01;Vladimir Oblast;80000
+2022-12-01;Volgograd Oblast;92418
+2022-12-01;Vologda Oblast;88536
+2022-12-01;Voronezh Oblast;88874
+2022-12-01;Zabaykalsky Krai;157875
+2022-12-01;Ivanovo Oblast;70859
+2022-12-01;Irkutsk Oblast;113669
+2022-12-01;Kaliningrad Oblast;122370
+2022-12-01;Kaluga Oblast;97500
+2022-12-01;Kemerovo Oblast;92533
+2022-12-01;Kirov Oblast;86406
+2022-12-01;Kostroma Oblast;84000
+2022-12-01;Krasnodar Krai;137382
+2022-12-01;Krasnoyarsk Krai;104751
+2022-12-01;Kurgan Oblast;70692
+2022-12-01;Kursk Oblast;112000
+2022-12-01;Leningrad Oblast;143810
+2022-12-01;Lipetsk Oblast;77148
+2022-12-01;Republic of Mordovia;73000
+2022-12-01;Moscow;301742
+2022-12-01;Moscow Oblast;185765
+2022-12-01;Nizhny Novgorod Oblast;132653
+2022-12-01;Novgorod Oblast;92037
+2022-12-01;Novosibirsk Oblast;129211
+2022-12-01;Omsk Oblast;94813
+2022-12-01;Orenburg Oblast;65893
+2022-12-01;Oryol Oblast;80075
+2022-12-01;Penza Oblast;84186
+2022-12-01;Perm Krai;109081
+2022-12-01;Primorsky Krai;153000
+2022-12-01;Pskov Oblast;73861
+2022-12-01;Republic of Bashkortostan;118978
+2022-12-01;Republic of Buryatia;92385
+2022-12-01;Republic of Karelia;117867
+2022-12-01;Mari El Republic;70262
+2022-12-01;Republic of Sakha (Yakutia);130112
+2022-12-01;Republic of North Ossetia–Alania;65357
+2022-12-01;Republic of Tatarstan;160668
+2022-12-01;Republic of Tuva;106026
+2022-12-01;Republic of Khakassia;80633
+2022-12-01;Rostov Oblast;103662
+2022-12-01;Ryazan Oblast;91425
+2022-12-01;Samara Oblast;80589
+2022-12-01;City of Saint Petersburg;253890
+2022-12-01;Saratov Oblast;75110
+2022-12-01;Sakhalin Oblast;176787
+2022-12-01;Sverdlovsk Oblast;118804
+2022-12-01;Smolensk Oblast;56154
+2022-12-01;Stavropol Krai;99402
+2022-12-01;Tambov Oblast;71833
+2022-12-01;Tver Oblast;105786
+2022-12-01;Tomsk Oblast;107701
+2022-12-01;Tula Oblast;97435
+2022-12-01;Tyumen Oblast;113337
+2022-12-01;Udmurt Republic;86522
+2022-12-01;Ulyanovsk Oblast;78313
+2022-12-01;Khabarovsk Krai;140000
+2022-12-01;Khanty-Mansi Autonomous Okrug–Yugra;107000
+2022-12-01;Chelyabinsk Oblast;100227
+2022-12-01;Chuvash Republic — Chuvashia;88405
+2022-12-01;Yamalo-Nenets Autonomous Okrug;152264
+2022-12-01;Yaroslavl Oblast;100692
+2023-01-01;Russia;129074
+2023-01-01;Republic of Adygea;107750
+2023-01-01;Altai Republic;94500
+2023-01-01;Altai Krai;98383
+2023-01-01;Amur Oblast;123163
+2023-01-01;Arkhangelsk Oblast;118761
+2023-01-01;Astrakhan Oblast;115781
+2023-01-01;Belgorod Oblast;94347
+2023-01-01;Bryansk Oblast;80131
+2023-01-01;Vladimir Oblast;78349
+2023-01-01;Volgograd Oblast;83009
+2023-01-01;Vologda Oblast;83918
+2023-01-01;Voronezh Oblast;89080
+2023-01-01;Zabaykalsky Krai;146230
+2023-01-01;Irkutsk Oblast;116950
+2023-01-01;Kaliningrad Oblast;100638
+2023-01-01;Kaluga Oblast;91800
+2023-01-01;Kemerovo Oblast;90833
+2023-01-01;Kirov Oblast;90000
+2023-01-01;Kostroma Oblast;82588
+2023-01-01;Krasnodar Krai;139650
+2023-01-01;Krasnoyarsk Krai;103458
+2023-01-01;Kursk Oblast;91618
+2023-01-01;Leningrad Oblast;143544
+2023-01-01;Lipetsk Oblast;85743
+2023-01-01;Republic of Mordovia;76266
+2023-01-01;Moscow;311317
+2023-01-01;Moscow Oblast;179800
+2023-01-01;Nizhny Novgorod Oblast;136450
+2023-01-01;Novgorod Oblast;87088
+2023-01-01;Novosibirsk Oblast;126121
+2023-01-01;Omsk Oblast;119408
+2023-01-01;Orenburg Oblast;66000
+2023-01-01;Oryol Oblast;78692
+2023-01-01;Penza Oblast;83293
+2023-01-01;Perm Krai;107200
+2023-01-01;Primorsky Krai;151412
+2023-01-01;Pskov Oblast;69127
+2023-01-01;Republic of Bashkortostan;118448
+2023-01-01;Republic of Buryatia;94570
+2023-01-01;Republic of Kalmykia;63002
+2023-01-01;Republic of Karelia;103516
+2023-01-01;Republic of Sakha (Yakutia);140000
+2023-01-01;Republic of North Ossetia–Alania;65000
+2023-01-01;Republic of Tatarstan;165126
+2023-01-01;Republic of Tuva;132041
+2023-01-01;Rostov Oblast;102725
+2023-01-01;Ryazan Oblast;86095
+2023-01-01;Samara Oblast;96398
+2023-01-01;City of Saint Petersburg;256405
+2023-01-01;Saratov Oblast;74882
+2023-01-01;Sakhalin Oblast;154656
+2023-01-01;Sverdlovsk Oblast;115752
+2023-01-01;Smolensk Oblast;58222
+2023-01-01;Stavropol Krai;87211
+2023-01-01;Tambov Oblast;70000
+2023-01-01;Tver Oblast;93611
+2023-01-01;Tomsk Oblast;129519
+2023-01-01;Tula Oblast;96506
+2023-01-01;Tyumen Oblast;114524
+2023-01-01;Udmurt Republic;91188
+2023-01-01;Ulyanovsk Oblast;86411
+2023-01-01;Khabarovsk Krai;132560
+2023-01-01;Khanty-Mansi Autonomous Okrug–Yugra;107000
+2023-01-01;Chelyabinsk Oblast;90465
+2023-01-01;Chuvash Republic — Chuvashia;83661
+2023-01-01;Yamalo-Nenets Autonomous Okrug;178797
+2023-01-01;Yaroslavl Oblast;94797
+2023-02-01;Russia;127179
+2023-02-01;Republic of Adygea;105000
+2023-02-01;Altai Republic;96000
+2023-02-01;Altai Krai;90334
+2023-02-01;Amur Oblast;130977
+2023-02-01;Arkhangelsk Oblast;115711
+2023-02-01;Astrakhan Oblast;117249
+2023-02-01;Belgorod Oblast;89961
+2023-02-01;Bryansk Oblast;74592
+2023-02-01;Vladimir Oblast;85578
+2023-02-01;Volgograd Oblast;79401
+2023-02-01;Vologda Oblast;92842
+2023-02-01;Voronezh Oblast;89000
+2023-02-01;Zabaykalsky Krai;131326
+2023-02-01;Ivanovo Oblast;71155
+2023-02-01;Irkutsk Oblast;121860
+2023-02-01;Kaliningrad Oblast;113072
+2023-02-01;Kaluga Oblast;93325
+2023-02-01;Kemerovo Oblast;95410
+2023-02-01;Kirov Oblast;87938
+2023-02-01;Kostroma Oblast;82670
+2023-02-01;Krasnodar Krai;132270
+2023-02-01;Krasnoyarsk Krai;94126
+2023-02-01;Kurgan Oblast;64630
+2023-02-01;Kursk Oblast;84765
+2023-02-01;Leningrad Oblast;142331
+2023-02-01;Lipetsk Oblast;87500
+2023-02-01;Republic of Mordovia;72409
+2023-02-01;Moscow;315195
+2023-02-01;Moscow Oblast;181756
+2023-02-01;Nizhny Novgorod Oblast;126879
+2023-02-01;Novgorod Oblast;86857
+2023-02-01;Novosibirsk Oblast;137746
+2023-02-01;Omsk Oblast;110805
+2023-02-01;Orenburg Oblast;66955
+2023-02-01;Oryol Oblast;78940
+2023-02-01;Penza Oblast;78136
+2023-02-01;Perm Krai;114016
+2023-02-01;Primorsky Krai;153704
+2023-02-01;Pskov Oblast;68500
+2023-02-01;Republic of Bashkortostan;131146
+2023-02-01;Republic of Karelia;120570
+2023-02-01;Komi Republic;85527
+2023-02-01;Mari El Republic;66637
+2023-02-01;Republic of Sakha (Yakutia);141399
+2023-02-01;Republic of North Ossetia–Alania;65000
+2023-02-01;Republic of Tatarstan;152634
+2023-02-01;Republic of Tuva;137808
+2023-02-01;Republic of Khakassia;82870
+2023-02-01;Rostov Oblast;105500
+2023-02-01;Ryazan Oblast;91868
+2023-02-01;Samara Oblast;87995
+2023-02-01;City of Saint Petersburg;236205
+2023-02-01;Saratov Oblast;73240
+2023-02-01;Sakhalin Oblast;174337
+2023-02-01;Sverdlovsk Oblast;115375
+2023-02-01;Smolensk Oblast;56033
+2023-02-01;Stavropol Krai;87051
+2023-02-01;Tver Oblast;96477
+2023-02-01;Tomsk Oblast;100872
+2023-02-01;Tula Oblast;91625
+2023-02-01;Tyumen Oblast;116710
+2023-02-01;Udmurt Republic;89904
+2023-02-01;Ulyanovsk Oblast;79408
+2023-02-01;Khabarovsk Krai;149099
+2023-02-01;Khanty-Mansi Autonomous Okrug–Yugra;101738
+2023-02-01;Chelyabinsk Oblast;86095
+2023-02-01;Chuvash Republic — Chuvashia;79577
+2023-02-01;Yaroslavl Oblast;92336
