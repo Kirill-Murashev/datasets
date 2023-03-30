@@ -1,0 +1,17 @@
+ALTER TABLE table_name ADD COLUMN new_column_name data_type;
+UPDATE table_name SET new_column_name = 'specific_value';
+
+INSERT INTO merged_table (column1, column2, column3, ...)
+SELECT column1, column2, column3, ...
+FROM table1
+UNION ALL
+SELECT column1, column2, column3, ...
+FROM table2;
+
+
+SELECT Region,
+       (SELECT Value FROM summary WHERE Date = '2021-12-31' and Region = 'City of Saint Petersburg' and Market = 'aftermarket') /
+       (SELECT Value FROM summary WHERE Date = '2021-12-01' and Region = 'City of Saint Petersburg' and Market = 'aftermarket') AS Bargaining_discount
+FROM summary
+WHERE Region = 'City of Saint Petersburg'
+LIMIT 1;
