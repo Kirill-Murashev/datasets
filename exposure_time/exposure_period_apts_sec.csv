@@ -1,0 +1,4089 @@
+date,region,value
+2023-02-01,Volgograd Oblast,83
+2023-02-01,Republic of Ingushetia,25
+2023-02-01,Republic of Mordovia,63
+2023-02-01,Mari El Republic,81
+2023-02-01,Sakhalin Oblast,118
+2023-02-01,Republic of Khakassia,69
+2023-02-01,Novgorod Oblast,59
+2023-02-01,Krasnoyarsk Krai,52
+2023-02-01,Kaluga Oblast,73
+2023-02-01,Tomsk Oblast,85
+2023-02-01,Ryazan Oblast,70
+2023-02-01,Vologda Oblast,71
+2023-02-01,Yamalo-Nenets Autonomous Okrug,72
+2023-02-01,Republic of Sakha (Yakutia),63
+2023-02-01,Kaliningrad Oblast,73
+2023-02-01,Belgorod Oblast,86
+2023-02-01,Kirov Oblast,64
+2023-02-01,Samara Oblast,64
+2023-02-01,Voronezh Oblast,69
+2023-02-01,Vladimir Oblast,78
+2023-02-01,City of Saint Petersburg,84
+2023-02-01,Republic of Kalmykia,53
+2023-02-01,Amur Oblast,93
+2023-02-01,Tyumen Oblast,125
+2023-02-01,Moscow,75
+2023-02-01,Tula Oblast,71
+2023-02-01,Novosibirsk Oblast,83
+2023-02-01,Chukotka Autonomous Okrug,78
+2023-02-01,Republic of Karelia,50
+2023-02-01,Chechen Republic,62
+2023-02-01,Pskov Oblast,77
+2023-02-01,Bryansk Oblast,76
+2023-02-01,Chuvash Republic — Chuvashia,69
+2023-02-01,Oryol Oblast,79
+2023-02-01,Republic of Buryatia,83
+2023-02-01,Tver Oblast,66
+2023-02-01,Kemerovo Oblast,75
+2023-02-01,Jewish Autonomous Oblast,70
+2023-02-01,Omsk Oblast,67
+2023-02-01,Kursk Oblast,67
+2023-02-01,Leningrad Oblast,77
+2023-02-01,Khabarovsk Krai,75
+2023-02-01,Sverdlovsk Oblast,64
+2023-02-01,Komi Republic,91
+2023-02-01,Altai Republic,93
+2023-02-01,Nizhny Novgorod Oblast,75
+2023-02-01,Saratov Oblast,57
+2023-02-01,Krasnodar Krai,75
+2023-02-01,Irkutsk Oblast,66
+2023-02-01,Chelyabinsk Oblast,59
+2023-02-01,Zabaykalsky Krai,69
+2023-02-01,Karachay-Cherkess Republic,40
+2023-02-01,Orenburg Oblast,51
+2023-02-01,Penza Oblast,78
+2023-02-01,Republic of Adygea,52
+2023-02-01,Khanty-Mansi Autonomous Okrug–Yugra,81
+2023-02-01,Rostov Oblast,38
+2023-02-01,Republic of Tuva,64
+2023-02-01,Primorsky Krai,75
+2023-02-01,Udmurt Republic,58
+2023-02-01,Stavropol Krai,46
+2023-02-01,Altai Krai,54
+2023-02-01,Lipetsk Oblast,55
+2023-02-01,Yaroslavl Oblast,69
+2023-02-01,Nenets Autonomous Okrug,87
+2023-02-01,Ivanovo Oblast,54
+2023-02-01,Ulyanovsk Oblast,74
+2023-02-01,Republic of Bashkortostan,60
+2023-02-01,Astrakhan Oblast,61
+2023-02-01,Kostroma Oblast,69
+2023-02-01,Tambov Oblast,81
+2023-02-01,Republic of Tatarstan,66
+2023-02-01,Magadan Oblast,61
+2023-02-01,Kabardino-Balkarian Republic,47
+2023-02-01,Republic of Dagestan,30
+2023-02-01,Smolensk Oblast,80
+2023-02-01,Kurgan Oblast,59
+2023-02-01,Arkhangelsk Oblast,62
+2023-02-01,Perm Krai,55
+2023-02-01,Moscow Oblast,75
+2023-02-01,Republic of North Ossetia–Alania,35
+2023-02-01,Kamchatka Krai,65
+2023-02-01,Murmansk Oblast,74
+2023-02-01,Russia,69
+2023-01-01,Volgograd Oblast,87
+2023-01-01,Republic of Ingushetia,16
+2023-01-01,Republic of Mordovia,61
+2023-01-01,Mari El Republic,74
+2023-01-01,Sakhalin Oblast,83
+2023-01-01,Republic of Khakassia,69
+2023-01-01,Novgorod Oblast,64
+2023-01-01,Krasnoyarsk Krai,58
+2023-01-01,Kaluga Oblast,68
+2023-01-01,Tomsk Oblast,87
+2023-01-01,Ryazan Oblast,73
+2023-01-01,Vologda Oblast,66
+2023-01-01,Yamalo-Nenets Autonomous Okrug,72
+2023-01-01,Republic of Sakha (Yakutia),62
+2023-01-01,Kaliningrad Oblast,82
+2023-01-01,Belgorod Oblast,66
+2023-01-01,Kirov Oblast,61
+2023-01-01,Samara Oblast,63
+2023-01-01,Voronezh Oblast,81
+2023-01-01,Vladimir Oblast,78
+2023-01-01,City of Saint Petersburg,82
+2023-01-01,Republic of Kalmykia,76
+2023-01-01,Amur Oblast,106
+2023-01-01,Tyumen Oblast,119
+2023-01-01,Moscow,75
+2023-01-01,Tula Oblast,80
+2023-01-01,Novosibirsk Oblast,81
+2023-01-01,Chukotka Autonomous Okrug,23
+2023-01-01,Republic of Karelia,62
+2023-01-01,Stavropol Krai,53
+2023-01-01,Chechen Republic,61
+2023-01-01,Pskov Oblast,93
+2023-01-01,Republic of Tatarstan,73
+2023-01-01,Bryansk Oblast,73
+2023-01-01,Chuvash Republic — Chuvashia,79
+2023-01-01,Primorsky Krai,77
+2023-01-01,Oryol Oblast,72
+2023-01-01,Republic of Buryatia,82
+2023-01-01,Tver Oblast,70
+2023-01-01,Kemerovo Oblast,69
+2023-01-01,Jewish Autonomous Oblast,115
+2023-01-01,Rostov Oblast,57
+2023-01-01,Omsk Oblast,86
+2023-01-01,Kursk Oblast,68
+2023-01-01,Leningrad Oblast,77
+2023-01-01,Perm Krai,62
+2023-01-01,Khabarovsk Krai,80
+2023-01-01,Sverdlovsk Oblast,78
+2023-01-01,Komi Republic,104
+2023-01-01,Altai Republic,86
+2023-01-01,Nizhny Novgorod Oblast,81
+2023-01-01,Saratov Oblast,64
+2023-01-01,Krasnodar Krai,73
+2023-01-01,Kurgan Oblast,59
+2023-01-01,Republic of Bashkortostan,71
+2023-01-01,Irkutsk Oblast,67
+2023-01-01,Chelyabinsk Oblast,67
+2023-01-01,Ivanovo Oblast,59
+2023-01-01,Republic of North Ossetia–Alania,58
+2023-01-01,Tambov Oblast,69
+2023-01-01,Republic of Adygea,97
+2023-01-01,Altai Krai,53
+2023-01-01,Khanty-Mansi Autonomous Okrug–Yugra,103
+2023-01-01,Zabaykalsky Krai,73
+2023-01-01,Nenets Autonomous Okrug,53
+2023-01-01,Penza Oblast,82
+2023-01-01,Lipetsk Oblast,56
+2023-01-01,Yaroslavl Oblast,58
+2023-01-01,Republic of Dagestan,31
+2023-01-01,Magadan Oblast,64
+2023-01-01,Smolensk Oblast,87
+2023-01-01,Arkhangelsk Oblast,73
+2023-01-01,Ulyanovsk Oblast,81
+2023-01-01,Moscow Oblast,83
+2023-01-01,Udmurt Republic,67
+2023-01-01,Karachay-Cherkess Republic,34
+2023-01-01,Murmansk Oblast,67
+2023-01-01,Kamchatka Krai,70
+2023-01-01,Republic of Tuva,47
+2023-01-01,Orenburg Oblast,62
+2023-01-01,Kostroma Oblast,81
+2023-01-01,Kabardino-Balkarian Republic,45
+2023-01-01,Astrakhan Oblast,72
+2023-01-01,Russia,74
+2022-12-01,Volgograd Oblast,77
+2022-12-01,Republic of Ingushetia,19
+2022-12-01,Republic of Mordovia,65
+2022-12-01,Mari El Republic,50
+2022-12-01,Sakhalin Oblast,111
+2022-12-01,Republic of Khakassia,78
+2022-12-01,Novgorod Oblast,58
+2022-12-01,Krasnoyarsk Krai,53
+2022-12-01,Kaluga Oblast,76
+2022-12-01,Tomsk Oblast,68
+2022-12-01,Ryazan Oblast,73
+2022-12-01,Vologda Oblast,69
+2022-12-01,Yamalo-Nenets Autonomous Okrug,65
+2022-12-01,Republic of Sakha (Yakutia),65
+2022-12-01,Kaliningrad Oblast,74
+2022-12-01,Belgorod Oblast,66
+2022-12-01,Kirov Oblast,62
+2022-12-01,Samara Oblast,56
+2022-12-01,Voronezh Oblast,59
+2022-12-01,Altai Krai,50
+2022-12-01,Republic of Dagestan,34
+2022-12-01,Lipetsk Oblast,54
+2022-12-01,Astrakhan Oblast,65
+2022-12-01,Udmurt Republic,59
+2022-12-01,Kostroma Oblast,81
+2022-12-01,Tambov Oblast,86
+2022-12-01,Republic of Tuva,57
+2022-12-01,Moscow Oblast,71
+2022-12-01,Yaroslavl Oblast,59
+2022-12-01,Zabaykalsky Krai,63
+2022-12-01,Karachay-Cherkess Republic,26
+2022-12-01,Kamchatka Krai,49
+2022-12-01,Ivanovo Oblast,55
+2022-12-01,Republic of Adygea,62
+2022-12-01,Khanty-Mansi Autonomous Okrug–Yugra,81
+2022-12-01,Kabardino-Balkarian Republic,35
+2022-12-01,Arkhangelsk Oblast,55
+2022-12-01,Republic of North Ossetia–Alania,54
+2022-12-01,Magadan Oblast,63
+2022-12-01,Orenburg Oblast,46
+2022-12-01,Murmansk Oblast,68
+2022-12-01,Nenets Autonomous Okrug,70
+2022-12-01,Russia,64
+2022-11-01,Volgograd Oblast,80
+2022-11-01,Republic of Ingushetia,101
+2022-11-01,Republic of Mordovia,62
+2022-11-01,Mari El Republic,52
+2022-11-01,Sakhalin Oblast,98
+2022-11-01,Republic of Khakassia,62
+2022-11-01,Novgorod Oblast,73
+2022-11-01,Krasnoyarsk Krai,53
+2022-11-01,Kaluga Oblast,64
+2022-11-01,Tomsk Oblast,72
+2022-11-01,Ryazan Oblast,66
+2022-11-01,Vologda Oblast,61
+2022-11-01,Yamalo-Nenets Autonomous Okrug,84
+2022-11-01,Republic of Sakha (Yakutia),55
+2022-11-01,Kaliningrad Oblast,70
+2022-11-01,Belgorod Oblast,59
+2022-11-01,Kirov Oblast,52
+2022-11-01,Samara Oblast,52
+2022-11-01,Voronezh Oblast,76
+2022-11-01,Vladimir Oblast,80
+2022-11-01,City of Saint Petersburg,64
+2022-11-01,Republic of Kalmykia,48
+2022-11-01,Amur Oblast,91
+2022-11-01,Tyumen Oblast,106
+2022-11-01,Moscow,63
+2022-11-01,Tula Oblast,66
+2022-11-01,Novosibirsk Oblast,74
+2022-11-01,Chukotka Autonomous Okrug,145
+2022-11-01,Republic of Karelia,43
+2022-11-01,Ivanovo Oblast,53
+2022-11-01,Stavropol Krai,47
+2022-11-01,Chechen Republic,52
+2022-11-01,Pskov Oblast,61
+2022-11-01,Republic of Tuva,60
+2022-11-01,Republic of Tatarstan,67
+2022-11-01,Bryansk Oblast,64
+2022-11-01,Chuvash Republic — Chuvashia,72
+2022-11-01,Primorsky Krai,59
+2022-11-01,Oryol Oblast,69
+2022-11-01,Republic of Buryatia,80
+2022-11-01,Tver Oblast,64
+2022-11-01,Kemerovo Oblast,73
+2022-11-01,Jewish Autonomous Oblast,91
+2022-11-01,Rostov Oblast,44
+2022-11-01,Irkutsk Oblast,68
+2022-11-01,Omsk Oblast,68
+2022-11-01,Zabaykalsky Krai,64
+2022-11-01,Ulyanovsk Oblast,75
+2022-11-01,Kursk Oblast,52
+2022-11-01,Leningrad Oblast,64
+2022-11-01,Perm Krai,57
+2022-11-01,Khabarovsk Krai,67
+2022-11-01,Sverdlovsk Oblast,67
+2022-11-01,Komi Republic,70
+2022-11-01,Altai Republic,39
+2022-11-01,Nizhny Novgorod Oblast,71
+2022-11-01,Saratov Oblast,57
+2022-11-01,Krasnodar Krai,64
+2022-11-01,Altai Krai,53
+2022-11-01,Republic of Dagestan,32
+2022-11-01,Nenets Autonomous Okrug,102
+2022-11-01,Kurgan Oblast,70
+2022-11-01,Smolensk Oblast,61
+2022-11-01,Chelyabinsk Oblast,58
+2022-11-01,Yaroslavl Oblast,65
+2022-11-01,Kamchatka Krai,49
+2022-11-01,Arkhangelsk Oblast,65
+2022-11-01,Khanty-Mansi Autonomous Okrug–Yugra,89
+2022-11-01,Karachay-Cherkess Republic,48
+2022-11-01,Republic of Bashkortostan,61
+2022-11-01,Astrakhan Oblast,56
+2022-11-01,Udmurt Republic,67
+2022-11-01,Penza Oblast,70
+2022-11-01,Murmansk Oblast,56
+2022-11-01,Republic of North Ossetia–Alania,43
+2022-11-01,Tambov Oblast,67
+2022-11-01,Republic of Adygea,44
+2022-11-01,Kabardino-Balkarian Republic,49
+2022-11-01,Magadan Oblast,81
+2022-11-01,Moscow Oblast,69
+2022-11-01,Orenburg Oblast,55
+2022-11-01,Lipetsk Oblast,44
+2022-11-01,Kostroma Oblast,79
+2022-11-01,Russia,65
+2022-10-01,Volgograd Oblast,67
+2022-10-01,Republic of Mordovia,81
+2022-10-01,Mari El Republic,58
+2022-10-01,Republic of Adygea,43
+2022-10-01,Sakhalin Oblast,81
+2022-10-01,Republic of Khakassia,67
+2022-10-01,Novgorod Oblast,45
+2022-10-01,Krasnoyarsk Krai,56
+2022-10-01,Kaluga Oblast,64
+2022-10-01,Tomsk Oblast,65
+2022-10-01,Ryazan Oblast,62
+2022-10-01,Vologda Oblast,66
+2022-10-01,Yamalo-Nenets Autonomous Okrug,90
+2022-10-01,Kursk Oblast,57
+2022-10-01,Republic of Sakha (Yakutia),55
+2022-10-01,Kaliningrad Oblast,63
+2022-10-01,Belgorod Oblast,59
+2022-10-01,Kirov Oblast,57
+2022-10-01,Samara Oblast,52
+2022-10-01,Voronezh Oblast,62
+2022-10-01,Vladimir Oblast,71
+2022-10-01,City of Saint Petersburg,66
+2022-10-01,Republic of Kalmykia,40
+2022-10-01,Amur Oblast,71
+2022-10-01,Tyumen Oblast,97
+2022-10-01,Moscow,59
+2022-10-01,Tula Oblast,59
+2022-10-01,Novosibirsk Oblast,66
+2022-10-01,Murmansk Oblast,59
+2022-10-01,Chukotka Autonomous Okrug,132
+2022-10-01,Republic of Karelia,55
+2022-10-01,Ivanovo Oblast,64
+2022-10-01,Stavropol Krai,37
+2022-10-01,Chechen Republic,66
+2022-10-01,Pskov Oblast,60
+2022-10-01,Republic of Tuva,52
+2022-10-01,Republic of Tatarstan,69
+2022-10-01,Tambov Oblast,56
+2022-10-01,Irkutsk Oblast,55
+2022-10-01,Republic of North Ossetia–Alania,57
+2022-10-01,Komi Republic,81
+2022-10-01,Penza Oblast,72
+2022-10-01,Bryansk Oblast,61
+2022-10-01,Chuvash Republic — Chuvashia,75
+2022-10-01,Primorsky Krai,51
+2022-10-01,Oryol Oblast,62
+2022-10-01,Republic of Buryatia,70
+2022-10-01,Nenets Autonomous Okrug,46
+2022-10-01,Tver Oblast,63
+2022-10-01,Kemerovo Oblast,59
+2022-10-01,Krasnodar Krai,62
+2022-10-01,Magadan Oblast,102
+2022-10-01,Omsk Oblast,59
+2022-10-01,Altai Republic,64
+2022-10-01,Republic of Bashkortostan,61
+2022-10-01,Ulyanovsk Oblast,69
+2022-10-01,Jewish Autonomous Oblast,48
+2022-10-01,Kamchatka Krai,54
+2022-10-01,Orenburg Oblast,56
+2022-10-01,Moscow Oblast,66
+2022-10-01,Altai Krai,49
+2022-10-01,Khanty-Mansi Autonomous Okrug–Yugra,79
+2022-10-01,Kabardino-Balkarian Republic,43
+2022-10-01,Leningrad Oblast,66
+2022-10-01,Sverdlovsk Oblast,65
+2022-10-01,Lipetsk Oblast,67
+2022-10-01,Republic of Dagestan,34
+2022-10-01,Kostroma Oblast,85
+2022-10-01,Yaroslavl Oblast,54
+2022-10-01,Kurgan Oblast,64
+2022-10-01,Smolensk Oblast,66
+2022-10-01,Arkhangelsk Oblast,62
+2022-10-01,Rostov Oblast,45
+2022-10-01,Saratov Oblast,47
+2022-10-01,Khabarovsk Krai,68
+2022-10-01,Udmurt Republic,59
+2022-10-01,Karachay-Cherkess Republic,22
+2022-10-01,Astrakhan Oblast,66
+2022-10-01,Nizhny Novgorod Oblast,65
+2022-10-01,Chelyabinsk Oblast,59
+2022-10-01,Perm Krai,53
+2022-10-01,Zabaykalsky Krai,62
+2022-10-01,Russia,63
+2022-09-01,Krasnodar Krai,12
+2022-09-01,Moscow Oblast,139
+2022-09-01,Russia,97
+2022-08-01,Volgograd Oblast,57
+2022-08-01,Republic of Ingushetia,103
+2022-08-01,Republic of Mordovia,54
+2022-08-01,Mari El Republic,49
+2022-08-01,Republic of Adygea,54
+2022-08-01,Nenets Autonomous Okrug,55
+2022-08-01,Sakhalin Oblast,70
+2022-08-01,Republic of Khakassia,68
+2022-08-01,Novgorod Oblast,52
+2022-08-01,Krasnoyarsk Krai,48
+2022-08-01,Jewish Autonomous Oblast,27
+2022-08-01,Kaluga Oblast,61
+2022-08-01,Tomsk Oblast,58
+2022-08-01,Udmurt Republic,51
+2022-08-01,Ryazan Oblast,58
+2022-08-01,Lipetsk Oblast,46
+2022-08-01,Vologda Oblast,50
+2022-08-01,Ulyanovsk Oblast,48
+2022-08-01,Kemerovo Oblast,54
+2022-08-01,Yamalo-Nenets Autonomous Okrug,59
+2022-08-01,Republic of Dagestan,45
+2022-08-01,Kursk Oblast,45
+2022-08-01,Orenburg Oblast,50
+2022-08-01,Kabardino-Balkarian Republic,35
+2022-08-01,Chelyabinsk Oblast,53
+2022-08-01,Kamchatka Krai,48
+2022-08-01,Kostroma Oblast,74
+2022-08-01,Russia,55
+2022-07-01,Volgograd Oblast,58
+2022-07-01,Republic of Ingushetia,119
+2022-07-01,Republic of Mordovia,47
+2022-07-01,Mari El Republic,62
+2022-07-01,Republic of Adygea,55
+2022-07-01,Nenets Autonomous Okrug,23
+2022-07-01,Sakhalin Oblast,59
+2022-07-01,Republic of Khakassia,63
+2022-07-01,Novgorod Oblast,40
+2022-07-01,Krasnoyarsk Krai,46
+2022-07-01,Jewish Autonomous Oblast,84
+2022-07-01,Kaluga Oblast,62
+2022-07-01,Tomsk Oblast,51
+2022-07-01,Udmurt Republic,58
+2022-07-01,Ryazan Oblast,66
+2022-07-01,Lipetsk Oblast,45
+2022-07-01,Vologda Oblast,54
+2022-07-01,Ulyanovsk Oblast,49
+2022-07-01,Kemerovo Oblast,55
+2022-07-01,Yamalo-Nenets Autonomous Okrug,65
+2022-07-01,Kamchatka Krai,52
+2022-07-01,Republic of Dagestan,46
+2022-07-01,Kursk Oblast,45
+2022-07-01,Republic of Sakha (Yakutia),53
+2022-07-01,Kaliningrad Oblast,49
+2022-07-01,Belgorod Oblast,49
+2022-07-01,Yaroslavl Oblast,56
+2022-07-01,Kirov Oblast,57
+2022-07-01,Magadan Oblast,69
+2022-07-01,Samara Oblast,49
+2022-07-01,Tver Oblast,59
+2022-07-01,Voronezh Oblast,54
+2022-07-01,Vladimir Oblast,58
+2022-07-01,City of Saint Petersburg,54
+2022-07-01,Republic of Kalmykia,42
+2022-07-01,Amur Oblast,59
+2022-07-01,Tyumen Oblast,82
+2022-07-01,Moscow,46
+2022-07-01,Tula Oblast,48
+2022-07-01,Novosibirsk Oblast,59
+2022-07-01,Murmansk Oblast,51
+2022-07-01,Saratov Oblast,35
+2022-07-01,Chukotka Autonomous Okrug,40
+2022-07-01,Arkhangelsk Oblast,49
+2022-07-01,Republic of Karelia,38
+2022-07-01,Irkutsk Oblast,49
+2022-07-01,Ivanovo Oblast,45
+2022-07-01,Republic of Buryatia,50
+2022-07-01,Leningrad Oblast,56
+2022-07-01,Zabaykalsky Krai,56
+2022-07-01,Stavropol Krai,30
+2022-07-01,Khanty-Mansi Autonomous Okrug–Yugra,66
+2022-07-01,Khabarovsk Krai,59
+2022-07-01,Krasnodar Krai,52
+2022-07-01,Komi Republic,74
+2022-07-01,Kabardino-Balkarian Republic,41
+2022-07-01,Penza Oblast,49
+2022-07-01,Altai Krai,45
+2022-07-01,Oryol Oblast,54
+2022-07-01,Chechen Republic,20
+2022-07-01,Moscow Oblast,53
+2022-07-01,Pskov Oblast,46
+2022-07-01,Astrakhan Oblast,57
+2022-07-01,Sverdlovsk Oblast,66
+2022-07-01,Smolensk Oblast,56
+2022-07-01,Kostroma Oblast,45
+2022-07-01,Primorsky Krai,49
+2022-07-01,Republic of Tuva,45
+2022-07-01,Kurgan Oblast,48
+2022-07-01,Chuvash Republic — Chuvashia,57
+2022-07-01,Republic of Tatarstan,47
+2022-07-01,Nizhny Novgorod Oblast,52
+2022-07-01,Perm Krai,52
+2022-07-01,Omsk Oblast,49
+2022-07-01,Rostov Oblast,44
+2022-07-01,Tambov Oblast,51
+2022-07-01,Altai Republic,95
+2022-07-01,Orenburg Oblast,45
+2022-07-01,Chelyabinsk Oblast,52
+2022-07-01,Republic of North Ossetia–Alania,35
+2022-07-01,Karachay-Cherkess Republic,20
+2022-07-01,Bryansk Oblast,54
+2022-07-01,Republic of Bashkortostan,52
+2022-07-01,Russia,53
+2022-06-01,Volgograd Oblast,58
+2022-06-01,Republic of Mordovia,78
+2022-06-01,Mari El Republic,76
+2022-06-01,Republic of Adygea,74
+2022-06-01,Nenets Autonomous Okrug,46
+2022-06-01,Sakhalin Oblast,80
+2022-06-01,Republic of Khakassia,62
+2022-06-01,Novgorod Oblast,50
+2022-06-01,Krasnoyarsk Krai,46
+2022-06-01,Jewish Autonomous Oblast,124
+2022-06-01,Kaluga Oblast,54
+2022-06-01,Tomsk Oblast,76
+2022-06-01,Udmurt Republic,60
+2022-06-01,Ryazan Oblast,47
+2022-06-01,Lipetsk Oblast,59
+2022-06-01,Pskov Oblast,88
+2022-06-01,Vologda Oblast,61
+2022-06-01,Ulyanovsk Oblast,62
+2022-06-01,Kemerovo Oblast,64
+2022-06-01,Yamalo-Nenets Autonomous Okrug,67
+2022-06-01,Kamchatka Krai,82
+2022-06-01,Republic of Dagestan,106
+2022-06-01,Kursk Oblast,72
+2022-06-01,Republic of Sakha (Yakutia),66
+2022-06-01,Kaliningrad Oblast,41
+2022-06-01,Belgorod Oblast,42
+2022-06-01,Yaroslavl Oblast,60
+2022-06-01,Moscow Oblast,65
+2022-06-01,Kirov Oblast,55
+2022-06-01,Magadan Oblast,108
+2022-06-01,Samara Oblast,65
+2022-06-01,Tver Oblast,46
+2022-06-01,Voronezh Oblast,68
+2022-06-01,Vladimir Oblast,71
+2022-06-01,City of Saint Petersburg,57
+2022-06-01,Republic of Kalmykia,69
+2022-06-01,Amur Oblast,73
+2022-06-01,Nizhny Novgorod Oblast,66
+2022-06-01,Tyumen Oblast,84
+2022-06-01,Moscow,55
+2022-06-01,Tula Oblast,61
+2022-06-01,Novosibirsk Oblast,72
+2022-06-01,Murmansk Oblast,52
+2022-06-01,Saratov Oblast,43
+2022-06-01,Smolensk Oblast,73
+2022-06-01,Chukotka Autonomous Okrug,115
+2022-06-01,Arkhangelsk Oblast,53
+2022-06-01,Republic of Karelia,57
+2022-06-01,Oryol Oblast,52
+2022-06-01,Perm Krai,59
+2022-06-01,Bryansk Oblast,62
+2022-06-01,Omsk Oblast,63
+2022-06-01,Altai Republic,19
+2022-06-01,Irkutsk Oblast,63
+2022-06-01,Primorsky Krai,55
+2022-06-01,Ivanovo Oblast,56
+2022-06-01,Republic of Buryatia,72
+2022-06-01,Leningrad Oblast,66
+2022-06-01,Kabardino-Balkarian Republic,15
+2022-06-01,Republic of Tatarstan,55
+2022-06-01,Sverdlovsk Oblast,66
+2022-06-01,Karachay-Cherkess Republic,76
+2022-06-01,Rostov Oblast,46
+2022-06-01,Komi Republic,59
+2022-06-01,Chuvash Republic — Chuvashia,64
+2022-06-01,Kurgan Oblast,41
+2022-06-01,Republic of Bashkortostan,60
+2022-06-01,Republic of North Ossetia–Alania,144
+2022-06-01,Astrakhan Oblast,61
+2022-06-01,Kostroma Oblast,106
+2022-06-01,Zabaykalsky Krai,62
+2022-06-01,Chechen Republic,15
+2022-06-01,Chelyabinsk Oblast,53
+2022-06-01,Stavropol Krai,35
+2022-06-01,Khanty-Mansi Autonomous Okrug–Yugra,73
+2022-06-01,Khabarovsk Krai,69
+2022-06-01,Penza Oblast,56
+2022-06-01,Tambov Oblast,56
+2022-06-01,Orenburg Oblast,45
+2022-06-01,Altai Krai,49
+2022-06-01,Republic of Tuva,64
+2022-06-01,Krasnodar Krai,73
+2022-06-01,Russia,61
+2022-05-01,Volgograd Oblast,96
+2022-05-01,Republic of Mordovia,38
+2022-05-01,Mari El Republic,65
+2022-05-01,Republic of Adygea,14
+2022-05-01,Sakhalin Oblast,40
+2022-05-01,Republic of Khakassia,23
+2022-05-01,Novgorod Oblast,42
+2022-05-01,Krasnoyarsk Krai,41
+2022-05-01,Jewish Autonomous Oblast,149
+2022-05-01,Kaluga Oblast,41
+2022-12-01,Vladimir Oblast,85
+2022-12-01,City of Saint Petersburg,67
+2022-12-01,Republic of Kalmykia,62
+2022-12-01,Amur Oblast,81
+2022-12-01,Tyumen Oblast,105
+2022-12-01,Moscow,64
+2022-12-01,Tula Oblast,66
+2022-12-01,Novosibirsk Oblast,68
+2022-12-01,Chukotka Autonomous Okrug,113
+2022-12-01,Republic of Karelia,56
+2022-12-01,Stavropol Krai,39
+2022-12-01,Chechen Republic,80
+2022-12-01,Pskov Oblast,64
+2022-12-01,Republic of Tatarstan,62
+2022-12-01,Bryansk Oblast,82
+2022-12-01,Chuvash Republic — Chuvashia,67
+2022-12-01,Primorsky Krai,56
+2022-12-01,Oryol Oblast,58
+2022-12-01,Republic of Buryatia,80
+2022-12-01,Tver Oblast,69
+2022-12-01,Kemerovo Oblast,67
+2022-12-01,Jewish Autonomous Oblast,89
+2022-12-01,Rostov Oblast,39
+2022-12-01,Omsk Oblast,78
+2022-12-01,Kursk Oblast,50
+2022-12-01,Leningrad Oblast,69
+2022-12-01,Perm Krai,52
+2022-12-01,Khabarovsk Krai,76
+2022-12-01,Sverdlovsk Oblast,66
+2022-12-01,Komi Republic,88
+2022-12-01,Altai Republic,33
+2022-12-01,Nizhny Novgorod Oblast,72
+2022-12-01,Saratov Oblast,53
+2022-12-01,Krasnodar Krai,64
+2022-12-01,Kurgan Oblast,60
+2022-12-01,Republic of Bashkortostan,61
+2022-12-01,Smolensk Oblast,58
+2022-12-01,Irkutsk Oblast,58
+2022-12-01,Chelyabinsk Oblast,52
+2022-12-01,Penza Oblast,67
+2022-12-01,Ulyanovsk Oblast,65
+2022-05-01,Tomsk Oblast,58
+2022-05-01,Udmurt Republic,42
+2022-05-01,Ryazan Oblast,57
+2022-05-01,Lipetsk Oblast,31
+2022-05-01,Stavropol Krai,39
+2022-05-01,Pskov Oblast,58
+2022-05-01,Vologda Oblast,45
+2022-05-01,Ulyanovsk Oblast,67
+2022-05-01,Kemerovo Oblast,55
+2022-05-01,Orenburg Oblast,47
+2022-05-01,Yamalo-Nenets Autonomous Okrug,57
+2022-05-01,Kamchatka Krai,39
+2022-05-01,Republic of Dagestan,102
+2022-05-01,Khanty-Mansi Autonomous Okrug–Yugra,64
+2022-05-01,Republic of Buryatia,65
+2022-05-01,Khabarovsk Krai,68
+2022-05-01,Kostroma Oblast,77
+2022-05-01,Kursk Oblast,30
+2022-05-01,Tambov Oblast,49
+2022-05-01,Chechen Republic,14
+2022-05-01,Republic of Sakha (Yakutia),72
+2022-05-01,Kaliningrad Oblast,52
+2022-05-01,Belgorod Oblast,30
+2022-05-01,Republic of Tuva,37
+2022-05-01,Bryansk Oblast,80
+2022-05-01,Yaroslavl Oblast,56
+2022-05-01,Moscow Oblast,56
+2022-05-01,Kirov Oblast,68
+2022-05-01,Magadan Oblast,38
+2022-05-01,Astrakhan Oblast,56
+2022-05-01,Ivanovo Oblast,56
+2022-05-01,Chuvash Republic — Chuvashia,46
+2022-05-01,Kurgan Oblast,67
+2022-03-01,Sakhalin Oblast,64
+2022-03-01,Tyumen Oblast,75
+2022-03-01,Pskov Oblast,46
+2022-03-01,Yaroslavl Oblast,52
+2022-03-01,Zabaykalsky Krai,45
+2022-03-01,Republic of Khakassia,71
+2022-03-01,Tver Oblast,43
+2022-03-01,Ulyanovsk Oblast,52
+2022-03-01,Sverdlovsk Oblast,60
+2022-03-01,Lipetsk Oblast,39
+2022-03-01,Khabarovsk Krai,68
+2022-03-01,Ivanovo Oblast,46
+2022-03-01,Republic of Tatarstan,46
+2022-03-01,Perm Krai,45
+2022-03-01,Vologda Oblast,49
+2022-03-01,Tula Oblast,55
+2022-03-01,Karachay-Cherkess Republic,28
+2022-03-01,Altai Krai,37
+2022-03-01,Novgorod Oblast,45
+2022-03-01,Krasnoyarsk Krai,43
+2022-03-01,Rostov Oblast,41
+2022-03-01,Republic of North Ossetia–Alania,53
+2022-03-01,Orenburg Oblast,43
+2022-03-01,Arkhangelsk Oblast,49
+2022-03-01,Voronezh Oblast,63
+2022-03-01,Stavropol Krai,38
+2022-03-01,Krasnodar Krai,51
+2022-03-01,Vladimir Oblast,61
+2022-03-01,Saratov Oblast,42
+2022-03-01,Samara Oblast,46
+2022-03-01,Oryol Oblast,55
+2022-03-01,Magadan Oblast,41
+2022-03-01,Kemerovo Oblast,47
+2022-03-01,Novosibirsk Oblast,54
+2022-03-01,Jewish Autonomous Oblast,47
+2022-03-01,Kaluga Oblast,47
+2022-03-01,Tomsk Oblast,59
+2022-03-01,City of Saint Petersburg,53
+2022-03-01,Republic of Karelia,35
+2022-03-01,Republic of Tuva,65
+2022-03-01,Yamalo-Nenets Autonomous Okrug,58
+2022-03-01,Omsk Oblast,58
+2022-03-01,Penza Oblast,53
+2022-03-01,Tambov Oblast,59
+2022-03-01,Khanty-Mansi Autonomous Okrug–Yugra,67
+2022-03-01,Chukotka Autonomous Okrug,40
+2022-03-01,Primorsky Krai,45
+2022-03-01,Republic of Bashkortostan,54
+2022-03-01,Kabardino-Balkarian Republic,35
+2022-03-01,Nizhny Novgorod Oblast,48
+2022-03-01,Kamchatka Krai,39
+2022-03-01,Kaliningrad Oblast,42
+2022-03-01,Republic of Kalmykia,38
+2022-03-01,Kostroma Oblast,80
+2022-03-01,Altai Republic,23
+2022-03-01,Belgorod Oblast,50
+2022-03-01,Chuvash Republic — Chuvashia,49
+2022-03-01,Kursk Oblast,40
+2022-03-01,Republic of Buryatia,74
+2022-03-01,Moscow Oblast,51
+2022-03-01,Irkutsk Oblast,48
+2022-03-01,Republic of Dagestan,87
+2022-03-01,Russia,51
+2022-02-01,Altai Krai,33
+2022-02-01,Volgograd Oblast,53
+2022-02-01,Krasnoyarsk Krai,43
+2022-02-01,Astrakhan Oblast,53
+2022-02-01,Kirov Oblast,50
+2022-02-01,Novgorod Oblast,44
+2022-02-01,Irkutsk Oblast,54
+2022-02-01,Republic of Sakha (Yakutia),42
+2022-02-01,Bryansk Oblast,49
+2022-02-01,Amur Oblast,61
+2022-02-01,Kabardino-Balkarian Republic,43
+2022-02-01,Lipetsk Oblast,45
+2022-02-01,Republic of Ingushetia,91
+2022-02-01,Chelyabinsk Oblast,47
+2022-02-01,Republic of Mordovia,38
+2022-02-01,Penza Oblast,47
+2022-02-01,Republic of Buryatia,62
+2022-02-01,Khanty-Mansi Autonomous Okrug–Yugra,61
+2022-02-01,Kamchatka Krai,38
+2022-02-01,Moscow,51
+2022-02-01,Kostroma Oblast,61
+2022-02-01,Leningrad Oblast,51
+2022-02-01,Moscow Oblast,49
+2022-02-01,Kursk Oblast,42
+2022-02-01,Smolensk Oblast,57
+2022-02-01,Jewish Autonomous Oblast,48
+2022-02-01,Saratov Oblast,37
+2022-02-01,Arkhangelsk Oblast,50
+2022-02-01,Komi Republic,72
+2022-02-01,Oryol Oblast,45
+2022-02-01,Mari El Republic,52
+2022-02-01,Omsk Oblast,53
+2022-02-01,Kaluga Oblast,48
+2022-02-01,Republic of Dagestan,39
+2022-02-01,Tambov Oblast,46
+2022-02-01,Chukotka Autonomous Okrug,104
+2022-02-01,Udmurt Republic,47
+2022-02-01,Chechen Republic,40
+2022-02-01,Republic of Adygea,33
+2022-02-01,Chuvash Republic — Chuvashia,48
+2022-02-01,Vladimir Oblast,64
+2022-02-01,Tver Oblast,44
+2022-02-01,Ulyanovsk Oblast,48
+2022-02-01,Ivanovo Oblast,41
+2022-02-01,Republic of North Ossetia–Alania,51
+2022-02-01,Republic of Karelia,41
+2022-02-01,Perm Krai,43
+2022-02-01,Republic of Tuva,72
+2022-02-01,Khabarovsk Krai,62
+2022-02-01,Murmansk Oblast,39
+2022-02-01,Primorsky Krai,44
+2022-02-01,Republic of Tatarstan,44
+2022-02-01,Republic of Bashkortostan,52
+2022-02-01,Kurgan Oblast,55
+2022-02-01,Ryazan Oblast,53
+2022-02-01,Sverdlovsk Oblast,57
+2022-02-01,Rostov Oblast,33
+2022-02-01,Tula Oblast,46
+2022-02-01,Republic of Khakassia,52
+2022-02-01,Karachay-Cherkess Republic,19
+2022-02-01,Magadan Oblast,35
+2022-02-01,Krasnodar Krai,43
+2022-02-01,Nenets Autonomous Okrug,71
+2022-02-01,Belgorod Oblast,37
+2022-02-01,Sakhalin Oblast,69
+2022-02-01,Republic of Kalmykia,47
+2022-02-01,City of Saint Petersburg,54
+2022-02-01,Tyumen Oblast,82
+2022-02-01,Kaliningrad Oblast,42
+2022-02-01,Orenburg Oblast,40
+2022-02-01,Samara Oblast,44
+2022-02-01,Tomsk Oblast,51
+2022-02-01,Zabaykalsky Krai,49
+2022-02-01,Nizhny Novgorod Oblast,43
+2022-02-01,Voronezh Oblast,52
+2022-02-01,Novosibirsk Oblast,46
+2022-02-01,Altai Republic,24
+2022-02-01,Stavropol Krai,28
+2022-02-01,Yamalo-Nenets Autonomous Okrug,52
+2022-02-01,Pskov Oblast,37
+2022-02-01,Kemerovo Oblast,46
+2022-02-01,Vologda Oblast,48
+2022-02-01,Yaroslavl Oblast,56
+2022-02-01,Russia,49
+2022-01-01,Tver Oblast,45
+2022-01-01,Komi Republic,81
+2022-01-01,City of Saint Petersburg,62
+2022-01-01,Altai Krai,42
+2022-01-01,Volgograd Oblast,71
+2022-01-01,Krasnoyarsk Krai,45
+2022-01-01,Chuvash Republic — Chuvashia,58
+2022-01-01,Belgorod Oblast,47
+2022-01-01,Astrakhan Oblast,53
+2022-01-01,Chelyabinsk Oblast,54
+2022-01-01,Kemerovo Oblast,68
+2022-01-01,Kirov Oblast,48
+2022-01-01,Kaliningrad Oblast,52
+2022-01-01,Chukotka Autonomous Okrug,70
+2022-01-01,Primorsky Krai,47
+2022-01-01,Republic of Dagestan,52
+2022-01-01,Rostov Oblast,44
+2022-01-01,Udmurt Republic,52
+2022-01-01,Tula Oblast,56
+2022-01-01,Republic of Tuva,75
+2022-01-01,Saratov Oblast,43
+2022-01-01,Vladimir Oblast,66
+2022-01-01,Ryazan Oblast,54
+2022-01-01,Novgorod Oblast,49
+2022-01-01,Mari El Republic,47
+2022-01-01,Yamalo-Nenets Autonomous Okrug,52
+2022-01-01,Kurgan Oblast,69
+2022-01-01,Sakhalin Oblast,72
+2022-01-01,Irkutsk Oblast,59
+2022-01-01,Republic of Bashkortostan,58
+2022-01-01,Republic of Sakha (Yakutia),68
+2022-01-01,Kaluga Oblast,70
+2022-01-01,Smolensk Oblast,60
+2022-01-01,Jewish Autonomous Oblast,59
+2022-01-01,Leningrad Oblast,58
+2022-01-01,Karachay-Cherkess Republic,24
+2022-08-01,Republic of Sakha (Yakutia),56
+2022-08-01,Kaliningrad Oblast,51
+2022-08-01,Belgorod Oblast,47
+2022-08-01,Yaroslavl Oblast,55
+2022-08-01,Kirov Oblast,56
+2022-08-01,Magadan Oblast,58
+2022-08-01,Samara Oblast,47
+2022-08-01,Tver Oblast,58
+2022-08-01,Voronezh Oblast,56
+2022-08-01,Vladimir Oblast,61
+2022-08-01,City of Saint Petersburg,54
+2022-08-01,Republic of Kalmykia,48
+2022-08-01,Amur Oblast,65
+2022-08-01,Tyumen Oblast,92
+2022-08-01,Moscow,54
+2022-08-01,Tula Oblast,49
+2022-08-01,Novosibirsk Oblast,62
+2022-08-01,Murmansk Oblast,51
+2022-08-01,Chukotka Autonomous Okrug,62
+2022-08-01,Arkhangelsk Oblast,63
+2022-08-01,Republic of Karelia,43
+2022-08-01,Irkutsk Oblast,57
+2022-08-01,Ivanovo Oblast,44
+2022-08-01,Zabaykalsky Krai,58
+2022-08-01,Stavropol Krai,35
+2022-08-01,Khanty-Mansi Autonomous Okrug–Yugra,74
+2022-08-01,Khabarovsk Krai,67
+2022-08-01,Krasnodar Krai,49
+2022-08-01,Komi Republic,74
+2022-08-01,Altai Krai,48
+2022-08-01,Oryol Oblast,53
+2022-08-01,Chechen Republic,34
+2022-08-01,Pskov Oblast,52
+2022-08-01,Primorsky Krai,49
+2022-08-01,Kurgan Oblast,49
+2022-08-01,Republic of Bashkortostan,57
+2022-08-01,Rostov Oblast,37
+2022-08-01,Moscow Oblast,56
+2022-08-01,Perm Krai,49
+2022-08-01,Republic of North Ossetia–Alania,29
+2022-08-01,Bryansk Oblast,57
+2022-08-01,Tambov Oblast,42
+2022-08-01,Chuvash Republic — Chuvashia,60
+2022-08-01,Altai Republic,37
+2022-08-01,Omsk Oblast,52
+2022-08-01,Astrakhan Oblast,61
+2022-08-01,Penza Oblast,63
+2022-08-01,Republic of Buryatia,53
+2022-08-01,Karachay-Cherkess Republic,23
+2022-08-01,Republic of Tatarstan,55
+2022-08-01,Republic of Tuva,53
+2022-08-01,Sverdlovsk Oblast,61
+2022-08-01,Nizhny Novgorod Oblast,60
+2022-08-01,Saratov Oblast,39
+2022-08-01,Smolensk Oblast,49
+2022-08-01,Leningrad Oblast,56
+2022-01-01,Omsk Oblast,65
+2022-01-01,Republic of Mordovia,52
+2022-01-01,Kursk Oblast,48
+2022-01-01,Bryansk Oblast,61
+2022-01-01,Moscow,55
+2022-01-01,Kostroma Oblast,71
+2022-01-01,Orenburg Oblast,48
+2022-01-01,Republic of Karelia,34
+2022-01-01,Lipetsk Oblast,52
+2022-01-01,Krasnodar Krai,48
+2022-01-01,Republic of Ingushetia,42
+2022-01-01,Magadan Oblast,50
+2022-01-01,Amur Oblast,67
+2022-01-01,Arkhangelsk Oblast,63
+2022-01-01,Zabaykalsky Krai,52
+2022-01-01,Khanty-Mansi Autonomous Okrug–Yugra,76
+2022-01-01,Republic of Tatarstan,50
+2022-01-01,Yaroslavl Oblast,71
+2022-01-01,Voronezh Oblast,63
+2022-01-01,Kabardino-Balkarian Republic,28
+2022-01-01,Sverdlovsk Oblast,67
+2022-01-01,Republic of North Ossetia–Alania,40
+2022-01-01,Perm Krai,48
+2022-01-01,Chechen Republic,48
+2022-01-01,Tambov Oblast,69
+2022-01-01,Penza Oblast,57
+2022-01-01,Murmansk Oblast,48
+2022-01-01,Republic of Kalmykia,45
+2022-01-01,Khabarovsk Krai,69
+2022-01-01,Vologda Oblast,48
+2022-01-01,Republic of Adygea,34
+2022-01-01,Tyumen Oblast,89
+2022-01-01,Tomsk Oblast,44
+2021-12-01,Pskov Oblast,34
+2021-12-01,Kamchatka Krai,41
+2021-12-01,Krasnodar Krai,37
+2021-12-01,Republic of North Ossetia–Alania,38
+2021-12-01,Omsk Oblast,53
+2021-12-01,Republic of Karelia,45
+2021-12-01,Republic of Khakassia,35
+2021-12-01,Kabardino-Balkarian Republic,29
+2021-12-01,Magadan Oblast,58
+2021-12-01,Zabaykalsky Krai,50
+2021-12-01,Republic of Mordovia,46
+2021-12-01,Khanty-Mansi Autonomous Okrug–Yugra,58
+2021-12-01,Sverdlovsk Oblast,56
+2021-12-01,Nizhny Novgorod Oblast,50
+2021-12-01,Kostroma Oblast,64
+2021-12-01,Nenets Autonomous Okrug,61
+2021-12-01,Kursk Oblast,32
+2021-12-01,Bryansk Oblast,46
+2021-12-01,Republic of Adygea,27
+2021-12-01,Lipetsk Oblast,39
+2021-12-01,Orenburg Oblast,43
+2021-12-01,Samara Oblast,43
+2021-12-01,Chechen Republic,63
+2021-12-01,Ivanovo Oblast,44
+2021-12-01,Tyumen Oblast,99
+2021-12-01,Novosibirsk Oblast,54
+2021-12-01,Altai Republic,69
+2021-12-01,Perm Krai,45
+2021-12-01,Tomsk Oblast,42
+2021-12-01,Russia,49
+2021-11-01,Republic of Adygea,30
+2021-11-01,Tver Oblast,50
+2021-11-01,Komi Republic,85
+2021-11-01,City of Saint Petersburg,56
+2021-11-01,Altai Krai,38
+2021-11-01,Volgograd Oblast,72
+2021-11-01,Krasnoyarsk Krai,42
+2021-11-01,Chuvash Republic — Chuvashia,51
+2021-11-01,Arkhangelsk Oblast,63
+2021-11-01,Oryol Oblast,65
+2021-11-01,Belgorod Oblast,44
+2021-11-01,Moscow,50
+2021-11-01,Astrakhan Oblast,61
+2021-11-01,Chelyabinsk Oblast,51
+2021-11-01,Republic of Mordovia,50
+2021-11-01,Tyumen Oblast,95
+2021-11-01,Zabaykalsky Krai,58
+2021-11-01,Kemerovo Oblast,56
+2021-11-01,Kirov Oblast,51
+2021-11-01,Kaliningrad Oblast,53
+2021-11-01,Chukotka Autonomous Okrug,49
+2021-11-01,Nizhny Novgorod Oblast,52
+2021-11-01,Sverdlovsk Oblast,56
+2021-11-01,Republic of Ingushetia,226
+2021-11-01,Khanty-Mansi Autonomous Okrug–Yugra,62
+2021-11-01,Primorsky Krai,42
+2021-11-01,Republic of Dagestan,48
+2021-11-01,Rostov Oblast,45
+2021-11-01,Udmurt Republic,50
+2021-11-01,Ulyanovsk Oblast,56
+2021-11-01,Tula Oblast,47
+2021-11-01,Voronezh Oblast,54
+2021-11-01,Kabardino-Balkarian Republic,31
+2021-11-01,Samara Oblast,45
+2021-11-01,Chechen Republic,50
+2021-11-01,Republic of Tuva,52
+2021-11-01,Amur Oblast,58
+2021-11-01,Saratov Oblast,41
+2021-11-01,Lipetsk Oblast,44
+2021-11-01,Penza Oblast,50
+2021-11-01,Vladimir Oblast,69
+2021-11-01,Ryazan Oblast,50
+2021-11-01,Novgorod Oblast,50
+2021-11-01,Leningrad Oblast,50
+2021-11-01,Moscow Oblast,50
+2021-11-01,Mari El Republic,50
+2021-11-01,Yamalo-Nenets Autonomous Okrug,56
+2021-11-01,Kurgan Oblast,53
+2021-11-01,Sakhalin Oblast,56
+2021-11-01,Irkutsk Oblast,49
+2021-11-01,Republic of Bashkortostan,53
+2021-11-01,Republic of Sakha (Yakutia),42
+2021-11-01,Kursk Oblast,31
+2021-11-01,Nenets Autonomous Okrug,50
+2021-11-01,Karachay-Cherkess Republic,21
+2021-11-01,Magadan Oblast,55
+2021-11-01,Pskov Oblast,46
+2021-11-01,Krasnodar Krai,37
+2021-11-01,Jewish Autonomous Oblast,76
+2021-11-01,Ivanovo Oblast,47
+2021-11-01,Republic of Karelia,42
+2021-11-01,Perm Krai,47
+2021-11-01,Orenburg Oblast,43
+2021-11-01,Novosibirsk Oblast,48
+2021-11-01,Republic of Kalmykia,52
+2021-11-01,Khabarovsk Krai,62
+2021-11-01,Kostroma Oblast,68
+2021-11-01,Tomsk Oblast,54
+2021-11-01,Omsk Oblast,59
+2021-11-01,Murmansk Oblast,42
+2021-11-01,Republic of Buryatia,55
+2021-11-01,Republic of Khakassia,41
+2021-11-01,Tambov Oblast,48
+2021-11-01,Smolensk Oblast,49
+2021-11-01,Altai Republic,94
+2021-11-01,Stavropol Krai,31
+2021-11-01,Bryansk Oblast,64
+2021-11-01,Republic of North Ossetia–Alania,58
+2021-11-01,Republic of Tatarstan,46
+2021-11-01,Kamchatka Krai,43
+2021-11-01,Kaluga Oblast,58
+2021-11-01,Vologda Oblast,44
+2021-11-01,Yaroslavl Oblast,56
+2021-11-01,Russia,51
+2021-10-01,Republic of Adygea,33
+2021-10-01,Tver Oblast,53
+2021-10-01,Komi Republic,74
+2021-10-01,City of Saint Petersburg,55
+2021-10-01,Altai Krai,37
+2021-10-01,Volgograd Oblast,82
+2021-10-01,Krasnoyarsk Krai,48
+2021-10-01,Chuvash Republic — Chuvashia,58
+2021-10-01,Novosibirsk Oblast,56
+2021-10-01,Penza Oblast,52
+2021-10-01,Arkhangelsk Oblast,51
+2021-10-01,Altai Republic,49
+2021-10-01,Republic of Bashkortostan,52
+2021-10-01,Tomsk Oblast,42
+2021-10-01,Pskov Oblast,50
+2021-10-01,Oryol Oblast,59
+2021-10-01,Saratov Oblast,40
+2021-10-01,Belgorod Oblast,38
+2021-10-01,Republic of North Ossetia–Alania,29
+2021-10-01,Moscow,53
+2021-10-01,Republic of Tatarstan,49
+2021-10-01,Astrakhan Oblast,58
+2021-10-01,Chelyabinsk Oblast,53
+2021-10-01,Vladimir Oblast,65
+2021-10-01,Nenets Autonomous Okrug,76
+2021-10-01,Republic of Buryatia,64
+2021-10-01,Bryansk Oblast,58
+2021-10-01,Republic of Mordovia,45
+2021-10-01,Republic of Tuva,74
+2021-10-01,Moscow Oblast,50
+2021-10-01,Republic of Karelia,44
+2021-10-01,Magadan Oblast,66
+2021-10-01,Tyumen Oblast,90
+2021-10-01,Zabaykalsky Krai,59
+2021-10-01,Perm Krai,46
+2021-10-01,Smolensk Oblast,48
+2021-10-01,Kemerovo Oblast,53
+2021-10-01,Kirov Oblast,58
+2021-10-01,Kaliningrad Oblast,47
+2021-10-01,Kamchatka Krai,35
+2021-10-01,Kostroma Oblast,74
+2021-10-01,Chukotka Autonomous Okrug,66
+2021-10-01,Nizhny Novgorod Oblast,55
+2021-10-01,Yamalo-Nenets Autonomous Okrug,53
+2021-10-01,Kaluga Oblast,62
+2021-10-01,Novgorod Oblast,49
+2021-10-01,Sverdlovsk Oblast,58
+2021-10-01,Republic of Ingushetia,136
+2021-10-01,Jewish Autonomous Oblast,44
+2021-10-01,Sakhalin Oblast,47
+2021-10-01,Khabarovsk Krai,58
+2021-10-01,Khanty-Mansi Autonomous Okrug–Yugra,66
+2021-10-01,Stavropol Krai,31
+2021-10-01,Primorsky Krai,46
+2021-10-01,Republic of Dagestan,40
+2021-10-01,Rostov Oblast,38
+2021-10-01,Udmurt Republic,55
+2021-10-01,Republic of Sakha (Yakutia),49
+2021-10-01,Ryazan Oblast,47
+2021-10-01,Vologda Oblast,51
+2021-10-01,Republic of Kalmykia,41
+2021-10-01,Mari El Republic,54
+2021-10-01,Ulyanovsk Oblast,60
+2021-10-01,Tula Oblast,44
+2021-10-01,Orenburg Oblast,45
+2021-10-01,Omsk Oblast,56
+2021-10-01,Leningrad Oblast,48
+2021-10-01,Karachay-Cherkess Republic,20
+2021-10-01,Voronezh Oblast,52
+2022-05-01,Penza Oblast,71
+2022-05-01,Samara Oblast,44
+2022-05-01,Tver Oblast,51
+2022-05-01,Voronezh Oblast,53
+2022-05-01,Vladimir Oblast,88
+2022-05-01,City of Saint Petersburg,59
+2022-05-01,Republic of Kalmykia,45
+2022-05-01,Amur Oblast,58
+2022-05-01,Primorsky Krai,43
+2022-05-01,Irkutsk Oblast,39
+2022-05-01,Nizhny Novgorod Oblast,43
+2022-05-01,Tyumen Oblast,74
+2022-05-01,Moscow,44
+2022-05-01,Tula Oblast,53
+2022-05-01,Novosibirsk Oblast,52
+2022-05-01,Zabaykalsky Krai,43
+2022-05-01,Republic of Bashkortostan,49
+2022-05-01,Karachay-Cherkess Republic,27
+2022-05-01,Komi Republic,90
+2022-05-01,Altai Krai,62
+2022-05-01,Oryol Oblast,66
+2022-05-01,Republic of North Ossetia–Alania,48
+2022-05-01,Murmansk Oblast,50
+2022-05-01,Saratov Oblast,32
+2022-05-01,Perm Krai,50
+2022-05-01,Krasnodar Krai,55
+2022-05-01,Chelyabinsk Oblast,47
+2022-05-01,Altai Republic,76
+2022-05-01,Rostov Oblast,49
+2022-05-01,Omsk Oblast,54
+2022-05-01,Leningrad Oblast,47
+2022-05-01,Republic of Tatarstan,51
+2022-05-01,Smolensk Oblast,79
+2022-05-01,Sverdlovsk Oblast,64
+2022-05-01,Chukotka Autonomous Okrug,17
+2022-05-01,Kabardino-Balkarian Republic,14
+2022-05-01,Arkhangelsk Oblast,59
+2022-05-01,Republic of Karelia,68
+2022-05-01,Russia,54
+2022-04-01,Volgograd Oblast,72
+2022-04-01,Bryansk Oblast,48
+2022-04-01,Republic of Mordovia,41
+2022-04-01,Mari El Republic,30
+2022-04-01,Republic of Adygea,18
+2022-04-01,Sakhalin Oblast,126
+2022-04-01,Tyumen Oblast,83
+2022-04-01,Pskov Oblast,51
+2022-04-01,Zabaykalsky Krai,58
+2022-04-01,Republic of Khakassia,34
+2022-04-01,Sverdlovsk Oblast,68
+2022-04-01,Republic of Tatarstan,44
+2022-04-01,Vologda Oblast,33
+2022-04-01,Altai Krai,40
+2022-04-01,Novgorod Oblast,57
+2022-04-01,Krasnoyarsk Krai,37
+2022-04-01,Rostov Oblast,49
+2022-04-01,Republic of North Ossetia–Alania,78
+2022-04-01,Arkhangelsk Oblast,43
+2022-04-01,Kemerovo Oblast,39
+2022-04-01,Novosibirsk Oblast,54
+2022-04-01,Jewish Autonomous Oblast,70
+2022-04-01,Kaluga Oblast,38
+2022-04-01,Tomsk Oblast,24
+2022-04-01,Khabarovsk Krai,59
+2022-04-01,Republic of Bashkortostan,49
+2022-04-01,Udmurt Republic,41
+2022-04-01,Amur Oblast,22
+2022-04-01,Krasnodar Krai,51
+2022-04-01,Ryazan Oblast,40
+2022-04-01,Smolensk Oblast,61
+2022-04-01,Lipetsk Oblast,32
+2022-04-01,Ivanovo Oblast,26
+2022-04-01,Moscow Oblast,47
+2022-04-01,Kaliningrad Oblast,36
+2022-04-01,Republic of Karelia,53
+2022-04-01,Nizhny Novgorod Oblast,34
+2022-04-01,Komi Republic,61
+2022-04-01,Moscow,42
+2022-04-01,Chukotka Autonomous Okrug,47
+2022-04-01,Irkutsk Oblast,56
+2022-04-01,Primorsky Krai,43
+2022-04-01,Yaroslavl Oblast,55
+2022-04-01,Republic of Kalmykia,21
+2022-04-01,Kabardino-Balkarian Republic,18
+2022-04-01,Vladimir Oblast,64
+2022-04-01,Chuvash Republic — Chuvashia,56
+2022-04-01,Astrakhan Oblast,39
+2022-04-01,Leningrad Oblast,57
+2022-04-01,Kursk Oblast,61
+2022-04-01,Republic of Dagestan,43
+2022-04-01,Murmansk Oblast,45
+2022-04-01,Voronezh Oblast,40
+2022-04-01,Perm Krai,47
+2022-04-01,Orenburg Oblast,33
+2022-04-01,Republic of Buryatia,50
+2022-04-01,Penza Oblast,98
+2022-04-01,Chechen Republic,14
+2022-04-01,Belgorod Oblast,38
+2022-04-01,Kamchatka Krai,33
+2022-04-01,Saratov Oblast,29
+2022-04-01,Samara Oblast,59
+2022-04-01,Kurgan Oblast,21
+2022-04-01,Omsk Oblast,70
+2022-04-01,City of Saint Petersburg,49
+2022-04-01,Republic of Tuva,31
+2022-04-01,Ulyanovsk Oblast,59
+2022-04-01,Karachay-Cherkess Republic,23
+2022-04-01,Chelyabinsk Oblast,37
+2022-04-01,Kirov Oblast,62
+2022-04-01,Tula Oblast,29
+2022-04-01,Oryol Oblast,66
+2022-04-01,Stavropol Krai,49
+2022-04-01,Republic of Sakha (Yakutia),29
+2022-04-01,Tambov Oblast,44
+2022-04-01,Tver Oblast,56
+2022-04-01,Yamalo-Nenets Autonomous Okrug,52
+2022-04-01,Magadan Oblast,43
+2022-04-01,Khanty-Mansi Autonomous Okrug–Yugra,61
+2022-04-01,Kostroma Oblast,95
+2022-04-01,Russia,49
+2022-03-01,Volgograd Oblast,59
+2022-03-01,Astrakhan Oblast,50
+2022-03-01,Kirov Oblast,47
+2022-03-01,Republic of Sakha (Yakutia),41
+2022-03-01,Bryansk Oblast,61
+2022-03-01,Amur Oblast,56
+2022-03-01,Republic of Ingushetia,45
+2022-03-01,Chelyabinsk Oblast,51
+2022-03-01,Republic of Mordovia,48
+2022-03-01,Moscow,51
+2022-03-01,Leningrad Oblast,51
+2022-03-01,Smolensk Oblast,53
+2022-03-01,Komi Republic,82
+2022-03-01,Mari El Republic,36
+2022-03-01,Udmurt Republic,48
+2022-03-01,Chechen Republic,73
+2022-03-01,Republic of Adygea,33
+2022-03-01,Murmansk Oblast,34
+2022-03-01,Kurgan Oblast,53
+2022-03-01,Ryazan Oblast,50
+2022-03-01,Nenets Autonomous Okrug,28
+2021-10-01,Tambov Oblast,55
+2021-10-01,Kurgan Oblast,56
+2021-10-01,Republic of Khakassia,44
+2021-10-01,Irkutsk Oblast,53
+2021-10-01,Kursk Oblast,36
+2021-10-01,Lipetsk Oblast,36
+2021-10-01,Kabardino-Balkarian Republic,25
+2021-10-01,Amur Oblast,66
+2021-10-01,Murmansk Oblast,42
+2021-10-01,Samara Oblast,46
+2021-10-01,Yaroslavl Oblast,52
+2021-10-01,Krasnodar Krai,36
+2021-10-01,Ivanovo Oblast,46
+2021-10-01,Chechen Republic,26
+2021-10-01,Russia,52
+2021-09-01,Murmansk Oblast,47
+2021-09-01,Republic of Adygea,29
+2021-09-01,Tver Oblast,50
+2021-09-01,Komi Republic,70
+2021-09-01,City of Saint Petersburg,57
+2021-09-01,Altai Krai,39
+2021-09-01,Volgograd Oblast,71
+2021-09-01,Krasnoyarsk Krai,48
+2021-09-01,Chuvash Republic — Chuvashia,53
+2021-09-01,Novosibirsk Oblast,53
+2021-09-01,Penza Oblast,62
+2021-09-01,Arkhangelsk Oblast,61
+2021-09-01,Altai Republic,43
+2021-09-01,Republic of Bashkortostan,48
+2021-09-01,Tomsk Oblast,54
+2021-09-01,Pskov Oblast,52
+2021-09-01,Oryol Oblast,48
+2021-09-01,Saratov Oblast,45
+2021-08-01,Republic of Sakha (Yakutia),52
+2021-08-01,Republic of Mordovia,44
+2021-08-01,Yamalo-Nenets Autonomous Okrug,52
+2021-08-01,Samara Oblast,49
+2021-08-01,Stavropol Krai,32
+2021-08-01,Lipetsk Oblast,36
+2021-08-01,Magadan Oblast,53
+2021-08-01,Leningrad Oblast,53
+2021-08-01,Moscow Oblast,52
+2021-08-01,Vladimir Oblast,74
+2021-08-01,Novgorod Oblast,49
+2021-08-01,Vologda Oblast,64
+2021-08-01,Tyumen Oblast,90
+2021-08-01,Primorsky Krai,47
+2021-08-01,Sakhalin Oblast,52
+2021-08-01,Republic of Khakassia,54
+2021-08-01,Kaliningrad Oblast,52
+2021-08-01,Kabardino-Balkarian Republic,28
+2021-08-01,Irkutsk Oblast,46
+2021-08-01,Bryansk Oblast,49
+2021-08-01,Tambov Oblast,59
+2021-08-01,Kurgan Oblast,56
+2021-08-01,Russia,52
+2021-07-01,Murmansk Oblast,45
+2021-07-01,Republic of Adygea,27
+2021-07-01,Republic of Dagestan,36
+2021-07-01,Tver Oblast,49
+2021-07-01,Republic of Buryatia,56
+2021-07-01,Voronezh Oblast,54
+2021-07-01,Smolensk Oblast,57
+2021-07-01,Chelyabinsk Oblast,46
+2021-07-01,Komi Republic,85
+2021-07-01,Kirov Oblast,54
+2021-07-01,City of Saint Petersburg,53
+2021-07-01,Altai Krai,46
+2021-07-01,Tula Oblast,48
+2021-07-01,Volgograd Oblast,67
+2021-07-01,Krasnoyarsk Krai,46
+2021-07-01,Chuvash Republic — Chuvashia,57
+2021-07-01,Yaroslavl Oblast,59
+2021-07-01,Novosibirsk Oblast,57
+2021-07-01,Kursk Oblast,39
+2021-07-01,Novgorod Oblast,49
+2021-07-01,Astrakhan Oblast,45
+2021-07-01,Penza Oblast,49
+2021-07-01,Arkhangelsk Oblast,59
+2021-07-01,Amur Oblast,56
+2021-07-01,Altai Republic,48
+2021-07-01,Republic of Bashkortostan,55
+2021-07-01,Tomsk Oblast,41
+2021-07-01,Moscow Oblast,51
+2021-07-01,Ivanovo Oblast,51
+2021-07-01,Perm Krai,45
+2021-07-01,Nenets Autonomous Okrug,53
+2021-07-01,Republic of Khakassia,46
+2021-07-01,Kamchatka Krai,31
+2021-07-01,Nizhny Novgorod Oblast,52
+2021-07-01,Orenburg Oblast,48
+2021-07-01,Krasnodar Krai,41
+2021-07-01,Sverdlovsk Oblast,56
+2021-07-01,Primorsky Krai,33
+2021-07-01,Kaluga Oblast,75
+2021-07-01,Udmurt Republic,48
+2021-07-01,Khanty-Mansi Autonomous Okrug–Yugra,61
+2021-07-01,Samara Oblast,50
+2021-07-01,Tyumen Oblast,101
+2021-07-01,Ryazan Oblast,57
+2021-07-01,Mari El Republic,51
+2021-07-01,Pskov Oblast,45
+2021-07-01,Vladimir Oblast,62
+2021-07-01,Oryol Oblast,41
+2021-07-01,Saratov Oblast,36
+2021-07-01,Chukotka Autonomous Okrug,26
+2021-07-01,Chechen Republic,32
+2021-07-01,Belgorod Oblast,53
+2021-07-01,Republic of North Ossetia–Alania,32
+2021-07-01,Khabarovsk Krai,63
+2021-07-01,Republic of Kalmykia,39
+2021-07-01,Karachay-Cherkess Republic,21
+2021-07-01,Zabaykalsky Krai,42
+2021-07-01,Omsk Oblast,52
+2021-07-01,Leningrad Oblast,50
+2021-07-01,Republic of Tatarstan,50
+2021-07-01,Bryansk Oblast,50
+2021-07-01,Sakhalin Oblast,43
+2021-07-01,Kemerovo Oblast,53
+2021-07-01,Republic of Mordovia,57
+2021-07-01,Tambov Oblast,49
+2021-07-01,Republic of Karelia,51
+2021-07-01,Jewish Autonomous Oblast,74
+2021-07-01,Moscow,50
+2021-07-01,Lipetsk Oblast,51
+2021-07-01,Rostov Oblast,41
+2021-07-01,Ulyanovsk Oblast,40
+2021-07-01,Stavropol Krai,37
+2021-07-01,Republic of Ingushetia,15
+2021-07-01,Yamalo-Nenets Autonomous Okrug,47
+2021-07-01,Republic of Sakha (Yakutia),54
+2021-07-01,Irkutsk Oblast,49
+2021-07-01,Vologda Oblast,50
+2021-07-01,Kabardino-Balkarian Republic,33
+2021-07-01,Kurgan Oblast,52
+2021-07-01,Magadan Oblast,49
+2021-07-01,Kaliningrad Oblast,56
+2021-07-01,Republic of Tuva,47
+2021-07-01,Kostroma Oblast,64
+2021-07-01,Russia,52
+2021-06-01,Murmansk Oblast,43
+2021-06-01,Republic of Adygea,46
+2021-06-01,Republic of Dagestan,31
+2021-06-01,Chechen Republic,33
+2021-06-01,Tver Oblast,52
+2021-06-01,Republic of Buryatia,56
+2021-06-01,Voronezh Oblast,50
+2021-06-01,Smolensk Oblast,66
+2021-06-01,Vladimir Oblast,66
+2021-06-01,Omsk Oblast,45
+2021-06-01,Chelyabinsk Oblast,49
+2021-06-01,Komi Republic,78
+2021-06-01,Kirov Oblast,54
+2021-06-01,City of Saint Petersburg,47
+2021-06-01,Altai Krai,40
+2021-06-01,Kurgan Oblast,50
+2021-06-01,Tula Oblast,37
+2021-06-01,Volgograd Oblast,82
+2021-06-01,Krasnoyarsk Krai,41
+2021-06-01,Chuvash Republic — Chuvashia,65
+2021-06-01,Yaroslavl Oblast,59
+2021-06-01,Jewish Autonomous Oblast,67
+2021-06-01,Kemerovo Oblast,49
+2021-06-01,Vologda Oblast,50
+2021-06-01,Novosibirsk Oblast,49
+2021-06-01,Yamalo-Nenets Autonomous Okrug,42
+2021-06-01,Tyumen Oblast,97
+2021-06-01,Stavropol Krai,37
+2021-06-01,Kaliningrad Oblast,55
+2021-06-01,Kursk Oblast,31
+2021-06-01,Khanty-Mansi Autonomous Okrug–Yugra,57
+2021-06-01,Novgorod Oblast,54
+2021-06-01,Pskov Oblast,36
+2021-06-01,Magadan Oblast,36
+2021-06-01,Lipetsk Oblast,44
+2021-06-01,Oryol Oblast,58
+2021-06-01,Astrakhan Oblast,43
+2021-06-01,Saratov Oblast,42
+2021-06-01,Penza Oblast,47
+2021-06-01,Arkhangelsk Oblast,49
+2021-06-01,Amur Oblast,67
+2021-06-01,Karachay-Cherkess Republic,22
+2021-06-01,Republic of Ingushetia,10
+2021-06-01,Samara Oblast,45
+2021-06-01,Mari El Republic,43
+2021-06-01,Altai Republic,49
+2021-06-01,Republic of Bashkortostan,51
+2021-06-01,Tomsk Oblast,43
+2021-06-01,Leningrad Oblast,48
+2021-06-01,Belgorod Oblast,46
+2021-06-01,Irkutsk Oblast,43
+2021-06-01,Sakhalin Oblast,40
+2021-06-01,Republic of Mordovia,59
+2021-06-01,Moscow Oblast,48
+2021-06-01,Moscow,48
+2021-06-01,Ivanovo Oblast,44
+2021-06-01,Perm Krai,45
+2021-06-01,Tambov Oblast,48
+2021-06-01,Bryansk Oblast,61
+2021-06-01,Primorsky Krai,36
+2021-06-01,Nenets Autonomous Okrug,152
+2021-06-01,Kaluga Oblast,59
+2021-06-01,Khabarovsk Krai,65
+2021-06-01,Republic of Khakassia,55
+2021-06-01,Kamchatka Krai,41
+2021-06-01,Nizhny Novgorod Oblast,48
+2021-06-01,Rostov Oblast,39
+2021-06-01,Republic of Kalmykia,37
+2021-06-01,Orenburg Oblast,48
+2021-06-01,Republic of North Ossetia–Alania,33
+2021-06-01,Republic of Sakha (Yakutia),43
+2021-06-01,Udmurt Republic,45
+2021-06-01,Ryazan Oblast,60
+2021-06-01,Zabaykalsky Krai,44
+2021-06-01,Republic of Tuva,33
+2021-06-01,Kabardino-Balkarian Republic,29
+2022-01-01,Republic of Khakassia,53
+2022-01-01,Ivanovo Oblast,39
+2022-01-01,Altai Republic,75
+2022-01-01,Nenets Autonomous Okrug,35
+2022-01-01,Ulyanovsk Oblast,63
+2022-01-01,Pskov Oblast,39
+2022-01-01,Kamchatka Krai,39
+2022-01-01,Moscow Oblast,59
+2022-01-01,Stavropol Krai,37
+2022-01-01,Republic of Buryatia,67
+2022-01-01,Nizhny Novgorod Oblast,53
+2022-01-01,Novosibirsk Oblast,62
+2022-01-01,Oryol Oblast,42
+2022-01-01,Samara Oblast,50
+2022-01-01,Russia,57
+2021-12-01,Tver Oblast,41
+2021-12-01,Komi Republic,65
+2021-12-01,City of Saint Petersburg,52
+2021-12-01,Altai Krai,39
+2021-12-01,Volgograd Oblast,73
+2021-12-01,Krasnoyarsk Krai,45
+2021-12-01,Chuvash Republic — Chuvashia,54
+2021-12-01,Arkhangelsk Oblast,53
+2021-12-01,Belgorod Oblast,39
+2021-12-01,Astrakhan Oblast,61
+2021-12-01,Chelyabinsk Oblast,45
+2021-12-01,Kemerovo Oblast,54
+2021-12-01,Kirov Oblast,40
+2021-12-01,Kaliningrad Oblast,39
+2021-12-01,Chukotka Autonomous Okrug,37
+2021-12-01,Republic of Ingushetia,82
+2021-12-01,Primorsky Krai,43
+2021-12-01,Republic of Dagestan,46
+2021-12-01,Rostov Oblast,42
+2021-12-01,Udmurt Republic,43
+2021-12-01,Ulyanovsk Oblast,49
+2021-12-01,Tula Oblast,45
+2021-12-01,Voronezh Oblast,51
+2021-12-01,Republic of Tuva,64
+2021-12-01,Amur Oblast,60
+2021-12-01,Saratov Oblast,41
+2021-12-01,Vladimir Oblast,60
+2021-12-01,Ryazan Oblast,46
+2021-12-01,Novgorod Oblast,46
+2021-12-01,Moscow Oblast,49
+2021-12-01,Mari El Republic,52
+2021-12-01,Yamalo-Nenets Autonomous Okrug,48
+2021-12-01,Kurgan Oblast,55
+2021-12-01,Sakhalin Oblast,63
+2021-12-01,Irkutsk Oblast,51
+2021-12-01,Republic of Bashkortostan,48
+2021-12-01,Republic of Sakha (Yakutia),51
+2021-12-01,Tambov Oblast,46
+2021-12-01,Republic of Tatarstan,44
+2021-12-01,Penza Oblast,47
+2021-12-01,Republic of Kalmykia,40
+2021-12-01,Kaluga Oblast,64
+2021-12-01,Smolensk Oblast,67
+2021-12-01,Murmansk Oblast,39
+2021-12-01,Vologda Oblast,47
+2021-12-01,Yaroslavl Oblast,64
+2021-12-01,Republic of Buryatia,57
+2021-12-01,Khabarovsk Krai,61
+2021-12-01,Jewish Autonomous Oblast,32
+2021-12-01,Stavropol Krai,32
+2021-12-01,Leningrad Oblast,48
+2021-12-01,Oryol Oblast,51
+2021-12-01,Karachay-Cherkess Republic,22
+2021-12-01,Moscow,48
+2021-06-01,Republic of Tatarstan,45
+2021-06-01,Republic of Karelia,52
+2021-06-01,Krasnodar Krai,39
+2021-06-01,Kostroma Oblast,59
+2021-06-01,Chukotka Autonomous Okrug,33
+2021-06-01,Sverdlovsk Oblast,56
+2021-06-01,Ulyanovsk Oblast,58
+2021-06-01,Russia,50
+2021-05-01,Moscow Oblast,48
+2021-05-01,Murmansk Oblast,33
+2021-05-01,Republic of Adygea,47
+2021-05-01,Republic of Sakha (Yakutia),46
+2021-05-01,Republic of Dagestan,27
+2021-05-01,Chechen Republic,36
+2021-05-01,Tver Oblast,44
+2021-05-01,Republic of Buryatia,64
+2021-05-01,Voronezh Oblast,45
+2021-05-01,Ryazan Oblast,46
+2021-05-01,Smolensk Oblast,61
+2021-05-01,Vladimir Oblast,69
+2021-05-01,Omsk Oblast,49
+2021-05-01,Chelyabinsk Oblast,54
+2021-05-01,Ulyanovsk Oblast,54
+2021-05-01,Komi Republic,59
+2021-05-01,Kirov Oblast,54
+2021-05-01,Kostroma Oblast,56
+2021-05-01,City of Saint Petersburg,49
+2021-05-01,Altai Krai,40
+2021-05-01,Kurgan Oblast,54
+2021-05-01,Tula Oblast,39
+2021-05-01,Volgograd Oblast,87
+2021-05-01,Krasnoyarsk Krai,44
+2021-05-01,Chuvash Republic — Chuvashia,58
+2020-11-01,Republic of Dagestan,35
+2020-10-01,Republic of Dagestan,32
+2020-09-01,Republic of Dagestan,32
+2020-08-01,Republic of Dagestan,27
+2020-07-01,Republic of Dagestan,26
+2020-06-01,Republic of Dagestan,27
+2020-05-01,Republic of Dagestan,36
+2020-04-01,Republic of Dagestan,19
+2020-03-01,Republic of Dagestan,15
+2020-02-01,Republic of Dagestan,13
+2020-01-01,Republic of Dagestan,36
+2019-12-01,Republic of Dagestan,44
+2019-11-01,Republic of Dagestan,40
+2019-10-01,Republic of Dagestan,25
+2019-09-01,Republic of Dagestan,39
+2019-08-01,Republic of Dagestan,41
+2019-07-01,Republic of Dagestan,26
+2019-06-01,Republic of Dagestan,68
+2019-04-01,Republic of Dagestan,47
+2019-03-01,Republic of Dagestan,110
+2019-02-01,Republic of Dagestan,21
+2021-04-01,Republic of North Ossetia–Alania,49
+2021-03-01,Republic of North Ossetia–Alania,45
+2021-02-01,Republic of North Ossetia–Alania,28
+2021-01-01,Republic of North Ossetia–Alania,36
+2020-12-01,Republic of North Ossetia–Alania,47
+2020-11-01,Republic of North Ossetia–Alania,41
+2020-10-01,Republic of North Ossetia–Alania,39
+2020-09-01,Republic of North Ossetia–Alania,32
+2020-08-01,Republic of North Ossetia–Alania,38
+2020-07-01,Republic of North Ossetia–Alania,39
+2020-06-01,Republic of North Ossetia–Alania,13
+2020-05-01,Republic of North Ossetia–Alania,36
+2020-04-01,Republic of North Ossetia–Alania,23
+2020-03-01,Republic of North Ossetia–Alania,16
+2020-02-01,Republic of North Ossetia–Alania,51
+2020-01-01,Republic of North Ossetia–Alania,83
+2019-12-01,Republic of North Ossetia–Alania,66
+2019-11-01,Republic of North Ossetia–Alania,333
+2019-09-01,Republic of North Ossetia–Alania,67
+2019-08-01,Republic of North Ossetia–Alania,105
+2019-07-01,Republic of North Ossetia–Alania,76
+2019-06-01,Republic of North Ossetia–Alania,40
+2019-05-01,Republic of North Ossetia–Alania,45
+2019-04-01,Republic of North Ossetia–Alania,84
+2019-03-01,Republic of North Ossetia–Alania,137
+2019-02-01,Republic of North Ossetia–Alania,137
+2021-04-01,Altai Republic,27
+2021-03-01,Altai Republic,24
+2021-02-01,Altai Republic,25
+2021-01-01,Altai Republic,26
+2020-12-01,Altai Republic,61
+2020-11-01,Altai Republic,41
+2020-10-01,Altai Republic,39
+2020-09-01,Altai Republic,46
+2020-08-01,Altai Republic,33
+2020-07-01,Altai Republic,56
+2020-06-01,Altai Republic,29
+2020-05-01,Altai Republic,83
+2020-04-01,Altai Republic,44
+2020-03-01,Altai Republic,32
+2020-02-01,Altai Republic,40
+2020-01-01,Altai Republic,56
+2019-12-01,Altai Republic,69
+2019-11-01,Altai Republic,94
+2019-10-01,Altai Republic,92
+2019-09-01,Altai Republic,27
+2019-08-01,Altai Republic,45
+2019-07-01,Altai Republic,60
+2019-06-01,Altai Republic,45
+2019-05-01,Altai Republic,43
+2019-04-01,Altai Republic,36
+2019-03-01,Altai Republic,99
+2019-02-01,Altai Republic,49
+2021-04-01,Chukotka Autonomous Okrug,32
+2021-03-01,Chukotka Autonomous Okrug,37
+2021-02-01,Chukotka Autonomous Okrug,41
+2021-01-01,Chukotka Autonomous Okrug,29
+2020-12-01,Chukotka Autonomous Okrug,43
+2020-11-01,Chukotka Autonomous Okrug,19
+2020-10-01,Chukotka Autonomous Okrug,27
+2020-09-01,Chukotka Autonomous Okrug,29
+2020-08-01,Chukotka Autonomous Okrug,37
+2020-07-01,Chukotka Autonomous Okrug,58
+2020-06-01,Chukotka Autonomous Okrug,22
+2020-05-01,Chukotka Autonomous Okrug,39
+2020-04-01,Chukotka Autonomous Okrug,18
+2020-03-01,Chukotka Autonomous Okrug,17
+2020-02-01,Chukotka Autonomous Okrug,22
+2020-01-01,Chukotka Autonomous Okrug,55
+2019-12-01,Chukotka Autonomous Okrug,55
+2019-11-01,Chukotka Autonomous Okrug,20
+2019-10-01,Chukotka Autonomous Okrug,68
+2019-08-01,Chukotka Autonomous Okrug,42
+2019-07-01,Chukotka Autonomous Okrug,37
+2019-05-01,Chukotka Autonomous Okrug,7
+2019-03-01,Chukotka Autonomous Okrug,53
+2019-02-01,Chukotka Autonomous Okrug,10
+2021-04-01,Moscow Oblast,47
+2021-03-01,Moscow Oblast,49
+2021-02-01,Moscow Oblast,50
+2021-01-01,Moscow Oblast,60
+2020-12-01,Moscow Oblast,53
+2020-11-01,Moscow Oblast,55
+2020-10-01,Moscow Oblast,57
+2020-09-01,Moscow Oblast,63
+2020-08-01,Moscow Oblast,61
+2020-07-01,Moscow Oblast,68
+2020-06-01,Moscow Oblast,67
+2020-05-01,Moscow Oblast,67
+2020-04-01,Moscow Oblast,53
+2020-03-01,Moscow Oblast,54
+2020-02-01,Moscow Oblast,54
+2020-01-01,Moscow Oblast,60
+2019-12-01,Moscow Oblast,53
+2019-11-01,Moscow Oblast,51
+2019-10-01,Moscow Oblast,55
+2019-09-01,Moscow Oblast,54
+2019-08-01,Moscow Oblast,55
+2019-07-01,Moscow Oblast,57
+2019-06-01,Moscow Oblast,57
+2019-05-01,Moscow Oblast,52
+2019-04-01,Moscow Oblast,50
+2019-03-01,Moscow Oblast,62
+2019-02-01,Moscow Oblast,55
+2019-01-01,Moscow Oblast,58
+2021-04-01,Republic of Bashkortostan,50
+2021-03-01,Republic of Bashkortostan,52
+2021-02-01,Republic of Bashkortostan,47
+2021-01-01,Republic of Bashkortostan,58
+2020-12-01,Republic of Bashkortostan,58
+2020-11-01,Republic of Bashkortostan,60
+2020-10-01,Republic of Bashkortostan,57
+2020-09-01,Republic of Bashkortostan,58
+2020-08-01,Republic of Bashkortostan,58
+2020-07-01,Republic of Bashkortostan,56
+2020-06-01,Republic of Bashkortostan,57
+2020-05-01,Republic of Bashkortostan,56
+2020-04-01,Republic of Bashkortostan,54
+2020-03-01,Republic of Bashkortostan,46
+2020-02-01,Republic of Bashkortostan,46
+2020-01-01,Republic of Bashkortostan,60
+2019-12-01,Republic of Bashkortostan,50
+2019-11-01,Republic of Bashkortostan,43
+2019-10-01,Republic of Bashkortostan,45
+2019-09-01,Republic of Bashkortostan,49
+2019-08-01,Republic of Bashkortostan,56
+2019-07-01,Republic of Bashkortostan,55
+2019-06-01,Republic of Bashkortostan,51
+2019-05-01,Republic of Bashkortostan,49
+2019-04-01,Republic of Bashkortostan,47
+2019-03-01,Republic of Bashkortostan,55
+2019-02-01,Republic of Bashkortostan,53
+2019-01-01,Republic of Bashkortostan,61
+2021-04-01,Murmansk Oblast,45
+2021-03-01,Murmansk Oblast,49
+2021-02-01,Murmansk Oblast,40
+2021-01-01,Murmansk Oblast,51
+2020-12-01,Murmansk Oblast,56
+2020-11-01,Murmansk Oblast,58
+2020-10-01,Murmansk Oblast,64
+2020-09-01,Murmansk Oblast,68
+2020-08-01,Murmansk Oblast,52
+2020-07-01,Murmansk Oblast,78
+2020-06-01,Murmansk Oblast,64
+2020-05-01,Murmansk Oblast,59
+2020-04-01,Murmansk Oblast,44
+2020-03-01,Murmansk Oblast,46
+2020-02-01,Murmansk Oblast,48
+2020-01-01,Murmansk Oblast,50
+2019-12-01,Murmansk Oblast,47
+2019-11-01,Murmansk Oblast,50
+2019-10-01,Murmansk Oblast,64
+2019-09-01,Murmansk Oblast,55
+2019-08-01,Murmansk Oblast,60
+2019-07-01,Murmansk Oblast,59
+2019-06-01,Murmansk Oblast,55
+2019-05-01,Murmansk Oblast,53
+2019-04-01,Murmansk Oblast,52
+2019-03-01,Murmansk Oblast,52
+2019-02-01,Murmansk Oblast,60
+2019-01-01,Murmansk Oblast,64
+2021-04-01,Republic of Adygea,38
+2021-09-01,Chechen Republic,31
+2021-09-01,Belgorod Oblast,41
+2021-09-01,Republic of North Ossetia–Alania,48
+2021-09-01,Jewish Autonomous Oblast,75
+2021-09-01,Moscow,50
+2021-09-01,Yaroslavl Oblast,58
+2021-09-01,Republic of Ingushetia,58
+2021-09-01,Omsk Oblast,58
+2021-09-01,Republic of Tatarstan,51
+2021-09-01,Khanty-Mansi Autonomous Okrug–Yugra,58
+2021-09-01,Astrakhan Oblast,54
+2021-09-01,Chelyabinsk Oblast,52
+2021-09-01,Vladimir Oblast,70
+2021-09-01,Nenets Autonomous Okrug,62
+2021-09-01,Leningrad Oblast,50
+2021-09-01,Republic of Buryatia,61
+2021-09-01,Kurgan Oblast,56
+2021-09-01,Bryansk Oblast,50
+2021-09-01,Vologda Oblast,61
+2021-09-01,Republic of Mordovia,49
+2021-09-01,Republic of Khakassia,45
+2021-09-01,Republic of Tuva,46
+2021-09-01,Moscow Oblast,51
+2021-09-01,Republic of Karelia,50
+2021-09-01,Udmurt Republic,42
+2021-09-01,Kaluga Oblast,60
+2021-09-01,Kabardino-Balkarian Republic,31
+2021-09-01,Novgorod Oblast,41
+2021-09-01,Sverdlovsk Oblast,57
+2021-09-01,Samara Oblast,46
+2021-09-01,Ryazan Oblast,46
+2021-09-01,Krasnodar Krai,33
+2021-09-01,Tambov Oblast,60
+2021-09-01,Magadan Oblast,55
+2021-09-01,Republic of Sakha (Yakutia),42
+2021-09-01,Primorsky Krai,46
+2021-09-01,Mari El Republic,36
+2021-09-01,Tyumen Oblast,94
+2021-09-01,Zabaykalsky Krai,48
+2021-09-01,Perm Krai,45
+2021-09-01,Smolensk Oblast,68
+2021-09-01,Khabarovsk Krai,63
+2021-09-01,Kemerovo Oblast,51
+2021-09-01,Republic of Dagestan,33
+2021-09-01,Kirov Oblast,45
+2021-09-01,Kaliningrad Oblast,41
+2021-09-01,Voronezh Oblast,57
+2021-09-01,Orenburg Oblast,45
+2021-09-01,Kursk Oblast,35
+2021-09-01,Republic of Kalmykia,41
+2021-09-01,Rostov Oblast,43
+2021-09-01,Karachay-Cherkess Republic,20
+2021-09-01,Kamchatka Krai,39
+2021-09-01,Ivanovo Oblast,49
+2021-09-01,Sakhalin Oblast,49
+2021-09-01,Irkutsk Oblast,47
+2021-09-01,Kostroma Oblast,58
+2021-09-01,Chukotka Autonomous Okrug,25
+2021-09-01,Lipetsk Oblast,46
+2021-09-01,Tula Oblast,45
+2021-09-01,Yamalo-Nenets Autonomous Okrug,51
+2021-09-01,Stavropol Krai,37
+2021-09-01,Amur Oblast,64
+2021-09-01,Nizhny Novgorod Oblast,53
+2021-09-01,Ulyanovsk Oblast,49
+2021-09-01,Russia,51
+2021-08-01,Murmansk Oblast,44
+2021-08-01,Republic of Adygea,39
+2021-08-01,Tver Oblast,46
+2021-08-01,Republic of Buryatia,65
+2021-08-01,Voronezh Oblast,51
+2021-08-01,Smolensk Oblast,60
+2021-08-01,Komi Republic,84
+2021-08-01,Kirov Oblast,52
+2021-08-01,City of Saint Petersburg,58
+2021-08-01,Altai Krai,43
+2021-08-01,Tula Oblast,41
+2021-08-01,Volgograd Oblast,78
+2021-08-01,Krasnoyarsk Krai,47
+2021-08-01,Chuvash Republic — Chuvashia,64
+2021-08-01,Novosibirsk Oblast,55
+2021-08-01,Penza Oblast,46
+2021-08-01,Arkhangelsk Oblast,61
+2021-08-01,Altai Republic,60
+2021-08-01,Republic of Bashkortostan,51
+2021-08-01,Tomsk Oblast,48
+2021-08-01,Perm Krai,45
+2021-08-01,Kamchatka Krai,31
+2021-08-01,Nizhny Novgorod Oblast,59
+2021-08-01,Udmurt Republic,47
+2021-08-01,Mari El Republic,49
+2021-08-01,Pskov Oblast,46
+2021-08-01,Oryol Oblast,50
+2021-08-01,Saratov Oblast,44
+2021-08-01,Chukotka Autonomous Okrug,28
+2021-08-01,Chechen Republic,78
+2021-08-01,Belgorod Oblast,39
+2021-08-01,Republic of North Ossetia–Alania,24
+2021-08-01,Karachay-Cherkess Republic,36
+2021-08-01,Jewish Autonomous Oblast,83
+2021-08-01,Moscow,48
+2021-08-01,Republic of Tuva,35
+2021-08-01,Khabarovsk Krai,69
+2021-08-01,Kemerovo Oblast,54
+2021-08-01,Zabaykalsky Krai,44
+2021-08-01,Kostroma Oblast,54
+2021-08-01,Republic of Kalmykia,35
+2021-08-01,Ivanovo Oblast,43
+2021-08-01,Kursk Oblast,34
+2021-08-01,Republic of Karelia,41
+2021-08-01,Ryazan Oblast,49
+2021-08-01,Nenets Autonomous Okrug,84
+2021-08-01,Yaroslavl Oblast,62
+2021-08-01,Ulyanovsk Oblast,47
+2021-08-01,Sverdlovsk Oblast,60
+2021-08-01,Krasnodar Krai,39
+2021-08-01,Omsk Oblast,53
+2021-08-01,Republic of Tatarstan,47
+2021-08-01,Orenburg Oblast,41
+2021-08-01,Kaluga Oblast,67
+2021-08-01,Khanty-Mansi Autonomous Okrug–Yugra,60
+2021-08-01,Amur Oblast,64
+2021-08-01,Rostov Oblast,43
+2021-08-01,Astrakhan Oblast,58
+2021-08-01,Republic of Dagestan,44
+2021-08-01,Chelyabinsk Oblast,50
+2021-03-01,Republic of Adygea,24
+2021-02-01,Republic of Adygea,39
+2021-01-01,Republic of Adygea,41
+2020-12-01,Republic of Adygea,54
+2020-11-01,Republic of Adygea,46
+2020-10-01,Republic of Adygea,39
+2020-09-01,Republic of Adygea,35
+2020-08-01,Republic of Adygea,37
+2020-07-01,Republic of Adygea,31
+2020-06-01,Republic of Adygea,14
+2020-05-01,Republic of Adygea,39
+2020-04-01,Republic of Adygea,23
+2020-03-01,Republic of Adygea,23
+2020-02-01,Republic of Adygea,32
+2020-01-01,Republic of Adygea,30
+2019-12-01,Republic of Adygea,16
+2019-11-01,Republic of Adygea,41
+2019-10-01,Republic of Adygea,28
+2019-09-01,Republic of Adygea,22
+2019-08-01,Republic of Adygea,30
+2019-07-01,Republic of Adygea,40
+2019-06-01,Republic of Adygea,13
+2019-05-01,Republic of Adygea,50
+2019-04-01,Republic of Adygea,26
+2019-03-01,Republic of Adygea,52
+2019-02-01,Republic of Adygea,27
+2019-01-01,Republic of Adygea,61
+2021-04-01,Republic of Sakha (Yakutia),40
+2021-03-01,Republic of Sakha (Yakutia),41
+2021-02-01,Republic of Sakha (Yakutia),41
+2021-01-01,Republic of Sakha (Yakutia),49
+2020-12-01,Republic of Sakha (Yakutia),34
+2020-11-01,Republic of Sakha (Yakutia),39
+2019-01-01,Republic of Sakha (Yakutia),41
+2021-04-01,Leningrad Oblast,45
+2021-03-01,Leningrad Oblast,45
+2021-02-01,Leningrad Oblast,49
+2021-01-01,Leningrad Oblast,61
+2020-12-01,Leningrad Oblast,51
+2020-11-01,Leningrad Oblast,52
+2020-10-01,Leningrad Oblast,60
+2020-09-01,Leningrad Oblast,72
+2020-08-01,Leningrad Oblast,68
+2020-07-01,Leningrad Oblast,70
+2020-06-01,Leningrad Oblast,76
+2020-05-01,Leningrad Oblast,69
+2020-04-01,Leningrad Oblast,61
+2020-03-01,Leningrad Oblast,64
+2020-02-01,Leningrad Oblast,69
+2020-01-01,Leningrad Oblast,70
+2019-12-01,Leningrad Oblast,56
+2019-11-01,Leningrad Oblast,63
+2019-10-01,Leningrad Oblast,57
+2019-09-01,Leningrad Oblast,53
+2019-08-01,Leningrad Oblast,64
+2019-07-01,Leningrad Oblast,64
+2019-06-01,Leningrad Oblast,59
+2019-05-01,Leningrad Oblast,54
+2019-04-01,Leningrad Oblast,59
+2019-03-01,Leningrad Oblast,67
+2019-02-01,Leningrad Oblast,58
+2019-01-01,Leningrad Oblast,55
+2021-04-01,Astrakhan Oblast,48
+2021-03-01,Astrakhan Oblast,48
+2021-02-01,Astrakhan Oblast,46
+2021-01-01,Astrakhan Oblast,56
+2020-12-01,Astrakhan Oblast,62
+2020-11-01,Astrakhan Oblast,48
+2020-10-01,Astrakhan Oblast,47
+2020-09-01,Astrakhan Oblast,64
+2020-08-01,Astrakhan Oblast,53
+2020-07-01,Astrakhan Oblast,81
+2020-06-01,Astrakhan Oblast,64
+2020-05-01,Astrakhan Oblast,70
+2020-04-01,Astrakhan Oblast,55
+2020-03-01,Astrakhan Oblast,67
+2020-02-01,Astrakhan Oblast,51
+2020-01-01,Astrakhan Oblast,74
+2019-12-01,Astrakhan Oblast,62
+2019-11-01,Astrakhan Oblast,72
+2019-10-01,Astrakhan Oblast,59
+2019-09-01,Astrakhan Oblast,66
+2019-08-01,Astrakhan Oblast,75
+2019-07-01,Astrakhan Oblast,57
+2019-06-01,Astrakhan Oblast,54
+2019-05-01,Astrakhan Oblast,41
+2019-04-01,Astrakhan Oblast,64
+2019-03-01,Astrakhan Oblast,48
+2019-02-01,Astrakhan Oblast,74
+2019-01-01,Astrakhan Oblast,55
+2021-04-01,Tver Oblast,43
+2021-03-01,Tver Oblast,53
+2021-02-01,Tver Oblast,50
+2021-01-01,Tver Oblast,62
+2020-12-01,Tver Oblast,47
+2020-11-01,Tver Oblast,61
+2020-10-01,Tver Oblast,57
+2020-09-01,Tver Oblast,50
+2020-08-01,Tver Oblast,66
+2020-07-01,Tver Oblast,53
+2020-06-01,Tver Oblast,58
+2020-05-01,Tver Oblast,51
+2020-04-01,Tver Oblast,46
+2020-03-01,Tver Oblast,57
+2020-02-01,Tver Oblast,59
+2020-01-01,Tver Oblast,61
+2019-12-01,Tver Oblast,49
+2019-11-01,Tver Oblast,46
+2019-10-01,Tver Oblast,57
+2019-09-01,Tver Oblast,61
+2019-08-01,Tver Oblast,64
+2019-07-01,Tver Oblast,59
+2019-06-01,Tver Oblast,61
+2019-05-01,Tver Oblast,66
+2019-04-01,Tver Oblast,61
+2019-03-01,Tver Oblast,76
+2019-02-01,Tver Oblast,71
+2019-01-01,Tver Oblast,58
+2021-04-01,Republic of Buryatia,61
+2021-03-01,Republic of Buryatia,47
+2021-02-01,Republic of Buryatia,60
+2021-01-01,Republic of Buryatia,67
+2020-12-01,Republic of Buryatia,59
+2020-11-01,Republic of Buryatia,60
+2020-10-01,Republic of Buryatia,68
+2020-09-01,Republic of Buryatia,71
+2020-08-01,Republic of Buryatia,70
+2020-07-01,Republic of Buryatia,77
+2020-06-01,Republic of Buryatia,69
+2020-05-01,Republic of Buryatia,77
+2020-04-01,Republic of Buryatia,84
+2020-03-01,Republic of Buryatia,81
+2020-02-01,Republic of Buryatia,89
+2020-01-01,Republic of Buryatia,83
+2019-12-01,Republic of Buryatia,81
+2019-11-01,Republic of Buryatia,85
+2019-10-01,Republic of Buryatia,70
+2019-09-01,Republic of Buryatia,80
+2019-08-01,Republic of Buryatia,78
+2019-07-01,Republic of Buryatia,73
+2019-06-01,Republic of Buryatia,60
+2019-05-01,Republic of Buryatia,65
+2019-04-01,Republic of Buryatia,68
+2019-03-01,Republic of Buryatia,62
+2019-02-01,Republic of Buryatia,58
+2019-01-01,Republic of Buryatia,52
+2021-04-01,Voronezh Oblast,48
+2021-03-01,Voronezh Oblast,48
+2021-02-01,Voronezh Oblast,46
+2021-01-01,Voronezh Oblast,57
+2020-12-01,Voronezh Oblast,52
+2020-11-01,Voronezh Oblast,50
+2020-10-01,Voronezh Oblast,55
+2020-09-01,Voronezh Oblast,56
+2020-08-01,Voronezh Oblast,51
+2020-07-01,Voronezh Oblast,53
+2020-06-01,Voronezh Oblast,53
+2020-05-01,Voronezh Oblast,50
+2020-04-01,Voronezh Oblast,48
+2020-03-01,Voronezh Oblast,51
+2020-02-01,Voronezh Oblast,50
+2020-01-01,Voronezh Oblast,50
+2019-12-01,Voronezh Oblast,45
+2019-11-01,Voronezh Oblast,47
+2019-10-01,Voronezh Oblast,42
+2019-09-01,Voronezh Oblast,42
+2019-08-01,Voronezh Oblast,50
+2019-07-01,Voronezh Oblast,47
+2019-06-01,Voronezh Oblast,53
+2019-05-01,Voronezh Oblast,45
+2019-04-01,Voronezh Oblast,44
+2019-03-01,Voronezh Oblast,55
+2019-02-01,Voronezh Oblast,57
+2019-01-01,Voronezh Oblast,56
+2021-04-01,Ryazan Oblast,50
+2021-03-01,Ryazan Oblast,52
+2021-02-01,Ryazan Oblast,55
+2021-01-01,Ryazan Oblast,55
+2020-12-01,Ryazan Oblast,60
+2020-11-01,Ryazan Oblast,67
+2020-10-01,Ryazan Oblast,61
+2020-09-01,Ryazan Oblast,71
+2020-08-01,Ryazan Oblast,70
+2020-07-01,Ryazan Oblast,69
+2020-06-01,Ryazan Oblast,76
+2020-05-01,Ryazan Oblast,85
+2020-04-01,Ryazan Oblast,70
+2020-03-01,Ryazan Oblast,72
+2020-02-01,Ryazan Oblast,79
+2020-01-01,Ryazan Oblast,65
+2019-12-01,Ryazan Oblast,53
+2019-11-01,Ryazan Oblast,60
+2019-10-01,Ryazan Oblast,59
+2019-09-01,Ryazan Oblast,60
+2019-08-01,Ryazan Oblast,72
+2019-07-01,Ryazan Oblast,66
+2019-06-01,Ryazan Oblast,59
+2019-05-01,Ryazan Oblast,56
+2019-04-01,Ryazan Oblast,70
+2019-03-01,Ryazan Oblast,60
+2019-02-01,Ryazan Oblast,54
+2019-01-01,Ryazan Oblast,58
+2021-04-01,Smolensk Oblast,66
+2021-03-01,Smolensk Oblast,61
+2021-02-01,Smolensk Oblast,59
+2021-01-01,Smolensk Oblast,59
+2020-12-01,Smolensk Oblast,54
+2020-11-01,Smolensk Oblast,62
+2020-10-01,Smolensk Oblast,64
+2020-09-01,Smolensk Oblast,64
+2020-08-01,Smolensk Oblast,72
+2020-07-01,Smolensk Oblast,73
+2020-06-01,Smolensk Oblast,61
+2020-05-01,Smolensk Oblast,60
+2020-04-01,Smolensk Oblast,45
+2020-03-01,Smolensk Oblast,61
+2021-05-01,Yaroslavl Oblast,52
+2021-05-01,Jewish Autonomous Oblast,40
+2021-05-01,Kemerovo Oblast,46
+2021-05-01,Perm Krai,43
+2021-05-01,Vologda Oblast,53
+2021-05-01,Orenburg Oblast,47
+2021-05-01,Republic of Tuva,34
+2021-05-01,Moscow,48
+2021-05-01,Republic of North Ossetia–Alania,23
+2021-05-01,Novosibirsk Oblast,53
+2021-05-01,Chukotka Autonomous Okrug,29
+2021-05-01,Republic of Tatarstan,43
+2021-05-01,Kaluga Oblast,60
+2021-05-01,Yamalo-Nenets Autonomous Okrug,38
+2021-05-01,Nizhny Novgorod Oblast,49
+2021-05-01,Republic of Kalmykia,37
+2021-05-01,Republic of Karelia,39
+2021-05-01,Republic of Khakassia,41
+2021-05-01,Ivanovo Oblast,36
+2021-05-01,Tyumen Oblast,90
+2021-05-01,Udmurt Republic,46
+2021-05-01,Stavropol Krai,35
+2021-05-01,Krasnodar Krai,39
+2021-05-01,Rostov Oblast,43
+2021-05-01,Kaliningrad Oblast,56
+2021-05-01,Sverdlovsk Oblast,55
+2021-05-01,Kabardino-Balkarian Republic,33
+2021-05-01,Kursk Oblast,28
+2021-05-01,Khabarovsk Krai,56
+2021-05-01,Republic of Mordovia,45
+2021-05-01,Zabaykalsky Krai,43
+2021-05-01,Khanty-Mansi Autonomous Okrug–Yugra,59
+2021-05-01,Novgorod Oblast,46
+2021-05-01,Belgorod Oblast,37
+2021-05-01,Bryansk Oblast,57
+2021-05-01,Pskov Oblast,40
+2021-05-01,Sakhalin Oblast,40
+2021-05-01,Magadan Oblast,59
+2021-05-01,Lipetsk Oblast,42
+2021-05-01,Oryol Oblast,38
+2021-05-01,Astrakhan Oblast,43
+2021-05-01,Saratov Oblast,42
+2021-05-01,Penza Oblast,46
+2021-05-01,Arkhangelsk Oblast,49
+2021-05-01,Amur Oblast,52
+2021-05-01,Irkutsk Oblast,44
+2021-05-01,Nenets Autonomous Okrug,84
+2021-05-01,Karachay-Cherkess Republic,42
+2021-05-01,Republic of Ingushetia,24
+2021-05-01,Primorsky Krai,32
+2021-05-01,Samara Oblast,43
+2021-05-01,Mari El Republic,45
+2021-05-01,Kamchatka Krai,31
+2021-05-01,Tambov Oblast,48
+2021-05-01,Altai Republic,21
+2021-05-01,Republic of Bashkortostan,48
+2021-05-01,Tomsk Oblast,49
+2021-05-01,Leningrad Oblast,42
+2021-05-01,Russia,48
+2021-04-01,Chechen Republic,25
+2021-03-01,Chechen Republic,36
+2021-02-01,Chechen Republic,54
+2021-01-01,Chechen Republic,58
+2020-12-01,Chechen Republic,55
+2020-11-01,Chechen Republic,66
+2020-10-01,Chechen Republic,68
+2020-09-01,Chechen Republic,58
+2020-08-01,Chechen Republic,71
+2020-07-01,Chechen Republic,53
+2020-06-01,Chechen Republic,70
+2020-05-01,Chechen Republic,50
+2020-04-01,Chechen Republic,14
+2020-03-01,Chechen Republic,45
+2020-02-01,Chechen Republic,42
+2020-01-01,Chechen Republic,256
+2019-12-01,Chechen Republic,28
+2019-11-01,Chechen Republic,11
+2019-10-01,Chechen Republic,11
+2019-09-01,Chechen Republic,9
+2021-04-01,Nenets Autonomous Okrug,60
+2021-03-01,Nenets Autonomous Okrug,49
+2021-02-01,Nenets Autonomous Okrug,84
+2021-01-01,Nenets Autonomous Okrug,65
+2020-12-01,Nenets Autonomous Okrug,78
+2020-11-01,Nenets Autonomous Okrug,134
+2020-10-01,Nenets Autonomous Okrug,25
+2020-09-01,Nenets Autonomous Okrug,86
+2020-08-01,Nenets Autonomous Okrug,63
+2020-07-01,Nenets Autonomous Okrug,113
+2020-06-01,Nenets Autonomous Okrug,50
+2020-05-01,Nenets Autonomous Okrug,46
+2020-04-01,Nenets Autonomous Okrug,74
+2020-03-01,Nenets Autonomous Okrug,63
+2020-02-01,Nenets Autonomous Okrug,21
+2020-01-01,Nenets Autonomous Okrug,45
+2019-12-01,Nenets Autonomous Okrug,41
+2019-11-01,Nenets Autonomous Okrug,14
+2019-10-01,Nenets Autonomous Okrug,16
+2019-08-01,Nenets Autonomous Okrug,33
+2019-07-01,Nenets Autonomous Okrug,78
+2019-05-01,Nenets Autonomous Okrug,30
+2019-04-01,Nenets Autonomous Okrug,45
+2021-04-01,Republic of Dagestan,30
+2021-03-01,Republic of Dagestan,43
+2021-02-01,Republic of Dagestan,36
+2021-01-01,Republic of Dagestan,46
+2020-12-01,Republic of Dagestan,30
+2020-02-01,Smolensk Oblast,50
+2020-01-01,Smolensk Oblast,62
+2019-12-01,Smolensk Oblast,54
+2019-11-01,Smolensk Oblast,58
+2019-10-01,Smolensk Oblast,52
+2019-09-01,Smolensk Oblast,47
+2019-08-01,Smolensk Oblast,62
+2019-07-01,Smolensk Oblast,68
+2019-06-01,Smolensk Oblast,66
+2019-05-01,Smolensk Oblast,52
+2019-04-01,Smolensk Oblast,67
+2019-03-01,Smolensk Oblast,66
+2019-02-01,Smolensk Oblast,65
+2019-01-01,Smolensk Oblast,74
+2021-04-01,Kaliningrad Oblast,44
+2021-03-01,Kaliningrad Oblast,37
+2021-02-01,Kaliningrad Oblast,45
+2021-01-01,Kaliningrad Oblast,58
+2020-12-01,Kaliningrad Oblast,62
+2020-11-01,Kaliningrad Oblast,60
+2020-10-01,Kaliningrad Oblast,52
+2020-09-01,Kaliningrad Oblast,73
+2020-08-01,Kaliningrad Oblast,53
+2020-07-01,Kaliningrad Oblast,58
+2020-06-01,Kaliningrad Oblast,53
+2020-05-01,Kaliningrad Oblast,73
+2020-04-01,Kaliningrad Oblast,75
+2020-03-01,Kaliningrad Oblast,43
+2020-02-01,Kaliningrad Oblast,47
+2020-01-01,Kaliningrad Oblast,52
+2019-12-01,Kaliningrad Oblast,61
+2019-11-01,Kaliningrad Oblast,62
+2019-10-01,Kaliningrad Oblast,58
+2019-07-01,Republic of Ingushetia,0
+2019-06-01,Republic of Ingushetia,0
+2019-05-01,Republic of Ingushetia,0
+2019-04-01,Republic of Ingushetia,0
+2019-03-01,Republic of Ingushetia,0
+2019-02-01,Republic of Ingushetia,0
+2019-01-01,Republic of Ingushetia,0
+2021-04-01,Saratov Oblast,41
+2021-03-01,Saratov Oblast,54
+2021-02-01,Saratov Oblast,50
+2021-01-01,Saratov Oblast,65
+2020-12-01,Saratov Oblast,49
+2020-11-01,Saratov Oblast,49
+2020-10-01,Saratov Oblast,48
+2020-09-01,Saratov Oblast,45
+2020-08-01,Saratov Oblast,47
+2020-07-01,Saratov Oblast,60
+2020-06-01,Saratov Oblast,52
+2020-05-01,Saratov Oblast,55
+2020-04-01,Saratov Oblast,57
+2020-03-01,Saratov Oblast,43
+2020-02-01,Saratov Oblast,51
+2020-01-01,Saratov Oblast,49
+2019-12-01,Saratov Oblast,55
+2019-11-01,Saratov Oblast,50
+2019-10-01,Saratov Oblast,50
+2019-09-01,Saratov Oblast,55
+2019-08-01,Saratov Oblast,65
+2019-07-01,Saratov Oblast,43
+2019-06-01,Saratov Oblast,53
+2019-05-01,Saratov Oblast,51
+2019-04-01,Saratov Oblast,53
+2019-03-01,Saratov Oblast,56
+2019-02-01,Saratov Oblast,61
+2019-01-01,Saratov Oblast,57
+2021-04-01,Omsk Oblast,52
+2021-03-01,Omsk Oblast,48
+2021-02-01,Omsk Oblast,52
+2021-01-01,Omsk Oblast,55
+2020-12-01,Omsk Oblast,56
+2020-11-01,Omsk Oblast,58
+2020-10-01,Omsk Oblast,67
+2020-09-01,Omsk Oblast,67
+2020-08-01,Omsk Oblast,72
+2020-07-01,Omsk Oblast,68
+2020-06-01,Omsk Oblast,69
+2020-05-01,Omsk Oblast,70
+2020-04-01,Omsk Oblast,67
+2020-03-01,Omsk Oblast,66
+2020-02-01,Omsk Oblast,64
+2020-01-01,Omsk Oblast,77
+2019-12-01,Omsk Oblast,63
+2019-11-01,Omsk Oblast,57
+2019-10-01,Omsk Oblast,57
+2019-09-01,Omsk Oblast,62
+2019-08-01,Omsk Oblast,70
+2019-07-01,Omsk Oblast,64
+2019-06-01,Omsk Oblast,60
+2019-05-01,Omsk Oblast,57
+2019-04-01,Omsk Oblast,62
+2019-03-01,Omsk Oblast,66
+2019-02-01,Omsk Oblast,73
+2019-01-01,Omsk Oblast,60
+2021-04-01,Chelyabinsk Oblast,52
+2021-03-01,Chelyabinsk Oblast,54
+2021-02-01,Chelyabinsk Oblast,52
+2021-01-01,Chelyabinsk Oblast,63
+2020-12-01,Chelyabinsk Oblast,52
+2020-11-01,Chelyabinsk Oblast,60
+2020-10-01,Chelyabinsk Oblast,60
+2020-09-01,Chelyabinsk Oblast,54
+2020-08-01,Chelyabinsk Oblast,61
+2020-07-01,Chelyabinsk Oblast,62
+2020-06-01,Chelyabinsk Oblast,63
+2020-05-01,Chelyabinsk Oblast,65
+2020-04-01,Chelyabinsk Oblast,61
+2020-03-01,Chelyabinsk Oblast,59
+2020-02-01,Chelyabinsk Oblast,56
+2020-01-01,Chelyabinsk Oblast,69
+2019-12-01,Chelyabinsk Oblast,50
+2019-11-01,Chelyabinsk Oblast,52
+2019-10-01,Chelyabinsk Oblast,56
+2019-09-01,Chelyabinsk Oblast,60
+2019-08-01,Chelyabinsk Oblast,56
+2019-07-01,Chelyabinsk Oblast,64
+2019-06-01,Chelyabinsk Oblast,60
+2019-05-01,Chelyabinsk Oblast,54
+2019-04-01,Chelyabinsk Oblast,59
+2019-03-01,Chelyabinsk Oblast,59
+2019-02-01,Chelyabinsk Oblast,46
+2019-01-01,Chelyabinsk Oblast,49
+2021-04-01,Ulyanovsk Oblast,53
+2021-03-01,Ulyanovsk Oblast,51
+2021-02-01,Ulyanovsk Oblast,53
+2021-01-01,Ulyanovsk Oblast,66
+2020-12-01,Ulyanovsk Oblast,55
+2020-11-01,Ulyanovsk Oblast,56
+2020-10-01,Ulyanovsk Oblast,56
+2020-09-01,Ulyanovsk Oblast,59
+2020-08-01,Ulyanovsk Oblast,65
+2020-07-01,Ulyanovsk Oblast,65
+2020-06-01,Ulyanovsk Oblast,62
+2020-05-01,Ulyanovsk Oblast,72
+2020-04-01,Ulyanovsk Oblast,54
+2020-03-01,Ulyanovsk Oblast,54
+2020-02-01,Ulyanovsk Oblast,67
+2020-01-01,Ulyanovsk Oblast,66
+2019-12-01,Ulyanovsk Oblast,55
+2019-11-01,Ulyanovsk Oblast,57
+2019-10-01,Ulyanovsk Oblast,50
+2019-09-01,Ulyanovsk Oblast,58
+2019-08-01,Ulyanovsk Oblast,63
+2019-07-01,Ulyanovsk Oblast,68
+2019-06-01,Ulyanovsk Oblast,53
+2019-05-01,Ulyanovsk Oblast,53
+2019-04-01,Ulyanovsk Oblast,43
+2019-03-01,Ulyanovsk Oblast,57
+2019-02-01,Ulyanovsk Oblast,52
+2019-01-01,Ulyanovsk Oblast,68
+2021-04-01,Komi Republic,80
+2021-03-01,Komi Republic,75
+2021-02-01,Komi Republic,79
+2021-01-01,Komi Republic,88
+2020-12-01,Komi Republic,87
+2020-11-01,Komi Republic,88
+2020-10-01,Komi Republic,84
+2020-09-01,Komi Republic,87
+2020-08-01,Komi Republic,74
+2020-07-01,Komi Republic,81
+2020-06-01,Komi Republic,86
+2020-05-01,Komi Republic,111
+2020-04-01,Komi Republic,75
+2020-03-01,Komi Republic,71
+2020-02-01,Komi Republic,73
+2020-01-01,Komi Republic,76
+2019-12-01,Komi Republic,68
+2019-11-01,Komi Republic,62
+2019-10-01,Komi Republic,61
+2019-09-01,Komi Republic,72
+2019-08-01,Komi Republic,75
+2019-07-01,Komi Republic,69
+2019-06-01,Komi Republic,64
+2019-05-01,Komi Republic,49
+2019-04-01,Komi Republic,60
+2019-03-01,Komi Republic,70
+2019-02-01,Komi Republic,65
+2019-01-01,Komi Republic,81
+2021-04-01,Kirov Oblast,52
+2021-03-01,Kirov Oblast,61
+2021-02-01,Kirov Oblast,59
+2021-01-01,Kirov Oblast,72
+2020-12-01,Kirov Oblast,57
+2020-11-01,Kirov Oblast,66
+2020-10-01,Kirov Oblast,65
+2020-09-01,Kirov Oblast,68
+2020-08-01,Kirov Oblast,60
+2020-07-01,Kirov Oblast,65
+2020-06-01,Kirov Oblast,63
+2020-05-01,Kirov Oblast,62
+2020-04-01,Kirov Oblast,60
+2020-03-01,Kirov Oblast,57
+2020-02-01,Kirov Oblast,61
+2020-01-01,Kirov Oblast,66
+2019-12-01,Kirov Oblast,48
+2019-11-01,Kirov Oblast,61
+2019-10-01,Kirov Oblast,60
+2019-09-01,Kirov Oblast,65
+2019-08-01,Kirov Oblast,61
+2019-07-01,Kirov Oblast,60
+2019-06-01,Kirov Oblast,49
+2019-05-01,Kirov Oblast,57
+2019-04-01,Kirov Oblast,55
+2019-03-01,Kirov Oblast,51
+2019-02-01,Kirov Oblast,54
+2019-01-01,Kirov Oblast,52
+2021-04-01,Kostroma Oblast,63
+2021-03-01,Kostroma Oblast,56
+2021-02-01,Kostroma Oblast,64
+2021-01-01,Kostroma Oblast,81
+2020-12-01,Kostroma Oblast,66
+2020-11-01,Kostroma Oblast,65
+2020-10-01,Kostroma Oblast,63
+2020-09-01,Kostroma Oblast,77
+2020-10-01,Republic of Sakha (Yakutia),43
+2020-09-01,Republic of Sakha (Yakutia),35
+2020-08-01,Republic of Sakha (Yakutia),42
+2020-07-01,Republic of Sakha (Yakutia),36
+2020-06-01,Republic of Sakha (Yakutia),39
+2020-05-01,Republic of Sakha (Yakutia),48
+2020-04-01,Republic of Sakha (Yakutia),31
+2020-03-01,Republic of Sakha (Yakutia),38
+2020-02-01,Republic of Sakha (Yakutia),38
+2020-01-01,Republic of Sakha (Yakutia),39
+2019-12-01,Republic of Sakha (Yakutia),40
+2019-11-01,Republic of Sakha (Yakutia),39
+2019-10-01,Republic of Sakha (Yakutia),34
+2019-09-01,Republic of Sakha (Yakutia),40
+2019-08-01,Republic of Sakha (Yakutia),49
+2019-07-01,Republic of Sakha (Yakutia),42
+2019-06-01,Republic of Sakha (Yakutia),41
+2019-05-01,Republic of Sakha (Yakutia),34
+2019-04-01,Republic of Sakha (Yakutia),31
+2019-03-01,Republic of Sakha (Yakutia),41
+2019-02-01,Republic of Sakha (Yakutia),33
+2020-08-01,Kostroma Oblast,73
+2020-07-01,Kostroma Oblast,67
+2020-06-01,Kostroma Oblast,57
+2020-05-01,Kostroma Oblast,58
+2020-04-01,Kostroma Oblast,49
+2020-03-01,Kostroma Oblast,57
+2020-02-01,Kostroma Oblast,60
+2020-01-01,Kostroma Oblast,72
+2019-12-01,Kostroma Oblast,66
+2019-11-01,Kostroma Oblast,55
+2019-10-01,Kostroma Oblast,52
+2019-09-01,Kostroma Oblast,59
+2019-08-01,Kostroma Oblast,53
+2019-07-01,Kostroma Oblast,60
+2019-06-01,Kostroma Oblast,47
+2019-05-01,Kostroma Oblast,46
+2019-04-01,Kostroma Oblast,53
+2019-03-01,Kostroma Oblast,58
+2019-02-01,Kostroma Oblast,56
+2019-01-01,Kostroma Oblast,52
+2021-04-01,Tomsk Oblast,42
+2021-03-01,Tomsk Oblast,38
+2021-02-01,Tomsk Oblast,41
+2021-01-01,Tomsk Oblast,41
+2020-12-01,Tomsk Oblast,51
+2020-11-01,Tomsk Oblast,42
+2020-10-01,Tomsk Oblast,43
+2020-09-01,Tomsk Oblast,47
+2020-08-01,Tomsk Oblast,46
+2020-07-01,Tomsk Oblast,48
+2020-06-01,Tomsk Oblast,59
+2020-05-01,Tomsk Oblast,67
+2020-04-01,Tomsk Oblast,51
+2019-09-01,Tomsk Oblast,46
+2019-08-01,Tomsk Oblast,44
+2019-07-01,Tomsk Oblast,50
+2019-06-01,Tomsk Oblast,49
+2019-05-01,Tomsk Oblast,64
+2019-04-01,Tomsk Oblast,50
+2019-03-01,Tomsk Oblast,49
+2019-02-01,Tomsk Oblast,47
+2019-01-01,Tomsk Oblast,43
+2021-04-01,Tambov Oblast,45
+2021-03-01,Tambov Oblast,59
+2021-02-01,Tambov Oblast,44
+2021-01-01,Tambov Oblast,60
+2020-12-01,Tambov Oblast,44
+2020-11-01,Tambov Oblast,54
+2020-10-01,Tambov Oblast,48
+2020-09-01,Tambov Oblast,45
+2020-08-01,Tambov Oblast,55
+2020-07-01,Tambov Oblast,67
+2020-06-01,Tambov Oblast,52
+2020-05-01,Tambov Oblast,51
+2020-04-01,Tambov Oblast,49
+2020-03-01,Tambov Oblast,55
+2020-02-01,Tambov Oblast,70
+2020-01-01,Tambov Oblast,60
+2019-12-01,Tambov Oblast,46
+2019-11-01,Tambov Oblast,50
+2019-10-01,Tambov Oblast,48
+2019-09-01,Tambov Oblast,61
+2019-08-01,Tambov Oblast,61
+2019-07-01,Tambov Oblast,62
+2019-06-01,Tambov Oblast,77
+2019-05-01,Tambov Oblast,43
+2019-04-01,Tambov Oblast,32
+2019-03-01,Tambov Oblast,67
+2019-02-01,Tambov Oblast,101
+2019-01-01,Tambov Oblast,71
+2021-04-01,Amur Oblast,49
+2021-03-01,Amur Oblast,51
+2021-02-01,Amur Oblast,41
+2021-01-01,Amur Oblast,61
+2020-12-01,Amur Oblast,51
+2020-11-01,Amur Oblast,56
+2020-10-01,Amur Oblast,54
+2020-09-01,Amur Oblast,56
+2020-08-01,Amur Oblast,52
+2020-07-01,Amur Oblast,48
+2020-06-01,Amur Oblast,66
+2020-05-01,Amur Oblast,50
+2020-04-01,Amur Oblast,54
+2020-03-01,Amur Oblast,61
+2020-02-01,Amur Oblast,69
+2020-01-01,Amur Oblast,65
+2019-12-01,Amur Oblast,52
+2019-11-01,Amur Oblast,44
+2019-10-01,Amur Oblast,53
+2019-09-01,Amur Oblast,60
+2019-08-01,Amur Oblast,62
+2019-07-01,Amur Oblast,59
+2019-06-01,Amur Oblast,48
+2019-05-01,Amur Oblast,55
+2019-04-01,Amur Oblast,50
+2019-03-01,Amur Oblast,54
+2019-02-01,Amur Oblast,49
+2019-01-01,Amur Oblast,64
+2021-04-01,City of Saint Petersburg,49
+2021-03-01,City of Saint Petersburg,48
+2021-02-01,City of Saint Petersburg,53
+2021-01-01,City of Saint Petersburg,58
+2020-12-01,City of Saint Petersburg,51
+2020-11-01,City of Saint Petersburg,55
+2020-10-01,City of Saint Petersburg,64
+2020-09-01,City of Saint Petersburg,71
+2020-08-01,City of Saint Petersburg,70
+2020-07-01,City of Saint Petersburg,67
+2020-06-01,City of Saint Petersburg,67
+2020-05-01,City of Saint Petersburg,62
+2020-04-01,City of Saint Petersburg,62
+2020-03-01,City of Saint Petersburg,60
+2020-02-01,City of Saint Petersburg,62
+2020-01-01,City of Saint Petersburg,69
+2019-12-01,City of Saint Petersburg,54
+2019-11-01,City of Saint Petersburg,51
+2019-10-01,City of Saint Petersburg,52
+2019-09-01,City of Saint Petersburg,55
+2019-08-01,City of Saint Petersburg,61
+2019-07-01,City of Saint Petersburg,57
+2019-06-01,City of Saint Petersburg,55
+2019-05-01,City of Saint Petersburg,50
+2019-04-01,City of Saint Petersburg,47
+2019-03-01,City of Saint Petersburg,60
+2019-02-01,City of Saint Petersburg,55
+2019-01-01,City of Saint Petersburg,58
+2021-04-01,Altai Krai,38
+2021-03-01,Altai Krai,35
+2021-02-01,Altai Krai,33
+2021-01-01,Altai Krai,39
+2020-12-01,Altai Krai,38
+2020-11-01,Altai Krai,47
+2020-10-01,Altai Krai,42
+2020-09-01,Altai Krai,43
+2020-08-01,Altai Krai,44
+2020-07-01,Altai Krai,45
+2020-06-01,Altai Krai,42
+2020-05-01,Altai Krai,40
+2020-04-01,Altai Krai,48
+2020-03-01,Altai Krai,42
+2020-02-01,Altai Krai,38
+2020-01-01,Altai Krai,53
+2019-12-01,Altai Krai,40
+2019-11-01,Altai Krai,47
+2019-10-01,Altai Krai,44
+2019-09-01,Altai Krai,40
+2019-08-01,Altai Krai,49
+2019-07-01,Altai Krai,45
+2019-06-01,Altai Krai,44
+2019-05-01,Altai Krai,43
+2019-04-01,Altai Krai,48
+2019-03-01,Altai Krai,40
+2019-02-01,Altai Krai,39
+2019-01-01,Altai Krai,41
+2021-04-01,Kurgan Oblast,67
+2021-03-01,Kurgan Oblast,60
+2021-02-01,Kurgan Oblast,62
+2021-01-01,Kurgan Oblast,85
+2020-12-01,Kurgan Oblast,63
+2020-11-01,Kurgan Oblast,79
+2020-10-01,Kurgan Oblast,77
+2020-09-01,Kurgan Oblast,79
+2020-08-01,Kurgan Oblast,69
+2020-07-01,Kurgan Oblast,73
+2020-06-01,Kurgan Oblast,74
+2020-05-01,Kurgan Oblast,100
+2020-04-01,Kurgan Oblast,76
+2020-03-01,Kurgan Oblast,76
+2020-02-01,Kurgan Oblast,77
+2020-01-01,Kurgan Oblast,70
+2019-12-01,Kurgan Oblast,69
+2019-11-01,Kurgan Oblast,58
+2019-10-01,Kurgan Oblast,64
+2019-09-01,Kurgan Oblast,88
+2019-08-01,Kurgan Oblast,72
+2019-07-01,Kurgan Oblast,62
+2019-06-01,Kurgan Oblast,76
+2019-05-01,Kurgan Oblast,60
+2019-04-01,Kurgan Oblast,74
+2019-03-01,Kurgan Oblast,73
+2019-02-01,Kurgan Oblast,54
+2019-01-01,Kurgan Oblast,64
+2021-04-01,Tula Oblast,43
+2021-03-01,Tula Oblast,42
+2021-02-01,Tula Oblast,40
+2021-01-01,Tula Oblast,55
+2020-12-01,Tula Oblast,43
+2020-11-01,Tula Oblast,47
+2020-10-01,Tula Oblast,41
+2020-09-01,Tula Oblast,46
+2020-08-01,Tula Oblast,47
+2020-07-01,Tula Oblast,52
+2020-06-01,Tula Oblast,56
+2020-05-01,Tula Oblast,54
+2020-04-01,Tula Oblast,42
+2020-03-01,Tula Oblast,53
+2020-02-01,Tula Oblast,40
+2020-01-01,Tula Oblast,43
+2019-12-01,Tula Oblast,39
+2019-11-01,Tula Oblast,46
+2019-10-01,Tula Oblast,40
+2019-09-01,Tula Oblast,60
+2019-08-01,Tula Oblast,47
+2019-07-01,Tula Oblast,57
+2019-06-01,Tula Oblast,57
+2019-05-01,Tula Oblast,48
+2019-04-01,Tula Oblast,44
+2019-03-01,Tula Oblast,52
+2019-02-01,Tula Oblast,37
+2019-01-01,Tula Oblast,33
+2021-04-01,Volgograd Oblast,69
+2021-03-01,Volgograd Oblast,74
+2021-02-01,Volgograd Oblast,74
+2021-01-01,Volgograd Oblast,95
+2020-12-01,Volgograd Oblast,79
+2020-11-01,Volgograd Oblast,94
+2019-09-01,Kaliningrad Oblast,64
+2019-08-01,Kaliningrad Oblast,63
+2019-07-01,Kaliningrad Oblast,54
+2019-06-01,Kaliningrad Oblast,61
+2019-05-01,Kaliningrad Oblast,59
+2019-04-01,Kaliningrad Oblast,58
+2019-03-01,Kaliningrad Oblast,50
+2019-02-01,Kaliningrad Oblast,64
+2019-01-01,Kaliningrad Oblast,48
+2021-04-01,Vladimir Oblast,77
+2021-03-01,Vladimir Oblast,71
+2021-02-01,Vladimir Oblast,73
+2021-01-01,Vladimir Oblast,88
+2020-12-01,Vladimir Oblast,75
+2020-11-01,Vladimir Oblast,82
+2020-10-01,Vladimir Oblast,86
+2020-09-01,Vladimir Oblast,80
+2020-08-01,Vladimir Oblast,81
+2020-07-01,Vladimir Oblast,89
+2020-06-01,Vladimir Oblast,90
+2020-05-01,Vladimir Oblast,86
+2020-04-01,Vladimir Oblast,79
+2020-03-01,Vladimir Oblast,71
+2020-02-01,Vladimir Oblast,79
+2020-01-01,Vladimir Oblast,78
+2019-12-01,Vladimir Oblast,69
+2019-11-01,Vladimir Oblast,60
+2019-10-01,Vladimir Oblast,62
+2019-09-01,Vladimir Oblast,41
+2019-08-01,Vladimir Oblast,68
+2019-07-01,Vladimir Oblast,65
+2019-06-01,Vladimir Oblast,69
+2019-05-01,Vladimir Oblast,53
+2019-04-01,Vladimir Oblast,51
+2019-03-01,Vladimir Oblast,63
+2019-02-01,Vladimir Oblast,63
+2019-01-01,Vladimir Oblast,52
+2021-04-01,Khabarovsk Krai,64
+2021-03-01,Khabarovsk Krai,59
+2021-02-01,Khabarovsk Krai,55
+2021-01-01,Khabarovsk Krai,65
+2020-12-01,Khabarovsk Krai,54
+2020-11-01,Khabarovsk Krai,55
+2020-10-01,Khabarovsk Krai,63
+2020-09-01,Khabarovsk Krai,63
+2020-08-01,Khabarovsk Krai,64
+2020-07-01,Khabarovsk Krai,63
+2020-06-01,Khabarovsk Krai,63
+2020-05-01,Khabarovsk Krai,57
+2020-04-01,Khabarovsk Krai,61
+2020-03-01,Khabarovsk Krai,52
+2020-02-01,Khabarovsk Krai,59
+2020-01-01,Khabarovsk Krai,55
+2019-12-01,Khabarovsk Krai,58
+2019-11-01,Khabarovsk Krai,54
+2019-10-01,Khabarovsk Krai,51
+2019-09-01,Khabarovsk Krai,54
+2019-08-01,Khabarovsk Krai,68
+2019-07-01,Khabarovsk Krai,60
+2019-06-01,Khabarovsk Krai,61
+2019-05-01,Khabarovsk Krai,52
+2019-04-01,Khabarovsk Krai,43
+2019-03-01,Khabarovsk Krai,65
+2019-02-01,Khabarovsk Krai,63
+2019-01-01,Khabarovsk Krai,55
+2021-04-01,Republic of Ingushetia,0
+2021-03-01,Republic of Ingushetia,43
+2021-02-01,Republic of Ingushetia,42
+2021-01-01,Republic of Ingushetia,17
+2020-12-01,Republic of Ingushetia,25
+2020-11-01,Republic of Ingushetia,21
+2020-10-01,Republic of Ingushetia,0
+2020-09-01,Republic of Ingushetia,0
+2020-08-01,Republic of Ingushetia,7
+2020-07-01,Republic of Ingushetia,11
+2020-06-01,Republic of Ingushetia,17
+2020-05-01,Republic of Ingushetia,0
+2020-04-01,Republic of Ingushetia,0
+2020-03-01,Republic of Ingushetia,0
+2020-02-01,Republic of Ingushetia,5
+2020-01-01,Republic of Ingushetia,0
+2019-12-01,Republic of Ingushetia,0
+2019-11-01,Republic of Ingushetia,0
+2019-10-01,Republic of Ingushetia,0
+2019-09-01,Republic of Ingushetia,0
+2019-08-01,Republic of Ingushetia,0
+2020-10-01,Volgograd Oblast,98
+2020-09-01,Volgograd Oblast,99
+2020-08-01,Volgograd Oblast,96
+2020-07-01,Volgograd Oblast,88
+2020-06-01,Volgograd Oblast,95
+2020-05-01,Volgograd Oblast,88
+2020-04-01,Volgograd Oblast,84
+2020-03-01,Volgograd Oblast,91
+2020-02-01,Volgograd Oblast,74
+2020-01-01,Volgograd Oblast,105
+2019-12-01,Volgograd Oblast,84
+2019-11-01,Volgograd Oblast,76
+2019-10-01,Volgograd Oblast,83
+2019-09-01,Volgograd Oblast,84
+2019-08-01,Volgograd Oblast,82
+2019-07-01,Volgograd Oblast,69
+2019-06-01,Volgograd Oblast,76
+2019-05-01,Volgograd Oblast,59
+2019-04-01,Volgograd Oblast,62
+2019-03-01,Volgograd Oblast,66
+2019-02-01,Volgograd Oblast,61
+2019-01-01,Volgograd Oblast,58
+2021-04-01,Krasnoyarsk Krai,40
+2021-03-01,Krasnoyarsk Krai,42
+2021-02-01,Krasnoyarsk Krai,47
+2021-01-01,Krasnoyarsk Krai,53
+2020-12-01,Krasnoyarsk Krai,40
+2020-11-01,Krasnoyarsk Krai,46
+2020-10-01,Krasnoyarsk Krai,44
+2020-09-01,Krasnoyarsk Krai,47
+2020-08-01,Krasnoyarsk Krai,53
+2020-07-01,Krasnoyarsk Krai,52
+2020-06-01,Krasnoyarsk Krai,49
+2020-03-01,Chuvash Republic — Chuvashia,65
+2020-02-01,Chuvash Republic — Chuvashia,63
+2020-01-01,Chuvash Republic — Chuvashia,58
+2019-12-01,Chuvash Republic — Chuvashia,52
+2019-11-01,Chuvash Republic — Chuvashia,60
+2019-10-01,Chuvash Republic — Chuvashia,71
+2019-09-01,Chuvash Republic — Chuvashia,68
+2019-08-01,Chuvash Republic — Chuvashia,71
+2019-07-01,Chuvash Republic — Chuvashia,77
+2019-06-01,Chuvash Republic — Chuvashia,63
+2019-05-01,Chuvash Republic — Chuvashia,57
+2019-04-01,Chuvash Republic — Chuvashia,56
+2019-03-01,Chuvash Republic — Chuvashia,72
+2019-02-01,Chuvash Republic — Chuvashia,62
+2019-01-01,Chuvash Republic — Chuvashia,66
+2021-04-01,Yaroslavl Oblast,60
+2021-03-01,Yaroslavl Oblast,54
+2021-02-01,Yaroslavl Oblast,72
+2021-01-01,Yaroslavl Oblast,72
+2020-12-01,Yaroslavl Oblast,67
+2020-11-01,Yaroslavl Oblast,66
+2020-10-01,Yaroslavl Oblast,65
+2020-09-01,Yaroslavl Oblast,65
+2020-08-01,Yaroslavl Oblast,71
+2020-07-01,Yaroslavl Oblast,69
+2020-06-01,Yaroslavl Oblast,68
+2020-05-01,Yaroslavl Oblast,71
+2020-04-01,Yaroslavl Oblast,49
+2020-03-01,Yaroslavl Oblast,59
+2020-02-01,Yaroslavl Oblast,49
+2020-01-01,Yaroslavl Oblast,60
+2019-12-01,Yaroslavl Oblast,49
+2019-11-01,Yaroslavl Oblast,55
+2019-10-01,Yaroslavl Oblast,59
+2019-09-01,Yaroslavl Oblast,60
+2019-08-01,Yaroslavl Oblast,63
+2019-07-01,Yaroslavl Oblast,72
+2019-06-01,Yaroslavl Oblast,74
+2019-05-01,Yaroslavl Oblast,60
+2019-04-01,Yaroslavl Oblast,47
+2019-03-01,Yaroslavl Oblast,70
+2019-02-01,Yaroslavl Oblast,62
+2019-01-01,Yaroslavl Oblast,61
+2021-04-01,Jewish Autonomous Oblast,65
+2021-03-01,Jewish Autonomous Oblast,59
+2021-02-01,Jewish Autonomous Oblast,86
+2021-01-01,Jewish Autonomous Oblast,85
+2020-12-01,Jewish Autonomous Oblast,32
+2020-11-01,Jewish Autonomous Oblast,91
+2020-10-01,Jewish Autonomous Oblast,89
+2020-09-01,Jewish Autonomous Oblast,64
+2020-08-01,Jewish Autonomous Oblast,86
+2020-07-01,Jewish Autonomous Oblast,73
+2020-06-01,Jewish Autonomous Oblast,50
+2020-05-01,Jewish Autonomous Oblast,125
+2020-04-01,Jewish Autonomous Oblast,93
+2020-03-01,Jewish Autonomous Oblast,76
+2020-02-01,Jewish Autonomous Oblast,64
+2020-01-01,Jewish Autonomous Oblast,79
+2019-12-01,Jewish Autonomous Oblast,56
+2019-11-01,Jewish Autonomous Oblast,36
+2019-10-01,Jewish Autonomous Oblast,114
+2019-09-01,Jewish Autonomous Oblast,87
+2019-08-01,Jewish Autonomous Oblast,71
+2019-07-01,Jewish Autonomous Oblast,68
+2019-06-01,Jewish Autonomous Oblast,85
+2019-05-01,Jewish Autonomous Oblast,63
+2019-04-01,Jewish Autonomous Oblast,93
+2019-03-01,Jewish Autonomous Oblast,45
+2019-02-01,Jewish Autonomous Oblast,80
+2019-01-01,Jewish Autonomous Oblast,55
+2021-04-01,Kemerovo Oblast,47
+2021-03-01,Kemerovo Oblast,50
+2021-02-01,Kemerovo Oblast,47
+2021-01-01,Kemerovo Oblast,57
+2020-12-01,Kemerovo Oblast,54
+2020-11-01,Kemerovo Oblast,51
+2020-10-01,Kemerovo Oblast,45
+2020-09-01,Kemerovo Oblast,58
+2020-08-01,Kemerovo Oblast,57
+2020-07-01,Kemerovo Oblast,58
+2020-06-01,Kemerovo Oblast,50
+2020-05-01,Kemerovo Oblast,50
+2020-04-01,Kemerovo Oblast,51
+2020-03-01,Kemerovo Oblast,49
+2020-02-01,Kemerovo Oblast,53
+2020-01-01,Kemerovo Oblast,63
+2019-12-01,Kemerovo Oblast,52
+2019-11-01,Kemerovo Oblast,54
+2019-10-01,Kemerovo Oblast,52
+2019-09-01,Kemerovo Oblast,51
+2019-08-01,Kemerovo Oblast,55
+2019-07-01,Kemerovo Oblast,62
+2019-06-01,Kemerovo Oblast,64
+2019-05-01,Kemerovo Oblast,61
+2019-04-01,Kemerovo Oblast,49
+2019-03-01,Kemerovo Oblast,58
+2019-02-01,Kemerovo Oblast,49
+2019-01-01,Kemerovo Oblast,64
+2021-04-01,Karachay-Cherkess Republic,39
+2021-03-01,Karachay-Cherkess Republic,25
+2021-02-01,Karachay-Cherkess Republic,31
+2021-01-01,Karachay-Cherkess Republic,34
+2020-12-01,Karachay-Cherkess Republic,23
+2020-11-01,Karachay-Cherkess Republic,40
+2020-10-01,Karachay-Cherkess Republic,17
+2020-09-01,Karachay-Cherkess Republic,28
+2020-08-01,Karachay-Cherkess Republic,20
+2020-07-01,Karachay-Cherkess Republic,49
+2020-06-01,Karachay-Cherkess Republic,58
+2020-05-01,Karachay-Cherkess Republic,51
+2020-04-01,Karachay-Cherkess Republic,15
+2020-03-01,Karachay-Cherkess Republic,21
+2020-02-01,Karachay-Cherkess Republic,20
+2020-01-01,Karachay-Cherkess Republic,19
+2019-12-01,Karachay-Cherkess Republic,26
+2019-11-01,Karachay-Cherkess Republic,69
+2019-10-01,Karachay-Cherkess Republic,67
+2019-09-01,Karachay-Cherkess Republic,33
+2019-08-01,Karachay-Cherkess Republic,17
+2019-07-01,Karachay-Cherkess Republic,14
+2019-05-01,Karachay-Cherkess Republic,20
+2019-04-01,Karachay-Cherkess Republic,36
+2019-03-01,Karachay-Cherkess Republic,62
+2019-02-01,Karachay-Cherkess Republic,123
+2019-01-01,Karachay-Cherkess Republic,116
+2021-04-01,Perm Krai,43
+2021-03-01,Perm Krai,48
+2021-02-01,Perm Krai,45
+2021-01-01,Perm Krai,52
+2020-12-01,Perm Krai,47
+2020-11-01,Perm Krai,54
+2020-10-01,Perm Krai,52
+2020-09-01,Perm Krai,54
+2020-08-01,Perm Krai,53
+2020-07-01,Perm Krai,52
+2020-06-01,Perm Krai,57
+2020-05-01,Perm Krai,59
+2020-04-01,Perm Krai,46
+2020-03-01,Perm Krai,51
+2020-02-01,Perm Krai,46
+2020-01-01,Perm Krai,56
+2019-12-01,Perm Krai,47
+2019-11-01,Perm Krai,52
+2019-10-01,Perm Krai,45
+2019-09-01,Perm Krai,50
+2019-08-01,Perm Krai,63
+2019-07-01,Perm Krai,59
+2019-06-01,Perm Krai,57
+2019-05-01,Perm Krai,51
+2019-04-01,Perm Krai,47
+2019-03-01,Perm Krai,52
+2019-02-01,Perm Krai,54
+2019-01-01,Perm Krai,59
+2021-04-01,Irkutsk Oblast,40
+2021-03-01,Irkutsk Oblast,39
+2021-02-01,Irkutsk Oblast,40
+2021-01-01,Irkutsk Oblast,45
+2020-12-01,Irkutsk Oblast,41
+2020-11-01,Irkutsk Oblast,49
+2020-10-01,Irkutsk Oblast,39
+2020-09-01,Irkutsk Oblast,48
+2020-08-01,Irkutsk Oblast,49
+2020-07-01,Irkutsk Oblast,50
+2020-06-01,Irkutsk Oblast,45
+2020-05-01,Irkutsk Oblast,46
+2020-04-01,Irkutsk Oblast,45
+2020-03-01,Irkutsk Oblast,41
+2020-02-01,Irkutsk Oblast,46
+2020-01-01,Irkutsk Oblast,48
+2019-12-01,Irkutsk Oblast,47
+2019-11-01,Irkutsk Oblast,43
+2019-10-01,Irkutsk Oblast,46
+2019-09-01,Irkutsk Oblast,46
+2019-08-01,Irkutsk Oblast,48
+2019-07-01,Irkutsk Oblast,45
+2019-06-01,Irkutsk Oblast,52
+2019-05-01,Irkutsk Oblast,45
+2019-04-01,Irkutsk Oblast,47
+2019-03-01,Irkutsk Oblast,55
+2019-02-01,Irkutsk Oblast,49
+2019-01-01,Irkutsk Oblast,52
+2021-04-01,Vologda Oblast,42
+2020-03-01,Tomsk Oblast,55
+2020-02-01,Tomsk Oblast,54
+2020-01-01,Tomsk Oblast,58
+2019-12-01,Tomsk Oblast,45
+2019-11-01,Tomsk Oblast,59
+2019-10-01,Tomsk Oblast,51
+2021-03-01,Vologda Oblast,54
+2021-02-01,Vologda Oblast,57
+2021-01-01,Vologda Oblast,53
+2020-12-01,Vologda Oblast,58
+2020-11-01,Vologda Oblast,64
+2020-10-01,Vologda Oblast,62
+2020-09-01,Vologda Oblast,62
+2020-08-01,Vologda Oblast,64
+2020-07-01,Vologda Oblast,60
+2020-06-01,Vologda Oblast,48
+2020-05-01,Vologda Oblast,67
+2020-04-01,Vologda Oblast,61
+2020-03-01,Vologda Oblast,52
+2020-02-01,Vologda Oblast,58
+2020-01-01,Vologda Oblast,74
+2019-12-01,Vologda Oblast,61
+2019-11-01,Vologda Oblast,64
+2019-10-01,Vologda Oblast,62
+2019-09-01,Vologda Oblast,62
+2019-08-01,Vologda Oblast,71
+2019-07-01,Vologda Oblast,57
+2019-06-01,Vologda Oblast,56
+2019-05-01,Vologda Oblast,58
+2019-04-01,Vologda Oblast,48
+2019-03-01,Vologda Oblast,61
+2019-02-01,Vologda Oblast,58
+2019-01-01,Vologda Oblast,58
+2021-04-01,Orenburg Oblast,46
+2021-03-01,Orenburg Oblast,43
+2021-02-01,Orenburg Oblast,51
+2021-01-01,Orenburg Oblast,49
+2020-12-01,Orenburg Oblast,43
+2020-11-01,Orenburg Oblast,51
+2020-10-01,Moscow,54
+2020-09-01,Moscow,58
+2020-08-01,Moscow,63
+2020-07-01,Moscow,64
+2020-06-01,Moscow,69
+2020-05-01,Moscow,72
+2020-04-01,Moscow,51
+2020-03-01,Moscow,54
+2020-02-01,Moscow,51
+2020-01-01,Moscow,61
+2019-12-01,Moscow,50
+2019-11-01,Moscow,50
+2019-10-01,Moscow,48
+2019-09-01,Moscow,49
+2019-08-01,Moscow,55
+2019-07-01,Moscow,54
+2019-06-01,Moscow,53
+2019-05-01,Moscow,52
+2019-04-01,Moscow,45
+2019-03-01,Moscow,55
+2019-02-01,Moscow,48
+2019-01-01,Moscow,46
+2021-04-01,Penza Oblast,49
+2021-03-01,Penza Oblast,40
+2021-02-01,Penza Oblast,43
+2021-01-01,Penza Oblast,53
+2020-12-01,Penza Oblast,41
+2020-11-01,Penza Oblast,52
+2020-10-01,Penza Oblast,53
+2020-09-01,Penza Oblast,52
+2020-08-01,Penza Oblast,48
+2020-07-01,Penza Oblast,56
+2020-06-01,Penza Oblast,54
+2020-05-01,Penza Oblast,55
+2020-04-01,Penza Oblast,56
+2020-03-01,Penza Oblast,44
+2020-02-01,Penza Oblast,46
+2020-01-01,Penza Oblast,63
+2019-12-01,Penza Oblast,51
+2019-11-01,Penza Oblast,53
+2019-10-01,Penza Oblast,52
+2019-09-01,Penza Oblast,48
+2019-08-01,Penza Oblast,52
+2019-07-01,Penza Oblast,53
+2019-06-01,Penza Oblast,50
+2019-05-01,Penza Oblast,56
+2019-04-01,Penza Oblast,40
+2019-03-01,Penza Oblast,52
+2019-02-01,Penza Oblast,49
+2019-01-01,Penza Oblast,47
+2021-04-01,Novosibirsk Oblast,49
+2021-03-01,Novosibirsk Oblast,50
+2021-02-01,Novosibirsk Oblast,58
+2021-01-01,Novosibirsk Oblast,59
+2020-12-01,Novosibirsk Oblast,57
+2020-11-01,Novosibirsk Oblast,57
+2020-10-01,Novosibirsk Oblast,52
+2020-09-01,Novosibirsk Oblast,59
+2020-08-01,Novosibirsk Oblast,59
+2020-07-01,Novosibirsk Oblast,59
+2020-06-01,Novosibirsk Oblast,52
+2020-05-01,Novosibirsk Oblast,48
+2020-04-01,Novosibirsk Oblast,52
+2020-03-01,Novosibirsk Oblast,53
+2020-02-01,Novosibirsk Oblast,43
+2020-01-01,Novosibirsk Oblast,46
+2019-12-01,Novosibirsk Oblast,49
+2019-11-01,Novosibirsk Oblast,49
+2019-10-01,Novosibirsk Oblast,46
+2019-09-01,Novosibirsk Oblast,47
+2019-08-01,Novosibirsk Oblast,51
+2019-07-01,Novosibirsk Oblast,48
+2019-06-01,Novosibirsk Oblast,47
+2019-05-01,Novosibirsk Oblast,40
+2019-04-01,Novosibirsk Oblast,35
+2019-03-01,Novosibirsk Oblast,59
+2019-02-01,Novosibirsk Oblast,50
+2019-01-01,Novosibirsk Oblast,60
+2021-04-01,Oryol Oblast,46
+2021-03-01,Oryol Oblast,40
+2021-02-01,Oryol Oblast,46
+2021-01-01,Oryol Oblast,44
+2020-12-01,Oryol Oblast,55
+2020-11-01,Oryol Oblast,50
+2020-10-01,Oryol Oblast,61
+2020-09-01,Oryol Oblast,66
+2020-08-01,Oryol Oblast,58
+2020-07-01,Oryol Oblast,69
+2020-06-01,Oryol Oblast,66
+2020-05-01,Oryol Oblast,71
+2020-04-01,Oryol Oblast,75
+2020-03-01,Oryol Oblast,55
+2020-02-01,Oryol Oblast,60
+2020-01-01,Oryol Oblast,61
+2019-12-01,Oryol Oblast,46
+2019-11-01,Oryol Oblast,64
+2019-10-01,Oryol Oblast,59
+2019-09-01,Oryol Oblast,62
+2019-08-01,Oryol Oblast,60
+2019-07-01,Oryol Oblast,48
+2019-06-01,Oryol Oblast,56
+2019-05-01,Oryol Oblast,70
+2019-04-01,Oryol Oblast,39
+2019-03-01,Oryol Oblast,51
+2019-02-01,Oryol Oblast,45
+2019-01-01,Oryol Oblast,42
+2021-04-01,Republic of Tatarstan,42
+2021-03-01,Republic of Tatarstan,47
+2021-02-01,Republic of Tatarstan,48
+2021-01-01,Republic of Tatarstan,50
+2020-12-01,Republic of Tatarstan,46
+2020-11-01,Republic of Tatarstan,52
+2020-10-01,Republic of Tatarstan,49
+2020-09-01,Republic of Tatarstan,54
+2020-08-01,Republic of Tatarstan,50
+2020-07-01,Republic of Tatarstan,49
+2020-06-01,Republic of Tatarstan,49
+2020-05-01,Republic of Tatarstan,53
+2020-04-01,Republic of Tatarstan,43
+2020-03-01,Republic of Tatarstan,44
+2020-02-01,Republic of Tatarstan,45
+2020-01-01,Republic of Tatarstan,50
+2019-12-01,Republic of Tatarstan,47
+2019-11-01,Republic of Tatarstan,44
+2019-10-01,Republic of Tatarstan,49
+2019-09-01,Republic of Tatarstan,48
+2019-08-01,Republic of Tatarstan,53
+2019-07-01,Republic of Tatarstan,54
+2019-06-01,Republic of Tatarstan,46
+2019-05-01,Republic of Tatarstan,46
+2019-04-01,Republic of Tatarstan,43
+2019-03-01,Republic of Tatarstan,55
+2019-02-01,Republic of Tatarstan,54
+2019-01-01,Republic of Tatarstan,45
+2021-04-01,Khanty-Mansi Autonomous Okrug–Yugra,53
+2021-03-01,Khanty-Mansi Autonomous Okrug–Yugra,53
+2021-02-01,Khanty-Mansi Autonomous Okrug–Yugra,61
+2021-01-01,Khanty-Mansi Autonomous Okrug–Yugra,73
+2020-12-01,Khanty-Mansi Autonomous Okrug–Yugra,62
+2020-11-01,Khanty-Mansi Autonomous Okrug–Yugra,65
+2020-10-01,Khanty-Mansi Autonomous Okrug–Yugra,59
+2020-09-01,Khanty-Mansi Autonomous Okrug–Yugra,63
+2020-08-01,Khanty-Mansi Autonomous Okrug–Yugra,63
+2020-07-01,Khanty-Mansi Autonomous Okrug–Yugra,61
+2020-06-01,Khanty-Mansi Autonomous Okrug–Yugra,51
+2020-05-01,Khanty-Mansi Autonomous Okrug–Yugra,55
+2020-04-01,Khanty-Mansi Autonomous Okrug–Yugra,48
+2020-03-01,Khanty-Mansi Autonomous Okrug–Yugra,52
+2020-02-01,Khanty-Mansi Autonomous Okrug–Yugra,54
+2020-01-01,Khanty-Mansi Autonomous Okrug–Yugra,66
+2019-12-01,Khanty-Mansi Autonomous Okrug–Yugra,58
+2019-11-01,Khanty-Mansi Autonomous Okrug–Yugra,56
+2019-10-01,Khanty-Mansi Autonomous Okrug–Yugra,49
+2019-09-01,Khanty-Mansi Autonomous Okrug–Yugra,53
+2019-08-01,Khanty-Mansi Autonomous Okrug–Yugra,64
+2019-07-01,Khanty-Mansi Autonomous Okrug–Yugra,56
+2019-06-01,Khanty-Mansi Autonomous Okrug–Yugra,51
+2019-05-01,Khanty-Mansi Autonomous Okrug–Yugra,46
+2019-04-01,Khanty-Mansi Autonomous Okrug–Yugra,44
+2019-03-01,Khanty-Mansi Autonomous Okrug–Yugra,54
+2019-02-01,Khanty-Mansi Autonomous Okrug–Yugra,55
+2019-01-01,Khanty-Mansi Autonomous Okrug–Yugra,45
+2021-04-01,Kaluga Oblast,60
+2021-03-01,Kaluga Oblast,65
+2021-02-01,Kaluga Oblast,69
+2021-01-01,Kaluga Oblast,71
+2020-12-01,Kaluga Oblast,59
+2020-11-01,Kaluga Oblast,76
+2020-10-01,Kaluga Oblast,86
+2020-09-01,Kaluga Oblast,79
+2020-08-01,Kaluga Oblast,82
+2020-07-01,Kaluga Oblast,95
+2020-06-01,Kaluga Oblast,72
+2020-05-01,Kaluga Oblast,68
+2020-04-01,Kaluga Oblast,68
+2020-03-01,Kaluga Oblast,77
+2020-02-01,Kaluga Oblast,81
+2020-01-01,Kaluga Oblast,78
+2019-12-01,Kaluga Oblast,88
+2019-11-01,Kaluga Oblast,55
+2019-10-01,Kaluga Oblast,72
+2019-09-01,Kaluga Oblast,76
+2019-08-01,Kaluga Oblast,69
+2020-05-01,Krasnoyarsk Krai,49
+2020-04-01,Krasnoyarsk Krai,44
+2020-03-01,Krasnoyarsk Krai,41
+2020-02-01,Krasnoyarsk Krai,44
+2020-01-01,Krasnoyarsk Krai,51
+2019-12-01,Krasnoyarsk Krai,49
+2019-11-01,Krasnoyarsk Krai,49
+2019-10-01,Krasnoyarsk Krai,48
+2019-09-01,Krasnoyarsk Krai,50
+2019-08-01,Krasnoyarsk Krai,56
+2019-07-01,Krasnoyarsk Krai,53
+2019-06-01,Krasnoyarsk Krai,51
+2019-05-01,Krasnoyarsk Krai,47
+2019-04-01,Krasnoyarsk Krai,41
+2019-03-01,Krasnoyarsk Krai,53
+2019-02-01,Krasnoyarsk Krai,50
+2019-01-01,Krasnoyarsk Krai,58
+2021-04-01,Chuvash Republic — Chuvashia,58
+2021-03-01,Chuvash Republic — Chuvashia,58
+2021-02-01,Chuvash Republic — Chuvashia,61
+2021-01-01,Chuvash Republic — Chuvashia,64
+2020-12-01,Chuvash Republic — Chuvashia,61
+2020-11-01,Chuvash Republic — Chuvashia,63
+2020-10-01,Chuvash Republic — Chuvashia,67
+2020-09-01,Chuvash Republic — Chuvashia,65
+2020-08-01,Chuvash Republic — Chuvashia,67
+2020-07-01,Chuvash Republic — Chuvashia,68
+2020-06-01,Chuvash Republic — Chuvashia,63
+2020-05-01,Chuvash Republic — Chuvashia,62
+2020-04-01,Chuvash Republic — Chuvashia,66
+2019-07-01,Kaluga Oblast,63
+2019-06-01,Kaluga Oblast,60
+2019-05-01,Kaluga Oblast,76
+2019-04-01,Kaluga Oblast,67
+2019-03-01,Kaluga Oblast,65
+2019-02-01,Kaluga Oblast,59
+2019-01-01,Kaluga Oblast,52
+2021-04-01,Magadan Oblast,44
+2021-03-01,Magadan Oblast,34
+2021-02-01,Magadan Oblast,34
+2021-01-01,Magadan Oblast,79
+2020-12-01,Magadan Oblast,56
+2020-11-01,Magadan Oblast,42
+2020-10-01,Magadan Oblast,56
+2020-09-01,Magadan Oblast,70
+2020-08-01,Magadan Oblast,68
+2020-07-01,Magadan Oblast,58
+2020-06-01,Magadan Oblast,56
+2020-05-01,Magadan Oblast,84
+2020-04-01,Magadan Oblast,78
+2020-03-01,Magadan Oblast,94
+2020-02-01,Magadan Oblast,48
+2020-01-01,Magadan Oblast,51
+2019-12-01,Magadan Oblast,69
+2019-11-01,Magadan Oblast,73
+2019-10-01,Magadan Oblast,53
+2019-09-01,Magadan Oblast,62
+2019-08-01,Magadan Oblast,81
+2019-07-01,Magadan Oblast,39
+2019-06-01,Magadan Oblast,102
+2019-05-01,Magadan Oblast,80
+2019-04-01,Magadan Oblast,55
+2019-03-01,Magadan Oblast,60
+2020-09-01,Lipetsk Oblast,57
+2020-08-01,Lipetsk Oblast,48
+2020-07-01,Lipetsk Oblast,53
+2020-06-01,Lipetsk Oblast,57
+2020-05-01,Lipetsk Oblast,57
+2020-04-01,Lipetsk Oblast,53
+2020-03-01,Lipetsk Oblast,48
+2020-02-01,Lipetsk Oblast,54
+2020-01-01,Lipetsk Oblast,62
+2019-12-01,Lipetsk Oblast,49
+2019-11-01,Lipetsk Oblast,40
+2019-10-01,Lipetsk Oblast,53
+2019-09-01,Lipetsk Oblast,52
+2019-08-01,Lipetsk Oblast,68
+2019-07-01,Lipetsk Oblast,70
+2019-06-01,Lipetsk Oblast,79
+2019-05-01,Lipetsk Oblast,53
+2019-04-01,Lipetsk Oblast,52
+2019-03-01,Lipetsk Oblast,57
+2019-02-01,Lipetsk Oblast,54
+2019-01-01,Lipetsk Oblast,72
+2021-04-01,Republic of Mordovia,50
+2021-03-01,Republic of Mordovia,42
+2021-02-01,Republic of Mordovia,48
+2021-01-01,Republic of Mordovia,46
+2020-12-01,Republic of Mordovia,44
+2020-11-01,Republic of Mordovia,48
+2020-10-01,Republic of Mordovia,58
+2020-09-01,Republic of Mordovia,56
+2020-08-01,Republic of Mordovia,54
+2020-07-01,Republic of Mordovia,60
+2020-06-01,Republic of Mordovia,70
+2020-05-01,Republic of Mordovia,60
+2020-04-01,Republic of Mordovia,37
+2020-03-01,Republic of Mordovia,35
+2020-02-01,Republic of Mordovia,35
+2020-01-01,Republic of Mordovia,51
+2019-12-01,Republic of Mordovia,46
+2019-11-01,Republic of Mordovia,59
+2019-10-01,Republic of Mordovia,45
+2019-09-01,Republic of Mordovia,39
+2019-08-01,Republic of Mordovia,78
+2019-07-01,Republic of Mordovia,49
+2019-06-01,Republic of Mordovia,77
+2019-05-01,Republic of Mordovia,71
+2019-04-01,Republic of Mordovia,56
+2019-03-01,Republic of Mordovia,73
+2019-02-01,Republic of Mordovia,73
+2019-01-01,Republic of Mordovia,65
+2021-04-01,Yamalo-Nenets Autonomous Okrug,41
+2021-03-01,Yamalo-Nenets Autonomous Okrug,39
+2021-02-01,Yamalo-Nenets Autonomous Okrug,44
+2021-01-01,Yamalo-Nenets Autonomous Okrug,47
+2020-12-01,Yamalo-Nenets Autonomous Okrug,43
+2020-11-01,Yamalo-Nenets Autonomous Okrug,53
+2020-10-01,Yamalo-Nenets Autonomous Okrug,47
+2020-09-01,Yamalo-Nenets Autonomous Okrug,57
+2020-08-01,Yamalo-Nenets Autonomous Okrug,67
+2020-07-01,Yamalo-Nenets Autonomous Okrug,57
+2020-06-01,Yamalo-Nenets Autonomous Okrug,46
+2020-05-01,Yamalo-Nenets Autonomous Okrug,70
+2020-04-01,Yamalo-Nenets Autonomous Okrug,56
+2020-03-01,Yamalo-Nenets Autonomous Okrug,60
+2020-02-01,Yamalo-Nenets Autonomous Okrug,48
+2020-01-01,Yamalo-Nenets Autonomous Okrug,59
+2019-12-01,Yamalo-Nenets Autonomous Okrug,52
+2019-11-01,Yamalo-Nenets Autonomous Okrug,64
+2019-10-01,Yamalo-Nenets Autonomous Okrug,57
+2019-09-01,Yamalo-Nenets Autonomous Okrug,61
+2019-08-01,Yamalo-Nenets Autonomous Okrug,53
+2019-07-01,Yamalo-Nenets Autonomous Okrug,50
+2019-06-01,Yamalo-Nenets Autonomous Okrug,54
+2019-05-01,Yamalo-Nenets Autonomous Okrug,61
+2019-04-01,Yamalo-Nenets Autonomous Okrug,52
+2019-03-01,Yamalo-Nenets Autonomous Okrug,65
+2019-02-01,Yamalo-Nenets Autonomous Okrug,76
+2019-01-01,Yamalo-Nenets Autonomous Okrug,69
+2021-04-01,Belgorod Oblast,37
+2021-03-01,Belgorod Oblast,41
+2021-02-01,Belgorod Oblast,34
+2021-01-01,Belgorod Oblast,44
+2020-12-01,Belgorod Oblast,43
+2020-11-01,Belgorod Oblast,46
+2020-10-01,Belgorod Oblast,45
+2020-09-01,Belgorod Oblast,47
+2020-08-01,Belgorod Oblast,52
+2020-07-01,Belgorod Oblast,48
+2020-06-01,Belgorod Oblast,52
+2020-05-01,Belgorod Oblast,46
+2020-04-01,Belgorod Oblast,48
+2020-03-01,Belgorod Oblast,59
+2020-02-01,Belgorod Oblast,38
+2020-01-01,Belgorod Oblast,52
+2019-12-01,Belgorod Oblast,52
+2019-11-01,Belgorod Oblast,43
+2019-10-01,Belgorod Oblast,52
+2019-09-01,Belgorod Oblast,40
+2019-08-01,Belgorod Oblast,54
+2019-07-01,Belgorod Oblast,52
+2019-06-01,Belgorod Oblast,55
+2019-05-01,Belgorod Oblast,47
+2019-04-01,Belgorod Oblast,43
+2019-03-01,Belgorod Oblast,56
+2019-02-01,Belgorod Oblast,33
+2019-01-01,Belgorod Oblast,42
+2021-04-01,Nizhny Novgorod Oblast,43
+2021-03-01,Nizhny Novgorod Oblast,49
+2021-02-01,Nizhny Novgorod Oblast,50
+2021-01-01,Nizhny Novgorod Oblast,58
+2020-12-01,Nizhny Novgorod Oblast,48
+2020-11-01,Nizhny Novgorod Oblast,57
+2020-10-01,Nizhny Novgorod Oblast,61
+2020-09-01,Nizhny Novgorod Oblast,59
+2020-08-01,Nizhny Novgorod Oblast,60
+2020-07-01,Nizhny Novgorod Oblast,60
+2020-06-01,Nizhny Novgorod Oblast,62
+2020-05-01,Nizhny Novgorod Oblast,57
+2020-04-01,Nizhny Novgorod Oblast,50
+2020-03-01,Nizhny Novgorod Oblast,57
+2020-02-01,Nizhny Novgorod Oblast,55
+2020-01-01,Nizhny Novgorod Oblast,58
+2019-12-01,Nizhny Novgorod Oblast,52
+2019-11-01,Nizhny Novgorod Oblast,52
+2019-10-01,Nizhny Novgorod Oblast,54
+2019-09-01,Nizhny Novgorod Oblast,62
+2019-08-01,Nizhny Novgorod Oblast,59
+2019-07-01,Nizhny Novgorod Oblast,60
+2019-06-01,Nizhny Novgorod Oblast,55
+2019-05-01,Nizhny Novgorod Oblast,60
+2019-04-01,Nizhny Novgorod Oblast,50
+2019-03-01,Nizhny Novgorod Oblast,56
+2019-02-01,Nizhny Novgorod Oblast,56
+2019-01-01,Nizhny Novgorod Oblast,53
+2021-04-01,Republic of Kalmykia,33
+2021-03-01,Republic of Kalmykia,30
+2021-02-01,Republic of Kalmykia,43
+2021-01-01,Republic of Kalmykia,49
+2020-12-01,Republic of Kalmykia,52
+2020-11-01,Republic of Kalmykia,40
+2020-10-01,Republic of Kalmykia,48
+2020-09-01,Republic of Kalmykia,50
+2020-08-01,Republic of Kalmykia,55
+2020-07-01,Republic of Kalmykia,49
+2020-06-01,Republic of Kalmykia,71
+2020-05-01,Republic of Kalmykia,67
+2020-04-01,Republic of Kalmykia,54
+2020-03-01,Republic of Kalmykia,96
+2020-02-01,Republic of Kalmykia,52
+2020-01-01,Republic of Kalmykia,47
+2019-12-01,Republic of Kalmykia,59
+2019-11-01,Republic of Kalmykia,52
+2019-10-01,Republic of Kalmykia,80
+2019-09-01,Republic of Kalmykia,86
+2019-08-01,Republic of Kalmykia,66
+2019-07-01,Republic of Kalmykia,62
+2019-06-01,Republic of Kalmykia,57
+2019-05-01,Republic of Kalmykia,33
+2019-04-01,Republic of Kalmykia,39
+2019-03-01,Republic of Kalmykia,69
+2019-02-01,Republic of Kalmykia,25
+2019-01-01,Republic of Kalmykia,25
+2021-04-01,Kamchatka Krai,33
+2021-03-01,Kamchatka Krai,29
+2021-02-01,Kamchatka Krai,31
+2021-01-01,Kamchatka Krai,33
+2020-12-01,Kamchatka Krai,37
+2020-11-01,Kamchatka Krai,34
+2020-10-01,Kamchatka Krai,47
+2020-09-01,Kamchatka Krai,41
+2020-08-01,Kamchatka Krai,53
+2020-07-01,Kamchatka Krai,39
+2020-06-01,Kamchatka Krai,43
+2020-05-01,Kamchatka Krai,56
+2020-04-01,Kamchatka Krai,42
+2020-03-01,Kamchatka Krai,65
+2020-02-01,Kamchatka Krai,39
+2020-01-01,Kamchatka Krai,60
+2019-12-01,Kamchatka Krai,41
+2019-11-01,Kamchatka Krai,53
+2019-10-01,Kamchatka Krai,52
+2019-09-01,Kamchatka Krai,62
+2019-08-01,Kamchatka Krai,59
+2019-07-01,Kamchatka Krai,63
+2020-10-01,Orenburg Oblast,47
+2020-09-01,Orenburg Oblast,49
+2020-08-01,Orenburg Oblast,50
+2020-07-01,Orenburg Oblast,50
+2020-06-01,Orenburg Oblast,47
+2020-05-01,Orenburg Oblast,54
+2020-04-01,Orenburg Oblast,51
+2020-03-01,Orenburg Oblast,44
+2020-02-01,Orenburg Oblast,46
+2020-01-01,Orenburg Oblast,48
+2019-12-01,Orenburg Oblast,53
+2019-11-01,Orenburg Oblast,59
+2019-10-01,Orenburg Oblast,42
+2019-09-01,Orenburg Oblast,49
+2019-08-01,Orenburg Oblast,54
+2019-07-01,Orenburg Oblast,54
+2019-06-01,Orenburg Oblast,58
+2019-05-01,Orenburg Oblast,58
+2019-04-01,Orenburg Oblast,47
+2019-03-01,Orenburg Oblast,51
+2019-02-01,Orenburg Oblast,57
+2019-01-01,Orenburg Oblast,54
+2021-04-01,Republic of Tuva,31
+2021-03-01,Republic of Tuva,32
+2021-02-01,Republic of Tuva,26
+2021-01-01,Republic of Tuva,41
+2020-12-01,Republic of Tuva,47
+2020-11-01,Republic of Tuva,66
+2020-10-01,Republic of Tuva,38
+2020-09-01,Republic of Tuva,41
+2020-08-01,Republic of Tuva,33
+2020-07-01,Republic of Tuva,36
+2020-06-01,Republic of Tuva,28
+2020-05-01,Republic of Tuva,32
+2020-04-01,Republic of Tuva,38
+2020-03-01,Republic of Tuva,27
+2020-02-01,Republic of Tuva,34
+2020-01-01,Republic of Tuva,66
+2019-12-01,Republic of Tuva,51
+2019-11-01,Republic of Tuva,81
+2019-10-01,Republic of Tuva,20
+2019-09-01,Republic of Tuva,38
+2019-08-01,Republic of Tuva,51
+2019-07-01,Republic of Tuva,24
+2019-06-01,Republic of Tuva,69
+2019-05-01,Republic of Tuva,35
+2019-04-01,Republic of Tuva,70
+2019-03-01,Republic of Tuva,150
+2019-02-01,Republic of Tuva,56
+2019-01-01,Republic of Tuva,85
+2021-04-01,Moscow,50
+2021-03-01,Moscow,50
+2021-02-01,Moscow,52
+2021-01-01,Moscow,56
+2020-12-01,Moscow,45
+2020-11-01,Moscow,49
+2019-06-01,Kamchatka Krai,46
+2019-05-01,Kamchatka Krai,48
+2019-04-01,Kamchatka Krai,52
+2019-03-01,Kamchatka Krai,67
+2019-02-01,Kamchatka Krai,59
+2019-01-01,Kamchatka Krai,65
+2021-04-01,Sverdlovsk Oblast,53
+2021-03-01,Sverdlovsk Oblast,61
+2021-02-01,Sverdlovsk Oblast,61
+2021-01-01,Sverdlovsk Oblast,76
+2020-12-01,Sverdlovsk Oblast,63
+2020-11-01,Sverdlovsk Oblast,65
+2020-10-01,Sverdlovsk Oblast,65
+2020-09-01,Sverdlovsk Oblast,67
+2020-08-01,Sverdlovsk Oblast,66
+2020-07-01,Sverdlovsk Oblast,67
+2020-06-01,Sverdlovsk Oblast,63
+2020-05-01,Sverdlovsk Oblast,66
+2020-04-01,Sverdlovsk Oblast,61
+2020-03-01,Sverdlovsk Oblast,54
+2020-02-01,Sverdlovsk Oblast,57
+2020-01-01,Sverdlovsk Oblast,64
+2019-12-01,Sverdlovsk Oblast,56
+2019-11-01,Sverdlovsk Oblast,56
+2019-10-01,Sverdlovsk Oblast,57
+2019-09-01,Sverdlovsk Oblast,61
+2019-08-01,Sverdlovsk Oblast,60
+2019-07-01,Sverdlovsk Oblast,61
+2019-06-01,Sverdlovsk Oblast,54
+2019-05-01,Sverdlovsk Oblast,56
+2019-04-01,Sverdlovsk Oblast,56
+2019-03-01,Sverdlovsk Oblast,67
+2019-02-01,Sverdlovsk Oblast,71
+2020-10-01,Republic of Karelia,49
+2020-09-01,Republic of Karelia,65
+2020-08-01,Republic of Karelia,51
+2020-07-01,Republic of Karelia,50
+2020-06-01,Republic of Karelia,52
+2020-05-01,Republic of Karelia,59
+2020-04-01,Republic of Karelia,53
+2020-03-01,Republic of Karelia,63
+2020-02-01,Republic of Karelia,56
+2020-01-01,Republic of Karelia,55
+2019-12-01,Republic of Karelia,59
+2019-11-01,Republic of Karelia,48
+2019-10-01,Republic of Karelia,68
+2019-09-01,Republic of Karelia,64
+2019-08-01,Republic of Karelia,55
+2019-07-01,Republic of Karelia,45
+2019-06-01,Republic of Karelia,56
+2019-05-01,Republic of Karelia,60
+2019-04-01,Republic of Karelia,51
+2019-03-01,Republic of Karelia,60
+2019-02-01,Republic of Karelia,68
+2019-01-01,Republic of Karelia,48
+2021-04-01,Kabardino-Balkarian Republic,17
+2021-03-01,Kabardino-Balkarian Republic,27
+2021-02-01,Kabardino-Balkarian Republic,29
+2021-01-01,Kabardino-Balkarian Republic,30
+2020-12-01,Kabardino-Balkarian Republic,26
+2020-11-01,Kabardino-Balkarian Republic,21
+2020-10-01,Kabardino-Balkarian Republic,23
+2020-09-01,Kabardino-Balkarian Republic,19
+2020-08-01,Kabardino-Balkarian Republic,27
+2020-07-01,Kabardino-Balkarian Republic,39
+2020-06-01,Kabardino-Balkarian Republic,25
+2020-05-01,Kabardino-Balkarian Republic,28
+2020-04-01,Kabardino-Balkarian Republic,94
+2020-03-01,Kabardino-Balkarian Republic,35
+2020-02-01,Kabardino-Balkarian Republic,21
+2020-01-01,Kabardino-Balkarian Republic,30
+2019-12-01,Kabardino-Balkarian Republic,13
+2019-11-01,Kabardino-Balkarian Republic,49
+2019-10-01,Kabardino-Balkarian Republic,79
+2019-09-01,Kabardino-Balkarian Republic,28
+2019-08-01,Kabardino-Balkarian Republic,22
+2019-07-01,Kabardino-Balkarian Republic,18
+2019-06-01,Kabardino-Balkarian Republic,29
+2019-05-01,Kabardino-Balkarian Republic,26
+2019-04-01,Kabardino-Balkarian Republic,34
+2019-03-01,Kabardino-Balkarian Republic,17
+2019-02-01,Kabardino-Balkarian Republic,14
+2019-01-01,Kabardino-Balkarian Republic,8
+2021-04-01,Bryansk Oblast,43
+2021-03-01,Bryansk Oblast,49
+2021-02-01,Bryansk Oblast,65
+2021-01-01,Bryansk Oblast,68
+2020-12-01,Bryansk Oblast,62
+2020-11-01,Bryansk Oblast,62
+2020-10-01,Bryansk Oblast,60
+2020-09-01,Bryansk Oblast,72
+2020-08-01,Bryansk Oblast,59
+2020-07-01,Bryansk Oblast,66
+2020-06-01,Bryansk Oblast,66
+2020-05-01,Bryansk Oblast,68
+2020-04-01,Bryansk Oblast,60
+2020-03-01,Bryansk Oblast,50
+2020-02-01,Bryansk Oblast,68
+2020-01-01,Bryansk Oblast,72
+2019-12-01,Bryansk Oblast,66
+2019-11-01,Bryansk Oblast,55
+2019-10-01,Bryansk Oblast,74
+2019-09-01,Bryansk Oblast,65
+2019-08-01,Bryansk Oblast,66
+2019-07-01,Bryansk Oblast,63
+2019-06-01,Bryansk Oblast,78
+2019-05-01,Bryansk Oblast,60
+2019-04-01,Bryansk Oblast,57
+2019-03-01,Bryansk Oblast,67
+2019-02-01,Bryansk Oblast,56
+2019-01-01,Bryansk Oblast,99
+2021-04-01,Sakhalin Oblast,48
+2021-03-01,Sakhalin Oblast,46
+2021-02-01,Sakhalin Oblast,53
+2021-01-01,Sakhalin Oblast,38
+2020-12-01,Sakhalin Oblast,38
+2020-11-01,Sakhalin Oblast,55
+2020-10-01,Sakhalin Oblast,41
+2020-09-01,Sakhalin Oblast,42
+2020-08-01,Sakhalin Oblast,38
+2020-07-01,Sakhalin Oblast,46
+2020-06-01,Sakhalin Oblast,72
+2020-05-01,Sakhalin Oblast,61
+2020-04-01,Sakhalin Oblast,76
+2020-03-01,Sakhalin Oblast,77
+2020-02-01,Sakhalin Oblast,51
+2020-01-01,Sakhalin Oblast,67
+2019-12-01,Sakhalin Oblast,53
+2019-11-01,Sakhalin Oblast,74
+2019-10-01,Sakhalin Oblast,52
+2019-09-01,Sakhalin Oblast,43
+2019-08-01,Sakhalin Oblast,51
+2019-07-01,Sakhalin Oblast,67
+2019-06-01,Sakhalin Oblast,44
+2019-05-01,Sakhalin Oblast,48
+2019-04-01,Sakhalin Oblast,45
+2019-03-01,Sakhalin Oblast,49
+2019-02-01,Sakhalin Oblast,60
+2019-01-01,Sakhalin Oblast,46
+2021-04-01,Republic of Khakassia,44
+2021-03-01,Republic of Khakassia,41
+2021-02-01,Republic of Khakassia,48
+2021-01-01,Republic of Khakassia,49
+2020-12-01,Republic of Khakassia,48
+2020-11-01,Republic of Khakassia,49
+2020-10-01,Republic of Khakassia,48
+2020-09-01,Republic of Khakassia,45
+2020-08-01,Republic of Khakassia,52
+2020-07-01,Republic of Khakassia,46
+2020-06-01,Republic of Khakassia,36
+2020-05-01,Republic of Khakassia,62
+2020-04-01,Republic of Khakassia,48
+2020-03-01,Republic of Khakassia,40
+2020-02-01,Republic of Khakassia,44
+2020-01-01,Republic of Khakassia,72
+2019-12-01,Republic of Khakassia,39
+2019-11-01,Republic of Khakassia,53
+2019-10-01,Republic of Khakassia,47
+2019-09-01,Republic of Khakassia,47
+2019-08-01,Republic of Khakassia,55
+2019-07-01,Republic of Khakassia,48
+2019-06-01,Republic of Khakassia,52
+2019-05-01,Republic of Khakassia,56
+2019-04-01,Republic of Khakassia,65
+2019-03-01,Republic of Khakassia,65
+2019-02-01,Republic of Khakassia,45
+2019-01-01,Republic of Khakassia,62
+2021-04-01,Mari El Republic,53
+2021-03-01,Mari El Republic,59
+2021-02-01,Mari El Republic,59
+2021-01-01,Mari El Republic,51
+2020-12-01,Mari El Republic,44
+2020-11-01,Mari El Republic,46
+2020-10-01,Mari El Republic,57
+2020-09-01,Mari El Republic,41
+2020-08-01,Mari El Republic,52
+2020-07-01,Mari El Republic,58
+2020-06-01,Mari El Republic,52
+2020-05-01,Mari El Republic,61
+2020-04-01,Mari El Republic,24
+2020-03-01,Mari El Republic,45
+2020-02-01,Mari El Republic,50
+2020-01-01,Mari El Republic,60
+2019-12-01,Mari El Republic,55
+2019-11-01,Mari El Republic,49
+2019-10-01,Mari El Republic,45
+2019-09-01,Mari El Republic,47
+2019-08-01,Mari El Republic,60
+2019-07-01,Mari El Republic,62
+2019-06-01,Mari El Republic,74
+2019-05-01,Mari El Republic,52
+2019-04-01,Mari El Republic,52
+2019-03-01,Mari El Republic,61
+2019-02-01,Mari El Republic,72
+2019-01-01,Mari El Republic,58
+2021-04-01,Ivanovo Oblast,45
+2021-03-01,Ivanovo Oblast,38
+2021-02-01,Ivanovo Oblast,51
+2021-01-01,Ivanovo Oblast,51
+2020-12-01,Ivanovo Oblast,43
+2020-11-01,Ivanovo Oblast,51
+2020-10-01,Ivanovo Oblast,57
+2020-09-01,Ivanovo Oblast,57
+2020-08-01,Ivanovo Oblast,61
+2020-07-01,Ivanovo Oblast,70
+2020-06-01,Ivanovo Oblast,65
+2020-05-01,Ivanovo Oblast,69
+2020-04-01,Ivanovo Oblast,49
+2020-03-01,Ivanovo Oblast,56
+2020-02-01,Ivanovo Oblast,53
+2020-01-01,Ivanovo Oblast,67
+2019-12-01,Ivanovo Oblast,49
+2019-11-01,Ivanovo Oblast,61
+2019-10-01,Ivanovo Oblast,55
+2019-09-01,Ivanovo Oblast,56
+2019-08-01,Ivanovo Oblast,55
+2019-02-01,Magadan Oblast,95
+2019-01-01,Magadan Oblast,47
+2021-04-01,Lipetsk Oblast,33
+2021-03-01,Lipetsk Oblast,36
+2021-02-01,Lipetsk Oblast,37
+2021-01-01,Lipetsk Oblast,49
+2020-12-01,Lipetsk Oblast,50
+2020-11-01,Lipetsk Oblast,48
+2020-10-01,Lipetsk Oblast,52
+2019-07-01,Ivanovo Oblast,64
+2019-06-01,Ivanovo Oblast,52
+2019-05-01,Ivanovo Oblast,46
+2019-04-01,Ivanovo Oblast,55
+2019-03-01,Ivanovo Oblast,54
+2019-02-01,Ivanovo Oblast,58
+2019-01-01,Ivanovo Oblast,54
+2021-04-01,Tyumen Oblast,92
+2021-02-01,Samara Oblast,50
+2021-01-01,Samara Oblast,53
+2020-12-01,Samara Oblast,49
+2020-11-01,Samara Oblast,53
+2020-10-01,Samara Oblast,54
+2020-09-01,Samara Oblast,55
+2020-08-01,Samara Oblast,56
+2020-07-01,Samara Oblast,62
+2020-06-01,Samara Oblast,50
+2020-05-01,Samara Oblast,52
+2020-04-01,Samara Oblast,60
+2020-03-01,Samara Oblast,47
+2020-02-01,Samara Oblast,50
+2020-01-01,Samara Oblast,53
+2019-12-01,Samara Oblast,48
+2019-11-01,Samara Oblast,51
+2019-10-01,Samara Oblast,52
+2019-09-01,Samara Oblast,56
+2019-08-01,Samara Oblast,52
+2019-07-01,Samara Oblast,62
+2019-06-01,Samara Oblast,56
+2019-05-01,Samara Oblast,48
+2019-04-01,Samara Oblast,57
+2019-03-01,Samara Oblast,59
+2019-02-01,Samara Oblast,66
+2019-01-01,Samara Oblast,65
+2021-04-01,Krasnodar Krai,39
+2021-03-01,Krasnodar Krai,44
+2021-02-01,Krasnodar Krai,40
+2021-01-01,Krasnodar Krai,52
+2020-12-01,Krasnodar Krai,52
+2020-11-01,Krasnodar Krai,50
+2020-10-01,Krasnodar Krai,49
+2020-09-01,Krasnodar Krai,55
+2020-08-01,Krasnodar Krai,48
+2020-07-01,Krasnodar Krai,45
+2020-06-01,Krasnodar Krai,45
+2020-05-01,Krasnodar Krai,49
+2020-04-01,Krasnodar Krai,39
+2020-03-01,Krasnodar Krai,41
+2020-02-01,Krasnodar Krai,48
+2020-01-01,Krasnodar Krai,52
+2019-12-01,Krasnodar Krai,49
+2019-11-01,Krasnodar Krai,45
+2019-10-01,Krasnodar Krai,46
+2019-09-01,Krasnodar Krai,51
+2019-08-01,Krasnodar Krai,54
+2019-07-01,Krasnodar Krai,54
+2019-06-01,Krasnodar Krai,48
+2019-05-01,Krasnodar Krai,55
+2019-04-01,Krasnodar Krai,54
+2019-03-01,Krasnodar Krai,51
+2019-02-01,Krasnodar Krai,40
+2019-01-01,Krasnodar Krai,52
+2021-04-01,Pskov Oblast,39
+2021-03-01,Pskov Oblast,43
+2021-02-01,Pskov Oblast,50
+2021-01-01,Pskov Oblast,73
+2020-12-01,Pskov Oblast,50
+2020-11-01,Pskov Oblast,59
+2020-10-01,Pskov Oblast,52
+2020-09-01,Pskov Oblast,55
+2020-08-01,Pskov Oblast,55
+2020-07-01,Pskov Oblast,71
+2020-06-01,Pskov Oblast,55
+2020-05-01,Pskov Oblast,49
+2020-04-01,Pskov Oblast,89
+2020-03-01,Pskov Oblast,42
+2020-02-01,Pskov Oblast,59
+2020-01-01,Pskov Oblast,69
+2019-12-01,Pskov Oblast,39
+2019-11-01,Pskov Oblast,44
+2019-10-01,Pskov Oblast,47
+2019-09-01,Pskov Oblast,67
+2019-08-01,Pskov Oblast,51
+2019-07-01,Pskov Oblast,73
+2019-06-01,Pskov Oblast,59
+2019-05-01,Pskov Oblast,48
+2019-04-01,Pskov Oblast,39
+2019-03-01,Pskov Oblast,69
+2019-02-01,Pskov Oblast,65
+2019-01-01,Pskov Oblast,72
+2021-04-01,Zabaykalsky Krai,38
+2021-03-01,Zabaykalsky Krai,46
+2021-02-01,Zabaykalsky Krai,45
+2021-01-01,Zabaykalsky Krai,50
+2020-12-01,Zabaykalsky Krai,61
+2020-11-01,Zabaykalsky Krai,57
+2020-10-01,Zabaykalsky Krai,57
+2020-09-01,Zabaykalsky Krai,56
+2020-08-01,Zabaykalsky Krai,55
+2020-07-01,Zabaykalsky Krai,50
+2020-06-01,Zabaykalsky Krai,64
+2020-05-01,Zabaykalsky Krai,61
+2020-04-01,Zabaykalsky Krai,67
+2020-03-01,Zabaykalsky Krai,62
+2020-02-01,Zabaykalsky Krai,52
+2020-01-01,Zabaykalsky Krai,78
+2019-12-01,Zabaykalsky Krai,53
+2019-11-01,Zabaykalsky Krai,58
+2019-10-01,Zabaykalsky Krai,44
+2019-09-01,Zabaykalsky Krai,61
+2019-08-01,Zabaykalsky Krai,68
+2019-07-01,Zabaykalsky Krai,59
+2019-06-01,Zabaykalsky Krai,43
+2019-05-01,Zabaykalsky Krai,55
+2019-04-01,Zabaykalsky Krai,51
+2019-03-01,Zabaykalsky Krai,81
+2019-02-01,Zabaykalsky Krai,81
+2019-01-01,Zabaykalsky Krai,58
+2021-04-01,Novgorod Oblast,53
+2021-03-01,Novgorod Oblast,49
+2021-02-01,Novgorod Oblast,45
+2021-01-01,Novgorod Oblast,70
+2020-12-01,Novgorod Oblast,67
+2020-11-01,Novgorod Oblast,72
+2020-10-01,Novgorod Oblast,59
+2020-09-01,Novgorod Oblast,63
+2020-08-01,Novgorod Oblast,74
+2020-07-01,Novgorod Oblast,79
+2020-06-01,Novgorod Oblast,77
+2020-05-01,Novgorod Oblast,56
+2020-04-01,Novgorod Oblast,67
+2020-03-01,Novgorod Oblast,61
+2020-02-01,Novgorod Oblast,59
+2020-01-01,Novgorod Oblast,106
+2019-12-01,Novgorod Oblast,57
+2019-11-01,Novgorod Oblast,84
+2019-10-01,Novgorod Oblast,61
+2019-09-01,Novgorod Oblast,80
+2019-08-01,Novgorod Oblast,81
+2019-07-01,Novgorod Oblast,53
+2019-06-01,Novgorod Oblast,69
+2019-05-01,Novgorod Oblast,75
+2019-04-01,Novgorod Oblast,74
+2019-03-01,Novgorod Oblast,45
+2019-02-01,Novgorod Oblast,64
+2019-01-01,Novgorod Oblast,90
+2021-04-01,Kursk Oblast,35
+2021-03-01,Kursk Oblast,33
+2021-02-01,Kursk Oblast,34
+2021-01-01,Kursk Oblast,39
+2020-12-01,Kursk Oblast,41
+2020-11-01,Kursk Oblast,34
+2020-10-01,Kursk Oblast,46
+2020-09-01,Kursk Oblast,47
+2020-08-01,Kursk Oblast,50
+2020-07-01,Kursk Oblast,43
+2020-06-01,Kursk Oblast,43
+2020-05-01,Kursk Oblast,63
+2020-04-01,Kursk Oblast,44
+2020-03-01,Kursk Oblast,32
+2020-02-01,Kursk Oblast,42
+2020-01-01,Kursk Oblast,50
+2019-12-01,Kursk Oblast,37
+2019-11-01,Kursk Oblast,30
+2019-10-01,Kursk Oblast,42
+2019-09-01,Kursk Oblast,43
+2019-08-01,Kursk Oblast,47
+2019-07-01,Kursk Oblast,39
+2019-06-01,Kursk Oblast,48
+2019-05-01,Kursk Oblast,43
+2019-04-01,Kursk Oblast,48
+2019-03-01,Kursk Oblast,46
+2019-02-01,Kursk Oblast,56
+2019-01-01,Kursk Oblast,42
+2021-04-01,Primorsky Krai,41
+2021-03-01,Primorsky Krai,36
+2021-02-01,Primorsky Krai,42
+2021-01-01,Primorsky Krai,44
+2020-12-01,Primorsky Krai,39
+2020-11-01,Primorsky Krai,43
+2020-10-01,Primorsky Krai,39
+2020-09-01,Primorsky Krai,35
+2020-08-01,Primorsky Krai,49
+2020-07-01,Primorsky Krai,48
+2020-06-01,Primorsky Krai,46
+2020-05-01,Primorsky Krai,51
+2020-04-01,Primorsky Krai,54
+2020-03-01,Primorsky Krai,43
+2020-02-01,Primorsky Krai,50
+2020-01-01,Primorsky Krai,52
+2019-12-01,Primorsky Krai,52
+2019-11-01,Primorsky Krai,60
+2019-10-01,Primorsky Krai,39
+2019-09-01,Primorsky Krai,48
+2019-08-01,Primorsky Krai,66
+2019-07-01,Primorsky Krai,48
+2019-06-01,Primorsky Krai,47
+2019-05-01,Primorsky Krai,48
+2019-04-01,Primorsky Krai,42
+2019-03-01,Primorsky Krai,59
+2019-02-01,Primorsky Krai,52
+2019-01-01,Primorsky Krai,45
+2021-04-01,Rostov Oblast,40
+2021-03-01,Rostov Oblast,48
+2021-02-01,Rostov Oblast,44
+2021-01-01,Rostov Oblast,41
+2020-12-01,Rostov Oblast,42
+2020-11-01,Rostov Oblast,55
+2020-10-01,Rostov Oblast,44
+2020-09-01,Rostov Oblast,52
+2020-08-01,Rostov Oblast,46
+2020-07-01,Rostov Oblast,50
+2020-06-01,Rostov Oblast,43
+2020-05-01,Rostov Oblast,60
+2020-04-01,Rostov Oblast,41
+2020-03-01,Rostov Oblast,47
+2019-01-01,Sverdlovsk Oblast,67
+2021-04-01,Republic of Karelia,45
+2021-03-01,Republic of Karelia,46
+2021-02-01,Republic of Karelia,37
+2021-01-01,Republic of Karelia,50
+2020-12-01,Republic of Karelia,45
+2020-11-01,Republic of Karelia,44
+2021-03-01,Tyumen Oblast,99
+2021-02-01,Tyumen Oblast,102
+2021-01-01,Tyumen Oblast,111
+2020-12-01,Tyumen Oblast,103
+2020-11-01,Tyumen Oblast,114
+2020-10-01,Tyumen Oblast,110
+2020-09-01,Tyumen Oblast,110
+2020-08-01,Tyumen Oblast,102
+2020-07-01,Tyumen Oblast,97
+2020-06-01,Tyumen Oblast,96
+2020-05-01,Tyumen Oblast,88
+2020-04-01,Tyumen Oblast,97
+2020-03-01,Tyumen Oblast,94
+2020-02-01,Tyumen Oblast,90
+2020-01-01,Tyumen Oblast,94
+2019-12-01,Tyumen Oblast,94
+2019-11-01,Tyumen Oblast,89
+2019-10-01,Tyumen Oblast,86
+2019-09-01,Tyumen Oblast,80
+2019-08-01,Tyumen Oblast,82
+2019-07-01,Tyumen Oblast,82
+2019-06-01,Tyumen Oblast,88
+2019-05-01,Tyumen Oblast,74
+2019-04-01,Tyumen Oblast,58
+2019-03-01,Tyumen Oblast,70
+2019-02-01,Tyumen Oblast,56
+2019-01-01,Tyumen Oblast,46
+2021-04-01,Udmurt Republic,39
+2021-03-01,Udmurt Republic,44
+2021-02-01,Udmurt Republic,46
+2021-01-01,Udmurt Republic,49
+2020-12-01,Udmurt Republic,47
+2020-11-01,Udmurt Republic,45
+2020-10-01,Udmurt Republic,47
+2020-09-01,Udmurt Republic,50
+2020-08-01,Udmurt Republic,52
+2020-07-01,Udmurt Republic,59
+2020-06-01,Udmurt Republic,53
+2020-05-01,Udmurt Republic,57
+2020-04-01,Udmurt Republic,45
+2020-03-01,Udmurt Republic,50
+2020-02-01,Udmurt Republic,47
+2020-01-01,Udmurt Republic,58
+2019-12-01,Udmurt Republic,53
+2019-11-01,Udmurt Republic,51
+2019-10-01,Udmurt Republic,45
+2019-09-01,Udmurt Republic,40
+2019-08-01,Udmurt Republic,58
+2019-07-01,Udmurt Republic,47
+2019-06-01,Udmurt Republic,49
+2019-05-01,Udmurt Republic,51
+2019-04-01,Udmurt Republic,46
+2019-03-01,Udmurt Republic,56
+2019-02-01,Udmurt Republic,45
+2019-01-01,Udmurt Republic,56
+2021-04-01,Stavropol Krai,34
+2021-03-01,Stavropol Krai,32
+2021-02-01,Stavropol Krai,30
+2021-01-01,Stavropol Krai,39
+2020-12-01,Stavropol Krai,32
+2020-11-01,Stavropol Krai,37
+2020-10-01,Stavropol Krai,38
+2020-09-01,Stavropol Krai,34
+2020-08-01,Stavropol Krai,31
+2020-07-01,Stavropol Krai,36
+2020-06-01,Stavropol Krai,32
+2020-05-01,Stavropol Krai,38
+2020-04-01,Stavropol Krai,48
+2020-03-01,Stavropol Krai,45
+2020-02-01,Stavropol Krai,41
+2020-01-01,Stavropol Krai,48
+2019-12-01,Stavropol Krai,36
+2019-11-01,Stavropol Krai,40
+2019-10-01,Stavropol Krai,41
+2019-09-01,Stavropol Krai,49
+2019-08-01,Stavropol Krai,54
+2019-07-01,Stavropol Krai,59
+2019-06-01,Stavropol Krai,45
+2019-05-01,Stavropol Krai,54
+2019-04-01,Stavropol Krai,45
+2019-03-01,Stavropol Krai,54
+2019-02-01,Stavropol Krai,46
+2019-01-01,Stavropol Krai,65
+2021-04-01,Arkhangelsk Oblast,51
+2021-03-01,Arkhangelsk Oblast,56
+2021-02-01,Arkhangelsk Oblast,51
+2021-01-01,Arkhangelsk Oblast,63
+2020-12-01,Arkhangelsk Oblast,57
+2020-11-01,Arkhangelsk Oblast,59
+2020-10-01,Arkhangelsk Oblast,59
+2020-09-01,Arkhangelsk Oblast,61
+2020-08-01,Arkhangelsk Oblast,61
+2020-07-01,Arkhangelsk Oblast,67
+2020-06-01,Arkhangelsk Oblast,57
+2020-05-01,Arkhangelsk Oblast,57
+2020-04-01,Arkhangelsk Oblast,49
+2020-03-01,Arkhangelsk Oblast,49
+2020-02-01,Arkhangelsk Oblast,50
+2020-01-01,Arkhangelsk Oblast,49
+2019-12-01,Arkhangelsk Oblast,50
+2019-11-01,Arkhangelsk Oblast,48
+2019-10-01,Arkhangelsk Oblast,53
+2019-09-01,Arkhangelsk Oblast,47
+2019-08-01,Arkhangelsk Oblast,59
+2019-07-01,Arkhangelsk Oblast,49
+2019-06-01,Arkhangelsk Oblast,46
+2019-05-01,Arkhangelsk Oblast,62
+2019-04-01,Arkhangelsk Oblast,52
+2019-03-01,Arkhangelsk Oblast,56
+2019-02-01,Arkhangelsk Oblast,65
+2019-01-01,Arkhangelsk Oblast,53
+2021-04-01,Samara Oblast,41
+2021-03-01,Samara Oblast,46
+2020-02-01,Rostov Oblast,47
+2020-01-01,Rostov Oblast,54
+2019-12-01,Rostov Oblast,46
+2019-11-01,Rostov Oblast,36
+2019-10-01,Rostov Oblast,36
+2019-09-01,Rostov Oblast,49
+2019-08-01,Rostov Oblast,47
+2019-07-01,Rostov Oblast,58
+2019-06-01,Rostov Oblast,56
+2019-05-01,Rostov Oblast,45
+2019-04-01,Rostov Oblast,65
+2019-03-01,Rostov Oblast,67
+2019-02-01,Rostov Oblast,54
+2019-01-01,Rostov Oblast,47
+2021-04-01,Russia,48
+2021-03-01,Russia,50
+2021-02-01,Russia,51
+2021-01-01,Russia,59
+2020-12-01,Russia,53
+2020-11-01,Russia,57
+2020-10-01,Russia,57
+2020-09-01,Russia,60
+2020-08-01,Russia,60
+2020-07-01,Russia,62
+2020-06-01,Russia,60
+2020-05-01,Russia,61
+2020-04-01,Russia,55
+2020-03-01,Russia,54
+2020-02-01,Russia,55
+2020-01-01,Russia,62
+2019-12-01,Russia,54
+2019-11-01,Russia,53
+2019-10-01,Russia,53
+2019-09-01,Russia,56
+2019-08-01,Russia,60
+2019-07-01,Russia,58
+2019-06-01,Russia,57
+2019-05-01,Russia,54
+2019-04-01,Russia,51
+2019-03-01,Russia,59
+2019-02-01,Russia,56
+2019-01-01,Russia,56

@@ -9,9 +9,10 @@ SELECT column1, column2, column3, ...
 FROM table2;
 
 
-SELECT Region,
-       (SELECT Value FROM summary WHERE Date = '2021-12-31' and Region = 'City of Saint Petersburg' and Market = 'aftermarket') /
-       (SELECT Value FROM summary WHERE Date = '2021-12-01' and Region = 'City of Saint Petersburg' and Market = 'aftermarket') AS Bargaining_discount
+SELECT Region, Date,
+       (SELECT Value FROM summary WHERE Date = '2021-12-31' AND Region = 'City of Saint Petersburg' AND Market = 'aftermarket') /
+       (SELECT Value FROM summary WHERE Date = '2021-12-01' AND Region = 'City of Saint Petersburg' AND Market = 'aftermarket')
+	   AS Bargaining_discount
 FROM summary
-WHERE Region = 'City of Saint Petersburg'
+WHERE Region = 'City of Saint Petersburg' AND Date ='2021-12-31'
 LIMIT 1;
